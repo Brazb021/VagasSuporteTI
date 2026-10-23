@@ -5680,5 +5680,449 @@
         ]
       }
     ]
+  },
+  "12771850": {
+    "fonte": "html",
+    "secoes": [
+      {
+        "titulo": "Responsabilidades",
+        "blocos": [
+          {
+            "tipo": "item",
+            "texto": "Acompanhar o andamento de projetos de Redes e FHTT GEPON;"
+          },
+          {
+            "tipo": "item",
+            "texto": "Atendimento de requisições, troubleshooting de incidentes de rede."
+          },
+          {
+            "tipo": "item",
+            "texto": "Disponibilidade para participar de plantões e janelas de implantação;"
+          },
+          {
+            "tipo": "item",
+            "texto": "Suporte técnico e assistência aos outros colaboradores técnicos, quando necessário."
+          }
+        ]
+      },
+      {
+        "titulo": "Requisitos",
+        "blocos": [
+          {
+            "tipo": "item",
+            "texto": "Perfil proativo;"
+          },
+          {
+            "tipo": "item",
+            "texto": "Superior Completo"
+          },
+          {
+            "tipo": "item",
+            "texto": "Facilidade para negociação;"
+          },
+          {
+            "tipo": "item",
+            "texto": "Facilidade para trabalhar em equipe;"
+          },
+          {
+            "tipo": "item",
+            "texto": "Bom raciocínio lógico, perfil analítico;"
+          },
+          {
+            "tipo": "item",
+            "texto": "Ferramentas de monitoração de Redes PRTG;"
+          },
+          {
+            "tipo": "item",
+            "texto": "Conhecimento em Windows 10 ou Superior - LINUX;"
+          },
+          {
+            "tipo": "item",
+            "texto": "Conhecimento em Sistema de PABX em Nuvem - SIP;"
+          },
+          {
+            "tipo": "item",
+            "texto": "Documentação de procedimentos operacionais e manuais;"
+          },
+          {
+            "tipo": "item",
+            "texto": "Conhecimento de Mikrotik - PRTG - UNM2000 FIBERHOME - SSH - MICROSIP"
+          },
+          {
+            "tipo": "item",
+            "texto": "Conhecimento de Redes Wireless - Setup de SSIDS e Controladoras em Nuvem."
+          },
+          {
+            "tipo": "item",
+            "texto": "Conhecimento Nivel intermediario de Mikrotik / Cisco(Switchs) - VLANS - TCP/IP."
+          },
+          {
+            "tipo": "item",
+            "texto": "Experiência com configuração e troubleshooting em tecnologias de Routing e Switching;"
+          },
+          {
+            "tipo": "subtitulo",
+            "texto": "Obrigatório que você tenha:"
+          },
+          {
+            "tipo": "item",
+            "texto": "Obrigatório possuir CNH Categoria B"
+          }
+        ]
+      },
+      {
+        "titulo": "Informações adicionais",
+        "blocos": [
+          {
+            "tipo": "subtitulo",
+            "texto": "Nós oferecemos:"
+          },
+          {
+            "tipo": "item",
+            "texto": "Parceria com Zenklub - descontos em sessões de terapias;"
+          },
+          {
+            "tipo": "item",
+            "texto": "Parceria com Senac - descontos em cursos;"
+          },
+          {
+            "tipo": "item",
+            "texto": "Plano de Saúde com coparticipação;"
+          },
+          {
+            "tipo": "item",
+            "texto": "Plano Odontológico;"
+          },
+          {
+            "tipo": "item",
+            "texto": "Vale Transporte;"
+          },
+          {
+            "tipo": "item",
+            "texto": "Vale Refeição;"
+          },
+          {
+            "tipo": "item",
+            "texto": "Seguro de Vida."
+          }
+        ]
+      }
+    ]
+  },
+  "12061884": {
+    "fonte": "html",
+    "secoes": [
+      {
+        "titulo": "Responsabilidades",
+        "blocos": [
+          {
+            "tipo": "item",
+            "texto": "Atuar em requisições de configurações, incidentes, tarefas planejadas e problemas relacionados à segurança de rede, realizando a coleta de informações junto aos clientes ou outras equipes internas como NOC e SOC."
+          },
+          {
+            "tipo": "item",
+            "texto": "Desenvolver relatórios analíticos ou RCAs, elaborar pareceres, revisar relatórios criados por outros analistas garantindo uma comunicação clara e formal."
+          },
+          {
+            "tipo": "item",
+            "texto": "Garantir o cumprimento dos SLAs (níveis de serviço) através do atendimento, registro e resolução das solicitações, com foco principal na qualidade das entregas e satisfação dos clientes."
+          },
+          {
+            "tipo": "item",
+            "texto": "Apoiar outras equipes na implementação de novas funcionalidades, propondo melhorias em processos e práticas."
+          },
+          {
+            "tipo": "item",
+            "texto": "Elaborar verificações de rotina de segurança e saúde dos ativos, criar e manter atualizada a base de conhecimento e desenvolver documentação das atividades efetuadas."
+          },
+          {
+            "tipo": "item",
+            "texto": "Analisar e processar incidentes de segurança, decidindo sobre a melhor abordagem para a resolução."
+          },
+          {
+            "tipo": "item",
+            "texto": "Contribuir para a implementação de melhorias de segurança e processos de suporte técnico, colaborando com as equipes de Segurança e Infraestrutura."
+          },
+          {
+            "tipo": "item",
+            "texto": "Acompanhar e apoiar a equipe de suprimentos no processo de licenciamento de equipamentos."
+          }
+        ]
+      },
+      {
+        "titulo": "Requisitos",
+        "blocos": [
+          {
+            "tipo": "item",
+            "texto": "Experiência prática em segurança de redes, incluindo operação, sustentação e suporte, com domínio em"
+          },
+          {
+            "tipo": "subtitulo",
+            "texto": "ao menos duas"
+          },
+          {
+            "tipo": "texto",
+            "texto": "das seguintes soluções:"
+          },
+          {
+            "tipo": "subtitulo",
+            "texto": "Firewall, NAC, Wireless, Switch gerenciável, NDR, IPS e WAF"
+          },
+          {
+            "tipo": "texto",
+            "texto": "— preferencialmente com experiência em fabricantes como Fortinet, Palo Alto, Check Point ou Cisco. Certificações serão um diferencial."
+          },
+          {
+            "tipo": "item",
+            "texto": "Familiaridade com SD-WAN e ambientes multi-link (balanceamento, failover)."
+          },
+          {
+            "tipo": "item",
+            "texto": "Conhecimento em roteamento estático e protocolos de roteamento dinâmico como BGP e OSPF."
+          },
+          {
+            "tipo": "item",
+            "texto": "Conhecimento em protocolos e tecnologias de rede como VLANs, STP, LACP, QoS e segmentação de redes."
+          },
+          {
+            "tipo": "item",
+            "texto": "Experiência com tecnologias de VPN (IPsec e SSL) e acesso remoto seguro."
+          },
+          {
+            "tipo": "item",
+            "texto": "Experiência prática em elaboração de relatórios de segurança, documentação de procedimentos (playbooks) e criação de checklists de segurança."
+          },
+          {
+            "tipo": "item",
+            "texto": "Perfil organizado, resiliente e com mentalidade inovadora para propor melhorias contínuas."
+          },
+          {
+            "tipo": "item",
+            "texto": "Inglês com capacidade de realizar interações verbais e escrita com parceiros e clientes internacionais."
+          }
+        ]
+      },
+      {
+        "titulo": "Informações adicionais",
+        "blocos": [
+          {
+            "tipo": "subtitulo",
+            "texto": "BENEFÍCIOS DE SER VISION! 🧡"
+          },
+          {
+            "tipo": "texto",
+            "texto": "Na Vision, a segurança começa com pessoas. Por isso, sempre buscamos bem-estar, desenvolvimento e crescimento para nossos colaboradores."
+          },
+          {
+            "tipo": "subtitulo",
+            "texto": "Para sua saúde física e mental:"
+          },
+          {
+            "tipo": "texto",
+            "texto": "🩺 Plano de saúde Bradesco Top Nacional;"
+          },
+          {
+            "tipo": "texto",
+            "texto": "🦷 Plano Odontológico Odontoprev;"
+          },
+          {
+            "tipo": "texto",
+            "texto": "🌱Seguro de vida;"
+          },
+          {
+            "tipo": "texto",
+            "texto": "📱 Pipo Saúde: Corretora digital de saúde e benefícios corporativos;"
+          },
+          {
+            "tipo": "texto",
+            "texto": "🏋️‍ TotalPass: Plataforma que conecta você às diversas redes para ajudar no cuidado do seu bem-estar (e o de sua família)."
+          },
+          {
+            "tipo": "subtitulo",
+            "texto": "Para seu dia a dia:"
+          },
+          {
+            "tipo": "texto",
+            "texto": "🚌 Vale transporte;"
+          },
+          {
+            "tipo": "texto",
+            "texto": "💳Alelo Tudo: Alimentação e Refeição em um único cartão;"
+          },
+          {
+            "tipo": "texto",
+            "texto": "💰 Previdência Privada: Match em dobro, aqui a VISION contribui com você;"
+          },
+          {
+            "tipo": "texto",
+            "texto": "🎂 Dayoff de Aniversário: Que tal um vale folga no mês do aniversário?"
+          },
+          {
+            "tipo": "texto",
+            "texto": "🤝 Campanha de Indicação: Aqui sua indicação vale dinheiro;"
+          },
+          {
+            "tipo": "texto",
+            "texto": "📚 Descontos em Instituições de Ensino;"
+          },
+          {
+            "tipo": "texto",
+            "texto": "🍼 Kit Vision Baby: Porque os novos começos também merecem cuidado e celebração;"
+          },
+          {
+            "tipo": "texto",
+            "texto": "🔅 Descontos exclusivos no grupo SESC: Lazer para você e sua família;"
+          },
+          {
+            "tipo": "texto",
+            "texto": "💻Kit Boas-vindas: Preparamos um Super kit para apoiar no seu dia a dia no trabalho;"
+          },
+          {
+            "tipo": "texto",
+            "texto": "☕ Café da manhã e da tarde com frutas para os dias presenciais."
+          },
+          {
+            "tipo": "subtitulo",
+            "texto": "Para o desenvolvimento da sua carreira:"
+          },
+          {
+            "tipo": "texto",
+            "texto": "📚DeepLearning: Nossa Universidade Corporativa;"
+          },
+          {
+            "tipo": "texto",
+            "texto": "🚀 Oportunidade de crescimento profissional;"
+          },
+          {
+            "tipo": "texto",
+            "texto": "🚀 Cultura de feedback e desenvolvimento;"
+          },
+          {
+            "tipo": "texto",
+            "texto": "🚀 Programa exclusivo para lideranças;"
+          },
+          {
+            "tipo": "texto",
+            "texto": "🚀Aqui você tem um ambiente descontraído, que respira inovação; Nossa liderança é acessível! As portas estão sempre abertas e você pode encontrá-los nos corredores da empresa."
+          },
+          {
+            "tipo": "texto",
+            "texto": "Você vai se manter atualizado com novidades do mercado e estará sempre em contato com um time inovador."
+          },
+          {
+            "tipo": "texto",
+            "texto": "Tá esperando o que?"
+          },
+          {
+            "tipo": "subtitulo",
+            "texto": "#WeAreVISION"
+          }
+        ]
+      }
+    ]
+  },
+  "12733614": {
+    "fonte": "texto",
+    "secoes": [
+      {
+        "titulo": "Responsabilidades",
+        "blocos": [
+          {
+            "tipo": "item",
+            "texto": "Apoiar e acompanhar o fluxo de impressões de provas na gráfica, garantindo organização e agilidade no atendimento às solicitações."
+          },
+          {
+            "tipo": "item",
+            "texto": "Controlar e organizar informações e demandas por meio de planilhas em Excel."
+          },
+          {
+            "tipo": "item",
+            "texto": "Realizar o contato e o alinhamento de informações com as áreas internas, professores e a Diretoria de Ensino."
+          },
+          {
+            "tipo": "item",
+            "texto": "Auxiliar no acompanhamento dos prazos e na organização das demandas de impressão."
+          },
+          {
+            "tipo": "item",
+            "texto": "Manter a organização dos processos e documentos relacionados às atividades da gráfica."
+          }
+        ]
+      },
+      {
+        "titulo": "Requisitos",
+        "blocos": [
+          {
+            "tipo": "item",
+            "texto": "Ensino médio completoCurso de pacote office/Excel"
+          }
+        ]
+      },
+      {
+        "titulo": "Informações adicionais",
+        "blocos": [
+          {
+            "tipo": "item",
+            "texto": "Simpress para todos: acreditamos que o sucesso do nosso negócio está na diversidade das nossas pessoas, em suas experiências, conhecimentos, culturas, gêneros, etnias, religiões, pessoas com deficiência e todo tipo de pluralidade."
+          },
+          {
+            "tipo": "item",
+            "texto": "Todas as nossas vagas são abertas a todos e todas."
+          },
+          {
+            "tipo": "item",
+            "texto": "Você se conecta com nossa cultura?"
+          },
+          {
+            "tipo": "item",
+            "texto": "Então, vem fazer parte do nosso time de Simlovers!"
+          },
+          {
+            "tipo": "item",
+            "texto": "✨ Confira os benefícios que fazem parte dessa jornada 💰 Participação nos Resultados (PLR): Reconhecimento acima da média do mercado, valorizando as conquistas construídas juntos."
+          },
+          {
+            "tipo": "item",
+            "texto": "💙 Saúde e Bem-estar 🏥 Assistência médica e odontológica para colaboradores e dependentes"
+          },
+          {
+            "tipo": "item",
+            "texto": "📲 Telemedicina sem coparticipação"
+          },
+          {
+            "tipo": "item",
+            "texto": "🧠 Programas de Saúde Mental e Alimentação Saudável"
+          },
+          {
+            "tipo": "item",
+            "texto": "🏋️ Wellhub e TotalPass"
+          },
+          {
+            "tipo": "item",
+            "texto": "🍽️ Vale-refeição ou Alimentação"
+          },
+          {
+            "tipo": "item",
+            "texto": "🎂 Day Off de Aniversário."
+          },
+          {
+            "tipo": "item",
+            "texto": "👨‍👩‍👧 Família: Programa Empresa Cidadã, com licença-maternidade de 180 dias e licença-paternidade de 20 dias."
+          },
+          {
+            "tipo": "item",
+            "texto": "🎓 Desenvolvimento: Sim Universidade, nossa universidade corporativa com cursos e trilhas que estimulam o aprendizado contínuo e o crescimento profissional"
+          },
+          {
+            "tipo": "item",
+            "texto": "Parcerias educacionais com instituições de ensino reconhecidas."
+          },
+          {
+            "tipo": "item",
+            "texto": "🤝 Programa de Indicações: Aqui, boas indicações para trabalhar com a gente são reconhecidas."
+          }
+        ]
+      }
+    ]
   }
 }
