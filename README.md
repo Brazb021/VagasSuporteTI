@@ -10,7 +10,7 @@ O monitor em Python consulta a API pública da Gupy (e as páginas públicas do 
 
 | Este projeto |
 |---|---|---|
-| Aba principal | **Suporte de T.I** (Legalização, Societário, Paralegal, Licenças) | **Suporte T.I.** (Todas, Suporte N1, Suporte N2, Suporte Jr, Help Desk, Sem nível) |
+| Aba principal || **Suporte T.I.** (Todas, Suporte N1, Suporte N2, Suporte Jr, Help Desk, Sem nível) |
 | Segunda aba | **Vagas Gerais** (assistente, júnior, auxiliar de qualquer área) | **T.I. em Geral** (Infraestrutura, Redes, Técnico de Informática, Analista de TI, Assistente/Auxiliar) |
 | Rótulo do card | vem da busca | na aba Suporte, vem do **título**: "Analista de Suporte N2" → *Suporte N2* |
 | Filtro de cargo | só em Vagas Gerais | nas duas abas. No suporte, **N1/N2 Pleno fica**; sênior, gestão e N3 saem |
