@@ -1,16 +1,16 @@
 # 🖥️ Vagas de Suporte T.I. — Dashboard de Vagas
 
-Adaptação do [VagasLegalizacao](https://github.com/Brazb021/VagasLegalizacao) para quem procura vaga de **suporte técnico de T.I.**: N1, N2, Júnior e Help Desk / Service Desk.
+Adaptação do [MinhasVagas](https://github.com/lucsgdeo/MinhasVagas) para quem procura vaga de **suporte técnico de T.I.**: N1, N2, Júnior e Help Desk / Service Desk.
 
 O monitor em Python consulta a API pública da Gupy (e as páginas públicas do LinkedIn, InfoJobs e Catho) todo dia, guarda as vagas em `data/` e o GitHub Pages serve o dashboard.
 
 ---
 
-## 📌 O que mudou em relação ao VagasLegalizacao
+## 📌 O que mudou em relação ao **Vagas de Suporte T.I. — Dashboard de Vagas**
 
-| | VagasLegalizacao | Este projeto |
+| Este projeto |
 |---|---|---|
-| Aba principal | **Legalização** (Legalização, Societário, Paralegal, Licenças) | **Suporte T.I.** (Todas, Suporte N1, Suporte N2, Suporte Jr, Help Desk, Sem nível) |
+| Aba principal | **Suporte de T.I** (Legalização, Societário, Paralegal, Licenças) | **Suporte T.I.** (Todas, Suporte N1, Suporte N2, Suporte Jr, Help Desk, Sem nível) |
 | Segunda aba | **Vagas Gerais** (assistente, júnior, auxiliar de qualquer área) | **T.I. em Geral** (Infraestrutura, Redes, Técnico de Informática, Analista de TI, Assistente/Auxiliar) |
 | Rótulo do card | vem da busca | na aba Suporte, vem do **título**: "Analista de Suporte N2" → *Suporte N2* |
 | Filtro de cargo | só em Vagas Gerais | nas duas abas. No suporte, **N1/N2 Pleno fica**; sênior, gestão e N3 saem |
