@@ -1,67 +1,4 @@
 {
-  "12718978": {
-    "fonte": "html",
-    "secoes": [
-      {
-        "titulo": "Responsabilidades",
-        "blocos": [
-          {
-            "tipo": "subtitulo",
-            "texto": "Qual será a sua missão com a Penso?"
-          },
-          {
-            "tipo": "texto",
-            "texto": "Nossa área está focada em atuar no atendimento presencial aos usuários do cliente. Nesta oportunidade os desafios são o suporte ao usuário final e VIP's, elaboração e execução de processos e projetos pequenos."
-          },
-          {
-            "tipo": "texto",
-            "texto": "No dia a dia a pessoa técnica terá o apoio das equipes de níveis avançados e do gestor para auxiliar nas demandas de maior complexidade ou em casos de dúvidas."
-          },
-          {
-            "tipo": "texto",
-            "texto": "Quando necessario prestará suporte a segunda unidade que o cliente tem em São Paulo."
-          }
-        ]
-      },
-      {
-        "titulo": "Requisitos",
-        "blocos": [
-          {
-            "tipo": "subtitulo",
-            "texto": "O que esperamos que você traga de bagagem?"
-          },
-          {
-            "tipo": "item",
-            "texto": "Graduação, curso técnico ou tecnólogo cursando, ou completoem áreas relacionadas a T.I;"
-          },
-          {
-            "tipo": "item",
-            "texto": "Suporte ao usuário final e VIP, de forma presencial e help-desk;"
-          },
-          {
-            "tipo": "item",
-            "texto": "Elaboração e controle de documentações de T.I;"
-          },
-          {
-            "tipo": "item",
-            "texto": "Possua conhecimentos técnicos em rotinas relacionadas a hardware (ex: limpeza, troca de placas, memória);"
-          },
-          {
-            "tipo": "item",
-            "texto": "Que conheça conceitos de infraestrutura e backup;"
-          },
-          {
-            "tipo": "item",
-            "texto": "Contamos com você para melhorar o ambiente de T.I de nossos clientes, fazendo a T.I trabalhar a favor do negócio!"
-          },
-          {
-            "tipo": "item",
-            "texto": "CNH Categoria B"
-          }
-        ]
-      }
-    ]
-  },
   "12764809": {
     "fonte": "html",
     "secoes": [
@@ -1176,314 +1113,6 @@
       }
     ]
   },
-  "12733473": {
-    "fonte": "html",
-    "secoes": [
-      {
-        "titulo": "Responsabilidades",
-        "blocos": [
-          {
-            "tipo": "subtitulo",
-            "texto": "💡 Aqui, você vai:"
-          },
-          {
-            "tipo": "item",
-            "texto": "Monitorar continuamente o status dos players (terminais) e garantir a"
-          },
-          {
-            "tipo": "subtitulo",
-            "texto": "disponibilidade operacional da rede"
-          },
-          {
-            "tipo": "texto",
-            "texto": "de telas do Santander;"
-          },
-          {
-            "tipo": "item",
-            "texto": "Atuar nos"
-          },
-          {
-            "tipo": "subtitulo",
-            "texto": "chamados de Nível 1 e Nível 2"
-          },
-          {
-            "tipo": "texto",
-            "texto": ", solucionando remotamente falhas de conectividade, configuração e software;"
-          },
-          {
-            "tipo": "item",
-            "texto": "Coordenar a execução de"
-          },
-          {
-            "tipo": "subtitulo",
-            "texto": "atendimentos presenciais (N3)"
-          },
-          {
-            "tipo": "texto",
-            "texto": "junto às equipes de campo (Field Service), respeitando os prazos de SLA por região;"
-          },
-          {
-            "tipo": "item",
-            "texto": "Garantir"
-          },
-          {
-            "tipo": "subtitulo",
-            "texto": "resposta imediata aos incidentes críticos"
-          },
-          {
-            "tipo": "texto",
-            "texto": "em telas VIP, mantendo o padrão de disponibilidade exigido pelo cliente;"
-          },
-          {
-            "tipo": "item",
-            "texto": "Operar o"
-          },
-          {
-            "tipo": "subtitulo",
-            "texto": "CMS 4yousee Manager"
-          },
-          {
-            "tipo": "texto",
-            "texto": ", realizando upload, programação e curadoria de conteúdos em parceria com o time de mídia;"
-          },
-          {
-            "tipo": "item",
-            "texto": "Apoiar a padronização de fluxos e documentação técnica para o atendimento do"
-          },
-          {
-            "tipo": "subtitulo",
-            "texto": "ServiceNow Santander e HubSpot Eletromidia;"
-          },
-          {
-            "tipo": "item",
-            "texto": "Contribuir para o mapeamento e estabilidade da infraestrutura de"
-          },
-          {
-            "tipo": "subtitulo",
-            "texto": "conectividade (4G, roteadores, VPN)"
-          },
-          {
-            "tipo": "texto",
-            "texto": "e hardware;"
-          },
-          {
-            "tipo": "item",
-            "texto": "Participar de reuniões técnicas com os times do Santander e da Eletromidia, colaborando na construção da jornada de chamados e melhorias operacionais."
-          }
-        ]
-      },
-      {
-        "titulo": "Requisitos",
-        "blocos": [
-          {
-            "tipo": "subtitulo",
-            "texto": "🎯 O que esperamos de você:"
-          },
-          {
-            "tipo": "item",
-            "texto": "Formação técnica em Informática, Redes, Telecomunicações ou áreas correlatas;"
-          },
-          {
-            "tipo": "item",
-            "texto": "Experiência em suporte técnico"
-          },
-          {
-            "tipo": "subtitulo",
-            "texto": "N1/N2"
-          },
-          {
-            "tipo": "texto",
-            "texto": "com foco em análise remota e coordenação de campo;"
-          },
-          {
-            "tipo": "item",
-            "texto": "Experiência com sistemas de"
-          },
-          {
-            "tipo": "subtitulo",
-            "texto": "gestão de chamados (ex.: ServiceNow, HubSpot, Jira ou similares);"
-          },
-          {
-            "tipo": "item",
-            "texto": "Capacidade de documentação técnica e foco em processos padronizados;"
-          },
-          {
-            "tipo": "item",
-            "texto": "Boa comunicação, senso de urgência e orientação à solução."
-          },
-          {
-            "tipo": "texto",
-            "texto": "🚀"
-          },
-          {
-            "tipo": "subtitulo",
-            "texto": "Diferenciais que vão te destacar"
-          },
-          {
-            "tipo": "item",
-            "texto": "Familiaridade com"
-          },
-          {
-            "tipo": "subtitulo",
-            "texto": "sistemas de Digital Signage ou CM;"
-          },
-          {
-            "tipo": "item",
-            "texto": "Conhecimentos em"
-          },
-          {
-            "tipo": "subtitulo",
-            "texto": "redes, VPN, conectividade 4G, roteadores e diagnósticos de hardware/software"
-          },
-          {
-            "tipo": "texto",
-            "texto": "."
-          }
-        ]
-      },
-      {
-        "titulo": "Informações adicionais",
-        "blocos": [
-          {
-            "tipo": "subtitulo",
-            "texto": "✨ Os nossos benefícios são:"
-          },
-          {
-            "tipo": "item",
-            "texto": "🏥"
-          },
-          {
-            "tipo": "subtitulo",
-            "texto": "Assistência médica e odontológica:"
-          },
-          {
-            "tipo": "texto",
-            "texto": "mais cuidado e bem-estar para você viver com tranquilidade;"
-          },
-          {
-            "tipo": "item",
-            "texto": "🔐"
-          },
-          {
-            "tipo": "subtitulo",
-            "texto": "Seguro de vida:"
-          },
-          {
-            "tipo": "texto",
-            "texto": "porque o futuro também merece cuidado;"
-          },
-          {
-            "tipo": "item",
-            "texto": "🍽️"
-          },
-          {
-            "tipo": "subtitulo",
-            "texto": "Cartão flexível (Refeição/Alimentação):"
-          },
-          {
-            "tipo": "texto",
-            "texto": "escolha onde usar e aproveite cada refeição do seu jeito;"
-          },
-          {
-            "tipo": "item",
-            "texto": "🚌"
-          },
-          {
-            "tipo": "subtitulo",
-            "texto": "Vale Transporte:"
-          },
-          {
-            "tipo": "texto",
-            "texto": "mobilidade garantida para você ir e voltar com mais flexibilidade;"
-          },
-          {
-            "tipo": "item",
-            "texto": "💰"
-          },
-          {
-            "tipo": "subtitulo",
-            "texto": "PLR anual:"
-          },
-          {
-            "tipo": "texto",
-            "texto": "batemos metas juntos, comemoramos juntos;"
-          },
-          {
-            "tipo": "item",
-            "texto": "💪"
-          },
-          {
-            "tipo": "subtitulo",
-            "texto": "Total Pass:"
-          },
-          {
-            "tipo": "texto",
-            "texto": "aquele empurrãozinho para prática de atividade físicas;"
-          },
-          {
-            "tipo": "item",
-            "texto": "🎉"
-          },
-          {
-            "tipo": "subtitulo",
-            "texto": "Day Off no seu aniversário:"
-          },
-          {
-            "tipo": "texto",
-            "texto": "um presente nosso para você curtir o seu dia;"
-          },
-          {
-            "tipo": "item",
-            "texto": "🎁"
-          },
-          {
-            "tipo": "subtitulo",
-            "texto": "Sorteios de ingressos para diversas experiências:"
-          },
-          {
-            "tipo": "texto",
-            "texto": "cultura, entretenimento e lazer;"
-          },
-          {
-            "tipo": "item",
-            "texto": "📱"
-          },
-          {
-            "tipo": "subtitulo",
-            "texto": "Clube de Descontos Samsung:"
-          },
-          {
-            "tipo": "texto",
-            "texto": "parceria para aquisição de produtos eletrônicos com condições especiais para colaboradores;"
-          },
-          {
-            "tipo": "item",
-            "texto": "🎓"
-          },
-          {
-            "tipo": "subtitulo",
-            "texto": "Parcerias educacionais:"
-          },
-          {
-            "tipo": "texto",
-            "texto": "descontos exclusivos em instituições de ensino parceiras, incluindo cursos de especialização, graduação, MBA, extensão e idiomas;"
-          },
-          {
-            "tipo": "item",
-            "texto": "🏢"
-          },
-          {
-            "tipo": "subtitulo",
-            "texto": "Convênio +Sesc:"
-          },
-          {
-            "tipo": "texto",
-            "texto": "acesso a centros de lazer, atividades culturais, físicas e de entretenimento, promovendo bem-estar e qualidade de vida."
-          }
-        ]
-      }
-    ]
-  },
   "12709424": {
     "fonte": "html",
     "secoes": [
@@ -2423,830 +2052,6 @@
           {
             "tipo": "texto",
             "texto": "Por aqui a criatividade e a inovação têm cadeira cativa em nosso dia a dia. A ideia principal é pensar além, antecipar tendências e focar na experiência do usuário."
-          }
-        ]
-      }
-    ]
-  },
-  "12747418": {
-    "fonte": "html",
-    "secoes": [
-      {
-        "titulo": "Responsabilidades",
-        "blocos": [
-          {
-            "tipo": "texto",
-            "texto": "Realizar atividades de administração e sustentação da infraestrutura de servidores físicos e virtuais."
-          },
-          {
-            "tipo": "texto",
-            "texto": "Apoiar a implantação, configuração e manutenção de ambientes de virtualização, armazenamento e serviços de infraestrutura."
-          },
-          {
-            "tipo": "texto",
-            "texto": "Monitorar a disponibilidade, capacidade e desempenho dos ambientes de infraestrutura, atuando na identificação e correção de incidentes."
-          },
-          {
-            "tipo": "texto",
-            "texto": "Executar procedimentos operacionais, mudanças planejadas (RDMs) e atividades de manutenção em ambientes produtivos."
-          },
-          {
-            "tipo": "texto",
-            "texto": "Atuar no atendimento e resolução de incidentes, problemas e requisições relacionados à infraestrutura corporativa."
-          },
-          {
-            "tipo": "texto",
-            "texto": "Apoiar iniciativas de modernização tecnológica, migrações de ambientes e redução de obsolescência."
-          },
-          {
-            "tipo": "texto",
-            "texto": "Realizar acompanhamento de backups, rotinas de recuperação e validação dos serviços de infraestrutura."
-          },
-          {
-            "tipo": "texto",
-            "texto": "Apoiar a administração de serviços de autenticação, diretório corporativo e demais serviços compartilhados de infraestrutura."
-          },
-          {
-            "tipo": "texto",
-            "texto": "Elaborar e manter atualizada a documentação técnica, procedimentos operacionais e diagramas de ambiente."
-          },
-          {
-            "tipo": "texto",
-            "texto": "Interagir com fornecedores e parceiros para suporte técnico e resolução de incidentes."
-          },
-          {
-            "tipo": "texto",
-            "texto": "Participar da execução de projetos de infraestrutura e melhoria contínua dos ambientes corporativos."
-          },
-          {
-            "tipo": "texto",
-            "texto": "Atuar em regime de turno estendido, contribuindo para a redução de incidentes de ponto e aumento da confiabilidade operacional dos serviços."
-          }
-        ]
-      },
-      {
-        "titulo": "Requisitos",
-        "blocos": [
-          {
-            "tipo": "subtitulo",
-            "texto": "É essencial:"
-          },
-          {
-            "tipo": "texto",
-            "texto": "Disponibilidade para atuação no turno das 15h as 23:45"
-          },
-          {
-            "tipo": "texto",
-            "texto": "Ensino superior completo ou em andamento em Tecnologia da Informação, Ciência da Computação, Sistemas de Informação, Engenharia da Computação ou áreas correlatas."
-          },
-          {
-            "tipo": "texto",
-            "texto": "Conhecimento em sistemas operacionais Windows Server e Linux."
-          },
-          {
-            "tipo": "texto",
-            "texto": "Conhecimento em virtualização de servidores (VMware ou tecnologias similares)."
-          },
-          {
-            "tipo": "texto",
-            "texto": "Conhecimento básico em redes de computadores (TCP/IP, DNS, DHCP, VLANs e balanceamento de carga)."
-          },
-          {
-            "tipo": "texto",
-            "texto": "Conhecimento em infraestrutura de servidores, armazenamento e backup."
-          },
-          {
-            "tipo": "texto",
-            "texto": "Experiência ou vivência em atividades de sustentação de ambiente corporativo."
-          },
-          {
-            "tipo": "texto",
-            "texto": "Capacidade de análise e resolução de incidentes técnicos."
-          },
-          {
-            "tipo": "texto",
-            "texto": "Conhecimento em ferramentas de monitoramento e acompanhamento de ambientes de infraestrutura."
-          },
-          {
-            "tipo": "subtitulo",
-            "texto": "É diferencial:"
-          },
-          {
-            "tipo": "texto",
-            "texto": "Conhecimento em VMware vSphere."
-          },
-          {
-            "tipo": "texto",
-            "texto": "Conhecimento em Active Directory, GPO e serviços de autenticação."
-          },
-          {
-            "tipo": "texto",
-            "texto": "Conhecimento em balanceadores de carga (F5, NGINX ou similares)."
-          },
-          {
-            "tipo": "texto",
-            "texto": "Conhecimento em soluções de backup e recuperação de dados."
-          },
-          {
-            "tipo": "texto",
-            "texto": "Conhecimento em ambientes de storage corporativo."
-          },
-          {
-            "tipo": "texto",
-            "texto": "Conhecimento em automação utilizando PowerShell, Bash ou Python."
-          },
-          {
-            "tipo": "texto",
-            "texto": "Conhecimento em práticas de ITIL e gestão de mudanças."
-          },
-          {
-            "tipo": "texto",
-            "texto": "Certificações relacionadas à infraestrutura, virtualização ou sistemas operacionais."
-          },
-          {
-            "tipo": "texto",
-            "texto": "Vivência em ambientes de alta disponibilidade e missão crítica."
-          }
-        ]
-      },
-      {
-        "titulo": "Informações adicionais",
-        "blocos": [
-          {
-            "tipo": "texto",
-            "texto": "O QUE TAMBÉM TEMOS POR AQUI..."
-          },
-          {
-            "tipo": "texto",
-            "texto": "• Assistência Médica – se precisar é bom ter"
-          },
-          {
-            "tipo": "texto",
-            "texto": "• Assistência Odontológica – porque amamos sorrisos por aqui"
-          },
-          {
-            "tipo": "texto",
-            "texto": "• Programa Renascer – uma vida renasce a outra"
-          },
-          {
-            "tipo": "texto",
-            "texto": "• Datas Significativas – a gente ama sentir o que faz sentido"
-          },
-          {
-            "tipo": "texto",
-            "texto": "• Investimento em Educação – estamos com você na jornada do aprendizado ;)"
-          },
-          {
-            "tipo": "texto",
-            "texto": "• Participação nos Resultados – construímos juntos, celebramos juntos no dia do Perten-ser!"
-          },
-          {
-            "tipo": "texto",
-            "texto": "• Plano de Desenvolvimento Individual – valorizamos seu protagonismo de carreira"
-          },
-          {
-            "tipo": "texto",
-            "texto": "• Previdência Privada – gostamos de pensar nas possibilidades do futuro"
-          },
-          {
-            "tipo": "texto",
-            "texto": "• Seguro de Vida – importante, né! rs"
-          },
-          {
-            "tipo": "texto",
-            "texto": "• Tempo Juntos – reconhecemos quem gosta de estar conosco"
-          },
-          {
-            "tipo": "texto",
-            "texto": "• Vale Refeição e/ou Alimentação – uma delícia!"
-          },
-          {
-            "tipo": "texto",
-            "texto": "• Vale Transporte – sem descontos ? sim."
-          },
-          {
-            "tipo": "texto",
-            "texto": "• Auxílio infantil/babá – porque seu Baby merece ficar em um lugar seguro e acolhedor."
-          },
-          {
-            "tipo": "subtitulo",
-            "texto": "PRIVACIDADE E PROTEÇÃO DE DADOS"
-          },
-          {
-            "tipo": "texto",
-            "texto": "O Sistema Ailos utilizará os dados fornecidos durante sua candidatura para fins relacionados aos processos seletivos e oportunidades profissionais, inclusive por meio de plataformas parceiras de recrutamento. Caso deseje exercer seus direitos relacionados à proteção de dados pessoais ou obter mais informações sobre como tratamos seus dados, consulte nossa Declaração de Privacidade e Proteção de Dados para Candidatos e os canais de atendimento nela disponíveis."
-          },
-          {
-            "tipo": "texto",
-            "texto": "Não é necessário qualquer aceite adicional, tratando-se apenas de uma ciência sobre o tratamento dos dados necessários para a participação neste processo seletivo."
-          },
-          {
-            "tipo": "subtitulo",
-            "texto": "Juntos, transformamos vidas com segurança, transparência e respeito à sua privacidade."
-          }
-        ]
-      }
-    ]
-  },
-  "12767743": {
-    "fonte": "html",
-    "secoes": [
-      {
-        "titulo": "Responsabilidades",
-        "blocos": [
-          {
-            "tipo": "subtitulo",
-            "texto": "Missão:"
-          },
-          {
-            "tipo": "texto",
-            "texto": "Segurança da Informação Sênior para atuar na administração,"
-          },
-          {
-            "tipo": "texto",
-            "texto": "sustentação e evolução dos ambientes de segurança, com foco em soluções F5 e"
-          },
-          {
-            "tipo": "texto",
-            "texto": "Web Application Firewall (WAF)"
-          },
-          {
-            "tipo": "subtitulo",
-            "texto": "Responsabilidades"
-          },
-          {
-            "tipo": "texto",
-            "texto": ":"
-          },
-          {
-            "tipo": "texto",
-            "texto": "Administrar, configurar e manter ambientes F5 BIG-IP LTM,"
-          },
-          {
-            "tipo": "texto",
-            "texto": "DNS e ASM ."
-          },
-          {
-            "tipo": "texto",
-            "texto": "Implementar, configurar e otimizar políticas de Web"
-          },
-          {
-            "tipo": "texto",
-            "texto": "Application Firewall (WAF)."
-          },
-          {
-            "tipo": "texto",
-            "texto": "Realizar análise, tratamento e resposta a incidentes"
-          },
-          {
-            "tipo": "texto",
-            "texto": "relacionados à segurança de aplicações."
-          },
-          {
-            "tipo": "texto",
-            "texto": "Monitorar eventos de segurança, identificar vulnerabilidades"
-          },
-          {
-            "tipo": "texto",
-            "texto": "e propor melhorias."
-          },
-          {
-            "tipo": "texto",
-            "texto": "Atuar na criação e manutenção de políticas de proteção"
-          },
-          {
-            "tipo": "texto",
-            "texto": "contra-ataques como OWASP Top 10, SQL Injection, XSS, DDoS e bots."
-          },
-          {
-            "tipo": "texto",
-            "texto": "Executar troubleshooting em ambientes críticos de produção."
-          },
-          {
-            "tipo": "texto",
-            "texto": "Elaborar documentação técnica, procedimentos operacionais e"
-          },
-          {
-            "tipo": "texto",
-            "texto": "relatórios."
-          },
-          {
-            "tipo": "texto",
-            "texto": "Participar de projetos de implantação, atualização e"
-          },
-          {
-            "tipo": "texto",
-            "texto": "migração de soluções de segurança."
-          }
-        ]
-      },
-      {
-        "titulo": "Requisitos",
-        "blocos": [
-          {
-            "tipo": "texto",
-            "texto": "Tem no mínimo 3 a 4 de vivência e Experiencia em"
-          },
-          {
-            "tipo": "texto",
-            "texto": "F5 “BIGIP – LTM, DNS, APM, ASM”"
-          }
-        ]
-      },
-      {
-        "titulo": "Informações adicionais",
-        "blocos": [
-          {
-            "tipo": "subtitulo",
-            "texto": "Benefícios de um Vitalent:"
-          },
-          {
-            "tipo": "item",
-            "texto": "Vale refeição (Pluxee Benefícios);"
-          },
-          {
-            "tipo": "item",
-            "texto": "Assistência Médica e Assistência Odontológica (extensível aos dependentes);"
-          },
-          {
-            "tipo": "item",
-            "texto": "Auxílio creche;"
-          },
-          {
-            "tipo": "item",
-            "texto": "Seguro de vida;"
-          },
-          {
-            "tipo": "item",
-            "texto": "Previdência Privada;"
-          },
-          {
-            "tipo": "item",
-            "texto": "Dayoff ( 1 dia de folga dentro do mês de aniversário);"
-          },
-          {
-            "tipo": "item",
-            "texto": "Participação de Lucros;"
-          },
-          {
-            "tipo": "item",
-            "texto": "Oferta colaborador exclusiva da Vivo (50% desconto fatura em seu nome), com desconto especial em linha fixa, banda larga e TV;"
-          },
-          {
-            "tipo": "item",
-            "texto": "Descontos em universidades, cursos e extensão;"
-          },
-          {
-            "tipo": "item",
-            "texto": "Parcerias com Sesc e Senai;"
-          },
-          {
-            "tipo": "item",
-            "texto": "Programas de Bem-estar."
-          }
-        ]
-      }
-    ]
-  },
-  "12771850": {
-    "fonte": "html",
-    "secoes": [
-      {
-        "titulo": "Responsabilidades",
-        "blocos": [
-          {
-            "tipo": "item",
-            "texto": "Acompanhar o andamento de projetos de Redes e FHTT GEPON;"
-          },
-          {
-            "tipo": "item",
-            "texto": "Atendimento de requisições, troubleshooting de incidentes de rede."
-          },
-          {
-            "tipo": "item",
-            "texto": "Disponibilidade para participar de plantões e janelas de implantação;"
-          },
-          {
-            "tipo": "item",
-            "texto": "Suporte técnico e assistência aos outros colaboradores técnicos, quando necessário."
-          }
-        ]
-      },
-      {
-        "titulo": "Requisitos",
-        "blocos": [
-          {
-            "tipo": "item",
-            "texto": "Perfil proativo;"
-          },
-          {
-            "tipo": "item",
-            "texto": "Superior Completo"
-          },
-          {
-            "tipo": "item",
-            "texto": "Facilidade para negociação;"
-          },
-          {
-            "tipo": "item",
-            "texto": "Facilidade para trabalhar em equipe;"
-          },
-          {
-            "tipo": "item",
-            "texto": "Bom raciocínio lógico, perfil analítico;"
-          },
-          {
-            "tipo": "item",
-            "texto": "Ferramentas de monitoração de Redes PRTG;"
-          },
-          {
-            "tipo": "item",
-            "texto": "Conhecimento em Windows 10 ou Superior - LINUX;"
-          },
-          {
-            "tipo": "item",
-            "texto": "Conhecimento em Sistema de PABX em Nuvem - SIP;"
-          },
-          {
-            "tipo": "item",
-            "texto": "Documentação de procedimentos operacionais e manuais;"
-          },
-          {
-            "tipo": "item",
-            "texto": "Conhecimento de Mikrotik - PRTG - UNM2000 FIBERHOME - SSH - MICROSIP"
-          },
-          {
-            "tipo": "item",
-            "texto": "Conhecimento de Redes Wireless - Setup de SSIDS e Controladoras em Nuvem."
-          },
-          {
-            "tipo": "item",
-            "texto": "Conhecimento Nivel intermediario de Mikrotik / Cisco(Switchs) - VLANS - TCP/IP."
-          },
-          {
-            "tipo": "item",
-            "texto": "Experiência com configuração e troubleshooting em tecnologias de Routing e Switching;"
-          },
-          {
-            "tipo": "subtitulo",
-            "texto": "Obrigatório que você tenha:"
-          },
-          {
-            "tipo": "item",
-            "texto": "Obrigatório possuir CNH Categoria B"
-          }
-        ]
-      },
-      {
-        "titulo": "Informações adicionais",
-        "blocos": [
-          {
-            "tipo": "subtitulo",
-            "texto": "Nós oferecemos:"
-          },
-          {
-            "tipo": "item",
-            "texto": "Parceria com Zenklub - descontos em sessões de terapias;"
-          },
-          {
-            "tipo": "item",
-            "texto": "Parceria com Senac - descontos em cursos;"
-          },
-          {
-            "tipo": "item",
-            "texto": "Plano de Saúde com coparticipação;"
-          },
-          {
-            "tipo": "item",
-            "texto": "Plano Odontológico;"
-          },
-          {
-            "tipo": "item",
-            "texto": "Vale Transporte;"
-          },
-          {
-            "tipo": "item",
-            "texto": "Vale Refeição;"
-          },
-          {
-            "tipo": "item",
-            "texto": "Seguro de Vida."
-          }
-        ]
-      }
-    ]
-  },
-  "12061884": {
-    "fonte": "html",
-    "secoes": [
-      {
-        "titulo": "Responsabilidades",
-        "blocos": [
-          {
-            "tipo": "item",
-            "texto": "Atuar em requisições de configurações, incidentes, tarefas planejadas e problemas relacionados à segurança de rede, realizando a coleta de informações junto aos clientes ou outras equipes internas como NOC e SOC."
-          },
-          {
-            "tipo": "item",
-            "texto": "Desenvolver relatórios analíticos ou RCAs, elaborar pareceres, revisar relatórios criados por outros analistas garantindo uma comunicação clara e formal."
-          },
-          {
-            "tipo": "item",
-            "texto": "Garantir o cumprimento dos SLAs (níveis de serviço) através do atendimento, registro e resolução das solicitações, com foco principal na qualidade das entregas e satisfação dos clientes."
-          },
-          {
-            "tipo": "item",
-            "texto": "Apoiar outras equipes na implementação de novas funcionalidades, propondo melhorias em processos e práticas."
-          },
-          {
-            "tipo": "item",
-            "texto": "Elaborar verificações de rotina de segurança e saúde dos ativos, criar e manter atualizada a base de conhecimento e desenvolver documentação das atividades efetuadas."
-          },
-          {
-            "tipo": "item",
-            "texto": "Analisar e processar incidentes de segurança, decidindo sobre a melhor abordagem para a resolução."
-          },
-          {
-            "tipo": "item",
-            "texto": "Contribuir para a implementação de melhorias de segurança e processos de suporte técnico, colaborando com as equipes de Segurança e Infraestrutura."
-          },
-          {
-            "tipo": "item",
-            "texto": "Acompanhar e apoiar a equipe de suprimentos no processo de licenciamento de equipamentos."
-          }
-        ]
-      },
-      {
-        "titulo": "Requisitos",
-        "blocos": [
-          {
-            "tipo": "item",
-            "texto": "Experiência prática em segurança de redes, incluindo operação, sustentação e suporte, com domínio em"
-          },
-          {
-            "tipo": "subtitulo",
-            "texto": "ao menos duas"
-          },
-          {
-            "tipo": "texto",
-            "texto": "das seguintes soluções:"
-          },
-          {
-            "tipo": "subtitulo",
-            "texto": "Firewall, NAC, Wireless, Switch gerenciável, NDR, IPS e WAF"
-          },
-          {
-            "tipo": "texto",
-            "texto": "— preferencialmente com experiência em fabricantes como Fortinet, Palo Alto, Check Point ou Cisco. Certificações serão um diferencial."
-          },
-          {
-            "tipo": "item",
-            "texto": "Familiaridade com SD-WAN e ambientes multi-link (balanceamento, failover)."
-          },
-          {
-            "tipo": "item",
-            "texto": "Conhecimento em roteamento estático e protocolos de roteamento dinâmico como BGP e OSPF."
-          },
-          {
-            "tipo": "item",
-            "texto": "Conhecimento em protocolos e tecnologias de rede como VLANs, STP, LACP, QoS e segmentação de redes."
-          },
-          {
-            "tipo": "item",
-            "texto": "Experiência com tecnologias de VPN (IPsec e SSL) e acesso remoto seguro."
-          },
-          {
-            "tipo": "item",
-            "texto": "Experiência prática em elaboração de relatórios de segurança, documentação de procedimentos (playbooks) e criação de checklists de segurança."
-          },
-          {
-            "tipo": "item",
-            "texto": "Perfil organizado, resiliente e com mentalidade inovadora para propor melhorias contínuas."
-          },
-          {
-            "tipo": "item",
-            "texto": "Inglês com capacidade de realizar interações verbais e escrita com parceiros e clientes internacionais."
-          }
-        ]
-      },
-      {
-        "titulo": "Informações adicionais",
-        "blocos": [
-          {
-            "tipo": "subtitulo",
-            "texto": "BENEFÍCIOS DE SER VISION! 🧡"
-          },
-          {
-            "tipo": "texto",
-            "texto": "Na Vision, a segurança começa com pessoas. Por isso, sempre buscamos bem-estar, desenvolvimento e crescimento para nossos colaboradores."
-          },
-          {
-            "tipo": "subtitulo",
-            "texto": "Para sua saúde física e mental:"
-          },
-          {
-            "tipo": "texto",
-            "texto": "🩺 Plano de saúde Bradesco Top Nacional;"
-          },
-          {
-            "tipo": "texto",
-            "texto": "🦷 Plano Odontológico Odontoprev;"
-          },
-          {
-            "tipo": "texto",
-            "texto": "🌱Seguro de vida;"
-          },
-          {
-            "tipo": "texto",
-            "texto": "📱 Pipo Saúde: Corretora digital de saúde e benefícios corporativos;"
-          },
-          {
-            "tipo": "texto",
-            "texto": "🏋️‍ TotalPass: Plataforma que conecta você às diversas redes para ajudar no cuidado do seu bem-estar (e o de sua família)."
-          },
-          {
-            "tipo": "subtitulo",
-            "texto": "Para seu dia a dia:"
-          },
-          {
-            "tipo": "texto",
-            "texto": "🚌 Vale transporte;"
-          },
-          {
-            "tipo": "texto",
-            "texto": "💳Alelo Tudo: Alimentação e Refeição em um único cartão;"
-          },
-          {
-            "tipo": "texto",
-            "texto": "💰 Previdência Privada: Match em dobro, aqui a VISION contribui com você;"
-          },
-          {
-            "tipo": "texto",
-            "texto": "🎂 Dayoff de Aniversário: Que tal um vale folga no mês do aniversário?"
-          },
-          {
-            "tipo": "texto",
-            "texto": "🤝 Campanha de Indicação: Aqui sua indicação vale dinheiro;"
-          },
-          {
-            "tipo": "texto",
-            "texto": "📚 Descontos em Instituições de Ensino;"
-          },
-          {
-            "tipo": "texto",
-            "texto": "🍼 Kit Vision Baby: Porque os novos começos também merecem cuidado e celebração;"
-          },
-          {
-            "tipo": "texto",
-            "texto": "🔅 Descontos exclusivos no grupo SESC: Lazer para você e sua família;"
-          },
-          {
-            "tipo": "texto",
-            "texto": "💻Kit Boas-vindas: Preparamos um Super kit para apoiar no seu dia a dia no trabalho;"
-          },
-          {
-            "tipo": "texto",
-            "texto": "☕ Café da manhã e da tarde com frutas para os dias presenciais."
-          },
-          {
-            "tipo": "subtitulo",
-            "texto": "Para o desenvolvimento da sua carreira:"
-          },
-          {
-            "tipo": "texto",
-            "texto": "📚DeepLearning: Nossa Universidade Corporativa;"
-          },
-          {
-            "tipo": "texto",
-            "texto": "🚀 Oportunidade de crescimento profissional;"
-          },
-          {
-            "tipo": "texto",
-            "texto": "🚀 Cultura de feedback e desenvolvimento;"
-          },
-          {
-            "tipo": "texto",
-            "texto": "🚀 Programa exclusivo para lideranças;"
-          },
-          {
-            "tipo": "texto",
-            "texto": "🚀Aqui você tem um ambiente descontraído, que respira inovação; Nossa liderança é acessível! As portas estão sempre abertas e você pode encontrá-los nos corredores da empresa."
-          },
-          {
-            "tipo": "texto",
-            "texto": "Você vai se manter atualizado com novidades do mercado e estará sempre em contato com um time inovador."
-          },
-          {
-            "tipo": "texto",
-            "texto": "Tá esperando o que?"
-          },
-          {
-            "tipo": "subtitulo",
-            "texto": "#WeAreVISION"
-          }
-        ]
-      }
-    ]
-  },
-  "12733614": {
-    "fonte": "texto",
-    "secoes": [
-      {
-        "titulo": "Responsabilidades",
-        "blocos": [
-          {
-            "tipo": "item",
-            "texto": "Apoiar e acompanhar o fluxo de impressões de provas na gráfica, garantindo organização e agilidade no atendimento às solicitações."
-          },
-          {
-            "tipo": "item",
-            "texto": "Controlar e organizar informações e demandas por meio de planilhas em Excel."
-          },
-          {
-            "tipo": "item",
-            "texto": "Realizar o contato e o alinhamento de informações com as áreas internas, professores e a Diretoria de Ensino."
-          },
-          {
-            "tipo": "item",
-            "texto": "Auxiliar no acompanhamento dos prazos e na organização das demandas de impressão."
-          },
-          {
-            "tipo": "item",
-            "texto": "Manter a organização dos processos e documentos relacionados às atividades da gráfica."
-          }
-        ]
-      },
-      {
-        "titulo": "Requisitos",
-        "blocos": [
-          {
-            "tipo": "item",
-            "texto": "Ensino médio completoCurso de pacote office/Excel"
-          }
-        ]
-      },
-      {
-        "titulo": "Informações adicionais",
-        "blocos": [
-          {
-            "tipo": "item",
-            "texto": "Simpress para todos: acreditamos que o sucesso do nosso negócio está na diversidade das nossas pessoas, em suas experiências, conhecimentos, culturas, gêneros, etnias, religiões, pessoas com deficiência e todo tipo de pluralidade."
-          },
-          {
-            "tipo": "item",
-            "texto": "Todas as nossas vagas são abertas a todos e todas."
-          },
-          {
-            "tipo": "item",
-            "texto": "Você se conecta com nossa cultura?"
-          },
-          {
-            "tipo": "item",
-            "texto": "Então, vem fazer parte do nosso time de Simlovers!"
-          },
-          {
-            "tipo": "item",
-            "texto": "✨ Confira os benefícios que fazem parte dessa jornada 💰 Participação nos Resultados (PLR): Reconhecimento acima da média do mercado, valorizando as conquistas construídas juntos."
-          },
-          {
-            "tipo": "item",
-            "texto": "💙 Saúde e Bem-estar 🏥 Assistência médica e odontológica para colaboradores e dependentes"
-          },
-          {
-            "tipo": "item",
-            "texto": "📲 Telemedicina sem coparticipação"
-          },
-          {
-            "tipo": "item",
-            "texto": "🧠 Programas de Saúde Mental e Alimentação Saudável"
-          },
-          {
-            "tipo": "item",
-            "texto": "🏋️ Wellhub e TotalPass"
-          },
-          {
-            "tipo": "item",
-            "texto": "🍽️ Vale-refeição ou Alimentação"
-          },
-          {
-            "tipo": "item",
-            "texto": "🎂 Day Off de Aniversário."
-          },
-          {
-            "tipo": "item",
-            "texto": "👨‍👩‍👧 Família: Programa Empresa Cidadã, com licença-maternidade de 180 dias e licença-paternidade de 20 dias."
-          },
-          {
-            "tipo": "item",
-            "texto": "🎓 Desenvolvimento: Sim Universidade, nossa universidade corporativa com cursos e trilhas que estimulam o aprendizado contínuo e o crescimento profissional"
-          },
-          {
-            "tipo": "item",
-            "texto": "Parcerias educacionais com instituições de ensino reconhecidas."
-          },
-          {
-            "tipo": "item",
-            "texto": "🤝 Programa de Indicações: Aqui, boas indicações para trabalhar com a gente são reconhecidas."
           }
         ]
       }
@@ -4412,898 +3217,6 @@
           {
             "tipo": "item",
             "texto": "Programas de Bem-estar."
-          }
-        ]
-      }
-    ]
-  },
-  "12747626": {
-    "fonte": "html",
-    "secoes": [
-      {
-        "titulo": "Responsabilidades",
-        "blocos": [
-          {
-            "tipo": "item",
-            "texto": "Receber,"
-          },
-          {
-            "tipo": "texto",
-            "texto": "conferir e organizar acionamentos de fiscalizações e obras, identificados"
-          },
-          {
-            "tipo": "texto",
-            "texto": "por WO, ID, TSK ou OC."
-          },
-          {
-            "tipo": "item",
-            "texto": "Controlar"
-          },
-          {
-            "tipo": "texto",
-            "texto": "abertura, acompanhamento, tramitação e fechamento de tickets nas"
-          },
-          {
-            "tipo": "texto",
-            "texto": "ferramentas TIM aplicáveis à operação."
-          },
-          {
-            "tipo": "item",
-            "texto": "Apoiar"
-          },
-          {
-            "tipo": "texto",
-            "texto": "a programação e a roteirização das fiscalizações, considerando"
-          },
-          {
-            "tipo": "texto",
-            "texto": "prioridades, localização e disponibilidade das equipes."
-          },
-          {
-            "tipo": "item",
-            "texto": "Apoiar"
-          },
-          {
-            "tipo": "texto",
-            "texto": "os fiscais em campo com projetos, históricos de tickets e informações"
-          },
-          {
-            "tipo": "texto",
-            "texto": "sobre pendências."
-          },
-          {
-            "tipo": "item",
-            "texto": "Conferir"
-          },
-          {
-            "tipo": "texto",
-            "texto": "e consolidar checklists e evidências das atividades fiscalizadas."
-          },
-          {
-            "tipo": "item",
-            "texto": "Elaborar"
-          },
-          {
-            "tipo": "texto",
-            "texto": "e formatar relatórios técnicos em PDF, contendo fotos, descrição das"
-          },
-          {
-            "tipo": "texto",
-            "texto": "atividades, datas, horários e demais informações exigidas."
-          },
-          {
-            "tipo": "item",
-            "texto": "Publicar"
-          },
-          {
-            "tipo": "texto",
-            "texto": "documentos e relatórios nos sistemas oficiais, acompanhar sua aprovação e"
-          },
-          {
-            "tipo": "texto",
-            "texto": "tratar reprovações e reenvios."
-          },
-          {
-            "tipo": "item",
-            "texto": "Receber,"
-          },
-          {
-            "tipo": "texto",
-            "texto": "organizar e analisar a documentação de obras de redes ópticas, incluindo"
-          },
-          {
-            "tipo": "texto",
-            "texto": "trechos até 10.000 metros e acima de 10.000 metros."
-          },
-          {
-            "tipo": "item",
-            "texto": "Conferir"
-          },
-          {
-            "tipo": "texto",
-            "texto": "books documentais, projetos executivos, as-builts, diagramas, relatórios"
-          },
-          {
-            "tipo": "texto",
-            "texto": "fotográficos, testes ópticos e demais documentos exigidos."
-          },
-          {
-            "tipo": "item",
-            "texto": "Identificar"
-          },
-          {
-            "tipo": "texto",
-            "texto": "inconsistências, solicitar correções aos fornecedores e acompanhar sua"
-          },
-          {
-            "tipo": "texto",
-            "texto": "regularização até a aceitação pela área responsável."
-          },
-          {
-            "tipo": "item",
-            "texto": "Executar"
-          },
-          {
-            "tipo": "texto",
-            "texto": "as rotinas de cadastro autorizadas e validar registros de rede no SGF,"
-          },
-          {
-            "tipo": "texto",
-            "texto": "conforme documentação e procedimentos TIM."
-          },
-          {
-            "tipo": "item",
-            "texto": "Conferir"
-          },
-          {
-            "tipo": "texto",
-            "texto": "medições de Autodeclaração, Projeto, Licença, SAR e Construção,"
-          },
-          {
-            "tipo": "texto",
-            "texto": "verificando documentação, quantitativos, autorizações e aderência ao"
-          },
-          {
-            "tipo": "texto",
-            "texto": "contrato e à Lista de Preços Unitários (LPU)."
-          },
-          {
-            "tipo": "item",
-            "texto": "Realizar"
-          },
-          {
-            "tipo": "texto",
-            "texto": "a fiscalização financeira das medições, identificando divergências e"
-          },
-          {
-            "tipo": "texto",
-            "texto": "consolidando os ajustes para encaminhamento à área responsável."
-          },
-          {
-            "tipo": "item",
-            "texto": "Apoiar"
-          },
-          {
-            "tipo": "texto",
-            "texto": "a solicitação, validação e regularização de acessos sistêmicos,"
-          },
-          {
-            "tipo": "texto",
-            "texto": "acompanhando chamados e ocorrências relacionadas a IDs, documentação e"
-          },
-          {
-            "tipo": "texto",
-            "texto": "medições."
-          },
-          {
-            "tipo": "item",
-            "texto": "Realizar"
-          },
-          {
-            "tipo": "texto",
-            "texto": "a abertura e o acompanhamento de janelas de manutenção e dos acessos aos"
-          },
-          {
-            "tipo": "texto",
-            "texto": "sites, conforme procedimentos TIM e permissões atribuídas."
-          },
-          {
-            "tipo": "item",
-            "texto": "Emitir"
-          },
-          {
-            "tipo": "texto",
-            "texto": "pareceres e relatórios de análise, registrando conformidades, pendências e"
-          },
-          {
-            "tipo": "texto",
-            "texto": "encaminhamentos."
-          },
-          {
-            "tipo": "item",
-            "texto": "Manter"
-          },
-          {
-            "tipo": "texto",
-            "texto": "documentos, controles, ordens de serviço e status das atividades"
-          },
-          {
-            "tipo": "texto",
-            "texto": "atualizados nos sistemas."
-          },
-          {
-            "tipo": "item",
-            "texto": "Monitorar"
-          },
-          {
-            "tipo": "texto",
-            "texto": "produtividade, backlog, qualidade e cumprimento de SLA, consolidando"
-          },
-          {
-            "tipo": "texto",
-            "texto": "indicadores e relatórios semanais e mensais."
-          }
-        ]
-      },
-      {
-        "titulo": "Requisitos",
-        "blocos": [
-          {
-            "tipo": "item",
-            "texto": "Experiência"
-          },
-          {
-            "tipo": "texto",
-            "texto": "em operações de telecomunicações, com atuação em backoffice, fiscalização"
-          },
-          {
-            "tipo": "texto",
-            "texto": "documental, cadastro de rede ou medição de obras."
-          },
-          {
-            "tipo": "item",
-            "texto": "Conhecimento"
-          },
-          {
-            "tipo": "texto",
-            "texto": "de redes ópticas e infraestrutura, incluindo dutos, cabos e elementos de"
-          },
-          {
-            "tipo": "texto",
-            "texto": "interligação."
-          },
-          {
-            "tipo": "item",
-            "texto": "Capacidade"
-          },
-          {
-            "tipo": "texto",
-            "texto": "de leitura e análise de projetos executivos, as-builts, diagramas e"
-          },
-          {
-            "tipo": "texto",
-            "texto": "checklists técnicos."
-          },
-          {
-            "tipo": "item",
-            "texto": "Conhecimento"
-          },
-          {
-            "tipo": "texto",
-            "texto": "de testes ópticos e interpretação dos respectivos relatórios."
-          },
-          {
-            "tipo": "item",
-            "texto": "Excel"
-          },
-          {
-            "tipo": "texto",
-            "texto": "avançado e domínio das demais ferramentas do Microsoft Office."
-          },
-          {
-            "tipo": "item",
-            "texto": "Experiência"
-          },
-          {
-            "tipo": "texto",
-            "texto": "com organização documental, controle de tickets e elaboração de relatórios"
-          },
-          {
-            "tipo": "texto",
-            "texto": "técnicos e gerenciais."
-          },
-          {
-            "tipo": "item",
-            "texto": "Capacidade"
-          },
-          {
-            "tipo": "texto",
-            "texto": "de conferir quantitativos e medições, identificar divergências e registrar"
-          },
-          {
-            "tipo": "texto",
-            "texto": "pareceres objetivos."
-          },
-          {
-            "tipo": "item",
-            "texto": "Familiaridade"
-          },
-          {
-            "tipo": "texto",
-            "texto": "com ferramentas de análise documental, desenhos técnicos e arquivos"
-          },
-          {
-            "tipo": "texto",
-            "texto": "georreferenciados."
-          },
-          {
-            "tipo": "subtitulo",
-            "texto": "Formação desejável"
-          },
-          {
-            "tipo": "texto",
-            "texto": "Curso técnico em Telecomunicações, Eletrônica ou"
-          },
-          {
-            "tipo": "texto",
-            "texto": "Eletrotécnica, ou graduação em Engenharia nas áreas relacionadas."
-          },
-          {
-            "tipo": "subtitulo",
-            "texto": "Diferenciais"
-          },
-          {
-            "tipo": "item",
-            "texto": "Experiência"
-          },
-          {
-            "tipo": "texto",
-            "texto": "com SGF, SGMP, Smart Service, SGS e outros sistemas TIM utilizados na"
-          },
-          {
-            "tipo": "texto",
-            "texto": "operação."
-          },
-          {
-            "tipo": "item",
-            "texto": "Conhecimento"
-          },
-          {
-            "tipo": "texto",
-            "texto": "de AutoCAD, MapInfo, arquivos KMZ, Visio e emuladores de OTDR."
-          },
-          {
-            "tipo": "item",
-            "texto": "Vivência"
-          },
-          {
-            "tipo": "texto",
-            "texto": "com contratos, LPU e conferência de medições de fornecedores."
-          },
-          {
-            "tipo": "item",
-            "texto": "Conhecimento"
-          },
-          {
-            "tipo": "texto",
-            "texto": "de FAM e Netcool."
-          },
-          {
-            "tipo": "item",
-            "texto": "Inglês"
-          },
-          {
-            "tipo": "texto",
-            "texto": "básico."
-          },
-          {
-            "tipo": "subtitulo",
-            "texto": "Competências comportamentais"
-          },
-          {
-            "tipo": "texto",
-            "texto": "Organização, capacidade analítica, atenção aos detalhes,"
-          },
-          {
-            "tipo": "texto",
-            "texto": "comunicação objetiva, proatividade, gestão de prioridades e compromisso com"
-          },
-          {
-            "tipo": "texto",
-            "texto": "qualidade e prazos."
-          },
-          {
-            "tipo": "texto",
-            "texto": "Local: Recife"
-          },
-          {
-            "tipo": "texto",
-            "texto": "Atuação: Remota"
-          }
-        ]
-      },
-      {
-        "titulo": "Informações adicionais",
-        "blocos": [
-          {
-            "tipo": "subtitulo",
-            "texto": "Benefícios:"
-          },
-          {
-            "tipo": "texto",
-            "texto": "🩺 Assistência médica"
-          },
-          {
-            "tipo": "texto",
-            "texto": "🦷 Assistência odontológica"
-          },
-          {
-            "tipo": "texto",
-            "texto": "👶 Auxílio-creche"
-          },
-          {
-            "tipo": "texto",
-            "texto": "💰 Participação nos lucros"
-          },
-          {
-            "tipo": "texto",
-            "texto": "🛡️ Seguro de vida"
-          },
-          {
-            "tipo": "texto",
-            "texto": "🛒 Vale-alimentação"
-          },
-          {
-            "tipo": "texto",
-            "texto": "🍽️ Vale-refeição"
-          },
-          {
-            "tipo": "texto",
-            "texto": "🚌 Vale-transporte"
-          }
-        ]
-      }
-    ]
-  },
-  "12747204": {
-    "fonte": "html",
-    "secoes": [
-      {
-        "titulo": "Responsabilidades",
-        "blocos": [
-          {
-            "tipo": "item",
-            "texto": "Receber,"
-          },
-          {
-            "tipo": "texto",
-            "texto": "conferir e organizar acionamentos de fiscalizações e obras, identificados"
-          },
-          {
-            "tipo": "texto",
-            "texto": "por WO, ID, TSK ou OC."
-          },
-          {
-            "tipo": "item",
-            "texto": "Controlar"
-          },
-          {
-            "tipo": "texto",
-            "texto": "abertura, acompanhamento, tramitação e fechamento de tickets nas"
-          },
-          {
-            "tipo": "texto",
-            "texto": "ferramentas TIM aplicáveis à operação."
-          },
-          {
-            "tipo": "item",
-            "texto": "Apoiar"
-          },
-          {
-            "tipo": "texto",
-            "texto": "a programação e a roteirização das fiscalizações, considerando"
-          },
-          {
-            "tipo": "texto",
-            "texto": "prioridades, localização e disponibilidade das equipes."
-          },
-          {
-            "tipo": "item",
-            "texto": "Apoiar"
-          },
-          {
-            "tipo": "texto",
-            "texto": "os fiscais em campo com projetos, históricos de tickets e informações"
-          },
-          {
-            "tipo": "texto",
-            "texto": "sobre pendências."
-          },
-          {
-            "tipo": "item",
-            "texto": "Conferir"
-          },
-          {
-            "tipo": "texto",
-            "texto": "e consolidar checklists e evidências das atividades fiscalizadas."
-          },
-          {
-            "tipo": "item",
-            "texto": "Elaborar"
-          },
-          {
-            "tipo": "texto",
-            "texto": "e formatar relatórios técnicos em PDF, contendo fotos, descrição das"
-          },
-          {
-            "tipo": "texto",
-            "texto": "atividades, datas, horários e demais informações exigidas."
-          },
-          {
-            "tipo": "item",
-            "texto": "Publicar"
-          },
-          {
-            "tipo": "texto",
-            "texto": "documentos e relatórios nos sistemas oficiais, acompanhar sua aprovação e"
-          },
-          {
-            "tipo": "texto",
-            "texto": "tratar reprovações e reenvios."
-          },
-          {
-            "tipo": "item",
-            "texto": "Receber,"
-          },
-          {
-            "tipo": "texto",
-            "texto": "organizar e analisar a documentação de obras de redes ópticas, incluindo"
-          },
-          {
-            "tipo": "texto",
-            "texto": "trechos até 10.000 metros e acima de 10.000 metros."
-          },
-          {
-            "tipo": "item",
-            "texto": "Conferir"
-          },
-          {
-            "tipo": "texto",
-            "texto": "books documentais, projetos executivos, as-builts, diagramas, relatórios"
-          },
-          {
-            "tipo": "texto",
-            "texto": "fotográficos, testes ópticos e demais documentos exigidos."
-          },
-          {
-            "tipo": "item",
-            "texto": "Identificar"
-          },
-          {
-            "tipo": "texto",
-            "texto": "inconsistências, solicitar correções aos fornecedores e acompanhar sua"
-          },
-          {
-            "tipo": "texto",
-            "texto": "regularização até a aceitação pela área responsável."
-          },
-          {
-            "tipo": "item",
-            "texto": "Executar"
-          },
-          {
-            "tipo": "texto",
-            "texto": "as rotinas de cadastro autorizadas e validar registros de rede no SGF,"
-          },
-          {
-            "tipo": "texto",
-            "texto": "conforme documentação e procedimentos TIM."
-          },
-          {
-            "tipo": "item",
-            "texto": "Conferir"
-          },
-          {
-            "tipo": "texto",
-            "texto": "medições de Autodeclaração, Projeto, Licença, SAR e Construção,"
-          },
-          {
-            "tipo": "texto",
-            "texto": "verificando documentação, quantitativos, autorizações e aderência ao"
-          },
-          {
-            "tipo": "texto",
-            "texto": "contrato e à Lista de Preços Unitários (LPU)."
-          },
-          {
-            "tipo": "item",
-            "texto": "Realizar"
-          },
-          {
-            "tipo": "texto",
-            "texto": "a fiscalização financeira das medições, identificando divergências e"
-          },
-          {
-            "tipo": "texto",
-            "texto": "consolidando os ajustes para encaminhamento à área responsável."
-          },
-          {
-            "tipo": "item",
-            "texto": "Apoiar"
-          },
-          {
-            "tipo": "texto",
-            "texto": "a solicitação, validação e regularização de acessos sistêmicos,"
-          },
-          {
-            "tipo": "texto",
-            "texto": "acompanhando chamados e ocorrências relacionadas a IDs, documentação e"
-          },
-          {
-            "tipo": "texto",
-            "texto": "medições."
-          },
-          {
-            "tipo": "item",
-            "texto": "Realizar"
-          },
-          {
-            "tipo": "texto",
-            "texto": "a abertura e o acompanhamento de janelas de manutenção e dos acessos aos"
-          },
-          {
-            "tipo": "texto",
-            "texto": "sites, conforme procedimentos TIM e permissões atribuídas."
-          },
-          {
-            "tipo": "item",
-            "texto": "Emitir"
-          },
-          {
-            "tipo": "texto",
-            "texto": "pareceres e relatórios de análise, registrando conformidades, pendências e"
-          },
-          {
-            "tipo": "texto",
-            "texto": "encaminhamentos."
-          },
-          {
-            "tipo": "item",
-            "texto": "Manter"
-          },
-          {
-            "tipo": "texto",
-            "texto": "documentos, controles, ordens de serviço e status das atividades"
-          },
-          {
-            "tipo": "texto",
-            "texto": "atualizados nos sistemas."
-          },
-          {
-            "tipo": "item",
-            "texto": "Monitorar"
-          },
-          {
-            "tipo": "texto",
-            "texto": "produtividade, backlog, qualidade e cumprimento de SLA, consolidando"
-          },
-          {
-            "tipo": "texto",
-            "texto": "indicadores e relatórios semanais e mensais."
-          }
-        ]
-      },
-      {
-        "titulo": "Requisitos",
-        "blocos": [
-          {
-            "tipo": "item",
-            "texto": "Experiência"
-          },
-          {
-            "tipo": "texto",
-            "texto": "em operações de telecomunicações, com atuação em backoffice, fiscalização"
-          },
-          {
-            "tipo": "texto",
-            "texto": "documental, cadastro de rede ou medição de obras."
-          },
-          {
-            "tipo": "item",
-            "texto": "Conhecimento"
-          },
-          {
-            "tipo": "texto",
-            "texto": "de redes ópticas e infraestrutura, incluindo dutos, cabos e elementos de"
-          },
-          {
-            "tipo": "texto",
-            "texto": "interligação."
-          },
-          {
-            "tipo": "item",
-            "texto": "Capacidade"
-          },
-          {
-            "tipo": "texto",
-            "texto": "de leitura e análise de projetos executivos, as-builts, diagramas e"
-          },
-          {
-            "tipo": "texto",
-            "texto": "checklists técnicos."
-          },
-          {
-            "tipo": "item",
-            "texto": "Conhecimento"
-          },
-          {
-            "tipo": "texto",
-            "texto": "de testes ópticos e interpretação dos respectivos relatórios."
-          },
-          {
-            "tipo": "item",
-            "texto": "Excel"
-          },
-          {
-            "tipo": "texto",
-            "texto": "avançado e domínio das demais ferramentas do Microsoft Office."
-          },
-          {
-            "tipo": "item",
-            "texto": "Experiência"
-          },
-          {
-            "tipo": "texto",
-            "texto": "com organização documental, controle de tickets e elaboração de relatórios"
-          },
-          {
-            "tipo": "texto",
-            "texto": "técnicos e gerenciais."
-          },
-          {
-            "tipo": "item",
-            "texto": "Capacidade"
-          },
-          {
-            "tipo": "texto",
-            "texto": "de conferir quantitativos e medições, identificar divergências e registrar"
-          },
-          {
-            "tipo": "texto",
-            "texto": "pareceres objetivos."
-          },
-          {
-            "tipo": "item",
-            "texto": "Familiaridade"
-          },
-          {
-            "tipo": "texto",
-            "texto": "com ferramentas de análise documental, desenhos técnicos e arquivos"
-          },
-          {
-            "tipo": "texto",
-            "texto": "georreferenciados."
-          },
-          {
-            "tipo": "texto",
-            "texto": "Formação desejável:"
-          },
-          {
-            "tipo": "texto",
-            "texto": "Curso técnico em Telecomunicações, Eletrônica ou"
-          },
-          {
-            "tipo": "texto",
-            "texto": "Eletrotécnica, ou graduação em Engenharia nas áreas relacionadas."
-          },
-          {
-            "tipo": "texto",
-            "texto": "Diferenciais:"
-          },
-          {
-            "tipo": "item",
-            "texto": "Experiência"
-          },
-          {
-            "tipo": "texto",
-            "texto": "com SGF, SGMP, Smart Service, SGS e outros sistemas TIM utilizados na"
-          },
-          {
-            "tipo": "texto",
-            "texto": "operação."
-          },
-          {
-            "tipo": "item",
-            "texto": "Conhecimento"
-          },
-          {
-            "tipo": "texto",
-            "texto": "de AutoCAD, MapInfo, arquivos KMZ, Visio e emuladores de OTDR."
-          },
-          {
-            "tipo": "item",
-            "texto": "Vivência"
-          },
-          {
-            "tipo": "texto",
-            "texto": "com contratos, LPU e conferência de medições de fornecedores."
-          },
-          {
-            "tipo": "item",
-            "texto": "Conhecimento"
-          },
-          {
-            "tipo": "texto",
-            "texto": "de FAM e Netcool."
-          },
-          {
-            "tipo": "item",
-            "texto": "Inglês"
-          },
-          {
-            "tipo": "texto",
-            "texto": "básico."
-          },
-          {
-            "tipo": "texto",
-            "texto": "Competências comportamentais : Organização, capacidade analítica, atenção aos detalhes,"
-          },
-          {
-            "tipo": "texto",
-            "texto": "comunicação objetiva, proatividade, gestão de prioridades e compromisso com"
-          },
-          {
-            "tipo": "texto",
-            "texto": "qualidade e prazos."
-          },
-          {
-            "tipo": "texto",
-            "texto": "Local: Rio de Janeiro"
-          },
-          {
-            "tipo": "texto",
-            "texto": "Atuação: Remota"
-          }
-        ]
-      },
-      {
-        "titulo": "Informações adicionais",
-        "blocos": [
-          {
-            "tipo": "subtitulo",
-            "texto": "Benefícios:"
-          },
-          {
-            "tipo": "texto",
-            "texto": "🩺 Assistência médica"
-          },
-          {
-            "tipo": "texto",
-            "texto": "🦷 Assistência odontológica"
-          },
-          {
-            "tipo": "texto",
-            "texto": "👶 Auxílio-creche"
-          },
-          {
-            "tipo": "texto",
-            "texto": "💰 Participação nos lucros"
-          },
-          {
-            "tipo": "texto",
-            "texto": "🛡️ Seguro de vida"
-          },
-          {
-            "tipo": "texto",
-            "texto": "🛒 Vale-alimentação"
-          },
-          {
-            "tipo": "texto",
-            "texto": "🍽️ Vale-refeição"
-          },
-          {
-            "tipo": "texto",
-            "texto": "🚌 Vale-transporte"
           }
         ]
       }
@@ -8470,6 +6383,338 @@
           {
             "tipo": "texto",
             "texto": "A Gertec não discrimina por motivos de raça, religião, cor, sexo, idade, deficiência não incapacitante para a função, nacionalidade, orientação sexual, identidade ou expressão de gênero, ou por nenhum outro motivo proibido pela legislação local. Essa oportunidade é extensiva a todas as pessoas com deficiência. Solicitamos que seja descrito no currículo o tipo de deficiência, bem como se requer algum recurso especial para desenvolver seu trabalho."
+          }
+        ]
+      }
+    ]
+  },
+  "12788631": {
+    "fonte": "html",
+    "secoes": [
+      {
+        "titulo": "Responsabilidades",
+        "blocos": [
+          {
+            "tipo": "item",
+            "texto": "Realizar o suporte técnico (N1/N2) de forma remota aos usuários, prestando atendimento via telefone, chat, e-mail ou sistema de chamados."
+          },
+          {
+            "tipo": "texto",
+            "texto": "Diagnosticar, solucionar e registrar incidentes e solicitações de hardware, software, redes e sistemas corporativos."
+          },
+          {
+            "tipo": "texto",
+            "texto": "Utilizar ferramentas de acesso remoto para correção de falhas, instalações de aplicativos e parametrizações."
+          },
+          {
+            "tipo": "texto",
+            "texto": "Garantir o cumprimento dos SLAs (acordos de nível de serviço) estabelecidos para atendimento e resolução dos chamados."
+          },
+          {
+            "tipo": "texto",
+            "texto": "Documentar detalhadamente os atendimentos, procedimentos e soluções nos sistemas da empresa (ITIL)."
+          },
+          {
+            "tipo": "texto",
+            "texto": "Orientar os usuários sobre boas práticas de segurança da informação e utilização dos recursos tecnológicos."
+          }
+        ]
+      },
+      {
+        "titulo": "Requisitos",
+        "blocos": [
+          {
+            "tipo": "texto",
+            "texto": "Formação técnica ou superior na área de TI."
+          },
+          {
+            "tipo": "texto",
+            "texto": "Experiência prévia em atendimento de Service Desk ou Suporte Técnico Remoto."
+          },
+          {
+            "tipo": "texto",
+            "texto": "Conhecimento em ferramentas de acesso remoto e sistemas de gestão de chamados."
+          },
+          {
+            "tipo": "texto",
+            "texto": "Disponibilidade para trabalhar na escala 12x36."
+          }
+        ]
+      },
+      {
+        "titulo": "Informações adicionais",
+        "blocos": [
+          {
+            "tipo": "texto",
+            "texto": "🍛 Vale-alimentação ou vale-refeição;"
+          },
+          {
+            "tipo": "texto",
+            "texto": "👨🏼‍🎓 Desconto em cursos, universidades e instituições de idiomas;"
+          },
+          {
+            "tipo": "texto",
+            "texto": "📚 Academia Stefanini — plataforma com cursos on-line, gratuitos, atualizados e com certificado;"
+          },
+          {
+            "tipo": "texto",
+            "texto": "🗣 Mentoring;"
+          },
+          {
+            "tipo": "texto",
+            "texto": "💉 Clube de vantagens para consultas e exames;"
+          },
+          {
+            "tipo": "texto",
+            "texto": "🏥 Assistência médica;"
+          },
+          {
+            "tipo": "texto",
+            "texto": "🦷 Assistência odontológica;"
+          },
+          {
+            "tipo": "texto",
+            "texto": "💰 Clube de vantagens e descontos nos melhores estabelecimentos;"
+          },
+          {
+            "tipo": "texto",
+            "texto": "🛫 Clube de viagens;"
+          },
+          {
+            "tipo": "texto",
+            "texto": "🐶 Convênio para pets."
+          }
+        ]
+      }
+    ]
+  },
+  "12804370": {
+    "fonte": "texto",
+    "secoes": [
+      {
+        "titulo": "Responsabilidades",
+        "blocos": [
+          {
+            "tipo": "item",
+            "texto": "Implantar, administrar e prestar suporte à infraestrutura de servidores."
+          },
+          {
+            "tipo": "item",
+            "texto": "Gerenciar solicitações, incidentes e acessos de usuários."
+          },
+          {
+            "tipo": "item",
+            "texto": "Monitorar a disponibilidade, o desempenho e a capacidade dos ambientes."
+          },
+          {
+            "tipo": "item",
+            "texto": "Gerenciar atualizações, patches e correções de servidores e sistemas."
+          },
+          {
+            "tipo": "item",
+            "texto": "Administrar servidores e ambientes virtualizados."
+          },
+          {
+            "tipo": "item",
+            "texto": "Construir, manter e prestar suporte a servidores e aplicações na AWS."
+          },
+          {
+            "tipo": "item",
+            "texto": "Identificar falhas, analisar logs e propor soluções."
+          },
+          {
+            "tipo": "item",
+            "texto": "Propor melhorias na infraestrutura interna e dos clientes."
+          },
+          {
+            "tipo": "item",
+            "texto": "Preparar e configurar máquinas para novos recursos e manutenções."
+          },
+          {
+            "tipo": "item",
+            "texto": "Gerenciar ferramentas de e-mail, ATP, XDR e patches dos equipamentos internos."
+          },
+          {
+            "tipo": "item",
+            "texto": "Administrar os ambientes internos de AWS e Microsoft 365."
+          }
+        ]
+      },
+      {
+        "titulo": "Requisitos",
+        "blocos": [
+          {
+            "tipo": "item",
+            "texto": "Conhecimento em Active Directory, GPO, DNS e DHCP."
+          },
+          {
+            "tipo": "item",
+            "texto": "Experiência com servidores e ferramentas de gerenciamento de ativos, patches e vulnerabilidades, como Tanium, Nessus e IBM BigFix."
+          },
+          {
+            "tipo": "item",
+            "texto": "Conhecimento em soluções XDR e ATP."
+          },
+          {
+            "tipo": "item",
+            "texto": "Experiência em implantação e migração de servidores Windows on-premises (VMware) para AWS."
+          },
+          {
+            "tipo": "item",
+            "texto": "Experiência com VMware para servidores Windows e Linux."
+          },
+          {
+            "tipo": "item",
+            "texto": "Conhecimento em ITIL."
+          },
+          {
+            "tipo": "item",
+            "texto": "Experiência com gerenciamento de proxy (Squid), VPNs (OpenVPN) e usuários (Samba, Azure e Active Directory)."
+          },
+          {
+            "tipo": "item",
+            "texto": "Conhecimento em antivírus e ATP de e-mail."
+          },
+          {
+            "tipo": "item",
+            "texto": "Diferencial: certificação em AWS e Azure."
+          },
+          {
+            "tipo": "item",
+            "texto": "Informações adicionais📍Vaga híbrida (3x na semana presencial) 📍Horário: 8x5 + acionamento em casos críticos📍Localidade da Empresa: São Paulo - SP (prox."
+          },
+          {
+            "tipo": "item",
+            "texto": "Av."
+          },
+          {
+            "tipo": "item",
+            "texto": "Paulista)📍Contratação: PJ"
+          }
+        ]
+      }
+    ]
+  },
+  "12803698": {
+    "fonte": "html",
+    "secoes": [
+      {
+        "titulo": "💻 O que você vai fazer por aqui?",
+        "blocos": [
+          {
+            "tipo": "item",
+            "texto": "Prestar suporte técnico presencial e remoto aos usuários, incluindo atendimentos VIP, garantindo uma experiência positiva."
+          },
+          {
+            "tipo": "item",
+            "texto": "Diagnosticar e solucionar problemas relacionados a computadores, periféricos, sistemas operacionais e conectividade."
+          },
+          {
+            "tipo": "item",
+            "texto": "Realizar instalações, configurações e manutenções de equipamentos e aplicações corporativas."
+          },
+          {
+            "tipo": "item",
+            "texto": "Registrar, acompanhar e solucionar chamados técnicos, seguindo procedimentos e prazos estabelecidos."
+          },
+          {
+            "tipo": "item",
+            "texto": "Apoiar demandas relacionadas a redes, Microsoft 365, Active Directory e infraestrutura de TI."
+          },
+          {
+            "tipo": "item",
+            "texto": "Trabalhar em conjunto com outras equipes técnicas para resolver incidentes e compartilhar conhecimentos."
+          },
+          {
+            "tipo": "item",
+            "texto": "Identificar oportunidades de melhoria e automação, contribuindo para a prevenção de falhas e redução de retrabalho."
+          },
+          {
+            "tipo": "item",
+            "texto": "Seguir as boas práticas de segurança da informação, protegendo os dados dos clientes e da Penso."
+          }
+        ]
+      },
+      {
+        "titulo": "🔎 O que buscamos em você?",
+        "blocos": [
+          {
+            "tipo": "texto",
+            "texto": "Buscamos alguém que combine conhecimentos técnicos, organização e vontade de aprender e fazer acontecer."
+          },
+          {
+            "tipo": "texto",
+            "texto": "Para essa oportunidade, esperamos:"
+          },
+          {
+            "tipo": "item",
+            "texto": "Curso técnico, tecnólogo ou graduação em Tecnologia da Informação, cursando ou completo."
+          },
+          {
+            "tipo": "item",
+            "texto": "Experiência com suporte técnico presencial e remoto, incluindo atendimento ao usuário final e VIP."
+          },
+          {
+            "tipo": "item",
+            "texto": "Conhecimento em manutenção de hardware e sistemas operacionais Windows."
+          },
+          {
+            "tipo": "item",
+            "texto": "Familiaridade com Microsoft 365, Outlook e configuração de e-mails."
+          },
+          {
+            "tipo": "item",
+            "texto": "Conhecimentos em redes de computadores, TCP/IP, DNS e DHCP."
+          },
+          {
+            "tipo": "item",
+            "texto": "Noções de Active Directory, backup, antivírus, servidores e infraestrutura de TI."
+          },
+          {
+            "tipo": "item",
+            "texto": "Familiaridade com SharePoint, OneDrive e Google Drive."
+          },
+          {
+            "tipo": "item",
+            "texto": "Experiência com ferramentas de gestão de chamados e documentação técnica."
+          },
+          {
+            "tipo": "item",
+            "texto": "Boa comunicação, organização, proatividade e capacidade de resolução de problemas."
+          }
+        ]
+      },
+      {
+        "titulo": "⭐ Vai ser um diferencial se você tiver...",
+        "blocos": [
+          {
+            "tipo": "item",
+            "texto": "Formação em Redes de Computadores."
+          },
+          {
+            "tipo": "item",
+            "texto": "Experiência com infraestrutura de redes, switches e roteadores."
+          },
+          {
+            "tipo": "item",
+            "texto": "Vivência com suporte técnico em ambientes corporativos de TI."
+          }
+        ]
+      },
+      {
+        "titulo": "💙 Por que fazer parte da Penso?",
+        "blocos": [
+          {
+            "tipo": "texto",
+            "texto": "Aqui, você encontra um ambiente de colaboração, troca de conhecimentos e oportunidades para desenvolver suas habilidades técnicas e profissionais."
+          },
+          {
+            "tipo": "texto",
+            "texto": "Valorizamos a autonomia, o aprendizado contínuo e as pessoas que buscam soluções, compartilham experiências e fazem a diferença no dia a dia dos nossos clientes."
+          },
+          {
+            "tipo": "subtitulo",
+            "texto": "Seu talento tem espaço para crescer por aqui. Venha ser um Thinker! 🚀"
           }
         ]
       }
