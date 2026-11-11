@@ -23,6 +23,11 @@ const state = {
     // Plataformas marcadas no filtro (seleção múltipla). Vazio = todas.
     fontesSelecionadas: new Set(),
     currentGeralFilter: 'todas',
+    // Modalidade ('todas', 'presencial', 'hibrido', 'remoto') e cidade (chave
+    // sem acento, '' = todas). Valem para as duas abas de vagas.
+    currentModalidade: 'todas',
+    currentCidade: '',
+    currentCidadeNome: '',
     currentScheduleFilter: 'todas',
     searchTerm: '',
     appliedIds: new Set(),
@@ -60,6 +65,8 @@ function init() {
         sourceFilter: document.getElementById('source-filter'),
         sourcePills: document.querySelectorAll('#source-filter .source-pill'),
         sourceClear: document.getElementById('source-clear'),
+        modalidadePills: document.querySelectorAll('#modalidade-pills .filter-pill'),
+        cidadeSelect: document.getElementById('cidade-select'),
         scheduleFilterPills: document.querySelectorAll('#schedule-filter-pills .filter-pill'),
         vacanciesGrid: document.getElementById('vacancies-grid'),
         scheduleContainer: document.getElementById('schedule-container'),
@@ -151,6 +158,22 @@ function setupEventListeners() {
             renderVagas();
         });
     });
+
+    els.modalidadePills.forEach(pill => {
+        pill.addEventListener('click', () => {
+            els.modalidadePills.forEach(p => p.classList.remove('active'));
+            pill.classList.add('active');
+            state.currentModalidade = pill.dataset.modalidade;
+            renderVagas();
+        });
+    });
+
+    if (els.cidadeSelect) {
+        els.cidadeSelect.addEventListener('change', () => {
+            state.currentCidade = els.cidadeSelect.value;
+            renderVagas();
+        });
+    }
 
     els.scheduleFilterPills.forEach(pill => {
         pill.addEventListener('click', () => {
@@ -521,17 +544,19 @@ function filterVagas() {
         }
 
         filtered = filtered.filter(v => filtroSuporte(v, state.currentSuporteFilter));
+        const base = aplicarFiltroSubTab(ordenarPorDataDecrescente(filtered));
+
+        const naFonte = v => !state.fontesSelecionadas.size || state.fontesSelecionadas.has(fonteDaVaga(v));
+        atualizarFiltrosDeLocal(base.filter(naFonte));
 
         // A contagem de cada botão de plataforma considera os outros filtros
-        // (busca, área, sub-aba), mas não a própria plataforma: assim o número
-        // diz quantas vagas aquele botão vai somar se for marcado.
-        const antesDaFonte = aplicarFiltroSubTab(ordenarPorDataDecrescente(filtered));
+        // (busca, área, sub-aba, modalidade, cidade), mas não a própria
+        // plataforma: assim o número diz quantas vagas aquele botão vai somar
+        // se for marcado.
+        const antesDaFonte = base.filter(naModalidade).filter(naCidade);
         atualizarContagemPorFonte(antesDaFonte);
 
-        if (state.fontesSelecionadas.size) {
-            return antesDaFonte.filter(v => state.fontesSelecionadas.has(fonteDaVaga(v)));
-        }
-        return antesDaFonte;
+        return antesDaFonte.filter(naFonte);
     }
 
     if (state.currentTab === 'geral') {
@@ -544,12 +569,118 @@ function filterVagas() {
         }
 
         filtered = filtered.filter(v => filtroGeral(v, state.currentGeralFilter));
-        filtered = ordenarPorDataDecrescente(filtered);
+        const base = aplicarFiltroSubTab(ordenarPorDataDecrescente(filtered));
+        atualizarFiltrosDeLocal(base);
 
-        return aplicarFiltroSubTab(filtered);
+        return base.filter(naModalidade).filter(naCidade);
     }
 
     return [];
+}
+
+// ---------------------------------------------------------------------------
+// Modalidade (presencial / híbrido / remoto) e cidade
+// ---------------------------------------------------------------------------
+
+const ROTULO_MODALIDADE = { presencial: 'Presencial', hibrido: 'Híbrido', remoto: 'Remoto' };
+// Vaga remota costuma vir sem cidade; ela ganha uma opção própria no seletor.
+const CIDADE_NAO_INFORMADA = '__sem_cidade__';
+
+function modalidadeDaVaga(vaga) {
+    const tipo = (vaga.workplaceType || '').toLowerCase();
+    if (tipo === 'hybrid' || tipo === 'hibrido' || tipo === 'híbrido') return 'hibrido';
+    if (isVagaRemota(vaga)) return 'remoto';
+    return 'presencial';
+}
+
+function semAcento(texto) {
+    return String(texto || '').normalize('NFD').replace(/[̀-ͯ]/g, '');
+}
+
+// "Santo Andre" e "Santo André" (Catho x Gupy) são a mesma cidade: a chave do
+// filtro ignora acento e caixa.
+function chaveCidade(vaga) {
+    const chave = semAcento(vaga.city).trim().toLowerCase();
+    return chave || CIDADE_NAO_INFORMADA;
+}
+
+function naModalidade(vaga) {
+    return state.currentModalidade === 'todas' || modalidadeDaVaga(vaga) === state.currentModalidade;
+}
+
+function naCidade(vaga) {
+    return !state.currentCidade || chaveCidade(vaga) === state.currentCidade;
+}
+
+// Mesma ideia do filtro de plataforma: a contagem de cada modalidade respeita
+// a cidade escolhida (e vice-versa), mas não o próprio filtro.
+function atualizarFiltrosDeLocal(vagas) {
+    atualizarContagemPorModalidade(vagas.filter(naCidade));
+    atualizarOpcoesDeCidade(vagas.filter(naModalidade));
+}
+
+function atualizarContagemPorModalidade(vagas) {
+    const contagem = { presencial: 0, hibrido: 0, remoto: 0 };
+    vagas.forEach(v => { contagem[modalidadeDaVaga(v)]++; });
+    els.modalidadePills.forEach(pill => {
+        const span = pill.querySelector('.source-count');
+        if (span) span.textContent = `(${contagem[pill.dataset.modalidade] || 0})`;
+    });
+}
+
+function atualizarOpcoesDeCidade(vagas) {
+    if (!els.cidadeSelect) return;
+
+    // chave -> { total, nomes: { grafia: ocorrências } }
+    const cidades = new Map();
+    vagas.forEach(v => {
+        const chave = chaveCidade(v);
+        if (!cidades.has(chave)) cidades.set(chave, { total: 0, nomes: {} });
+        const item = cidades.get(chave);
+        item.total++;
+        const nome = String(v.city || '').trim();
+        if (nome) item.nomes[nome] = (item.nomes[nome] || 0) + 1;
+    });
+
+    // A cidade escolhida continua na lista mesmo sem vaga no recorte atual,
+    // senão o seletor mudaria sozinho para "Todas" ao trocar de aba.
+    if (state.currentCidade && !cidades.has(state.currentCidade)) {
+        cidades.set(state.currentCidade, { total: 0, nomes: {}, nomeSalvo: state.currentCidadeNome });
+    }
+
+    const opcoes = [...cidades.entries()].map(([chave, item]) => ({
+        chave,
+        total: item.total,
+        nome: chave === CIDADE_NAO_INFORMADA ? 'Cidade não informada' : (nomePreferido(item.nomes) || item.nomeSalvo || chave)
+    }));
+    opcoes.sort((a, b) => {
+        if (a.chave === CIDADE_NAO_INFORMADA) return 1;
+        if (b.chave === CIDADE_NAO_INFORMADA) return -1;
+        return b.total - a.total || a.nome.localeCompare(b.nome, 'pt-BR');
+    });
+
+    const atual = opcoes.find(o => o.chave === state.currentCidade);
+    if (atual) state.currentCidadeNome = atual.nome;
+
+    els.cidadeSelect.innerHTML = '<option value="">Todas as cidades</option>' + opcoes.map(o =>
+        `<option value="${escapeHtml(o.chave)}">${escapeHtml(o.nome)} (${o.total})</option>`
+    ).join('');
+    els.cidadeSelect.value = state.currentCidade;
+}
+
+// Entre as grafias de uma mesma cidade, fica a acentuada ("Mauá" e não "Maua");
+// empate decide pela mais frequente.
+function nomePreferido(nomes) {
+    let melhor = '';
+    let melhorPeso = -1;
+    Object.entries(nomes).forEach(([nome, qtd]) => {
+        const peso = (nome !== semAcento(nome) ? 10000 : 0) + qtd;
+        if (peso > melhorPeso) {
+            melhor = nome;
+            melhorPeso = peso;
+        }
+    });
+    return melhor;
 }
 
 function renderVagas() {
@@ -602,9 +733,13 @@ function atualizarContagemPorFonte(vagas) {
 function createCard(vaga) {
     const vagaId = String(vaga.id || '');
     const isApplied = state.appliedIds.has(vagaId);
-    const isRemote = isVagaRemota(vaga);
-    const badgeClass = isRemote ? 'remote' : 'onsite';
-    const badgeText = isRemote ? 'Remoto' : 'Presencial';
+    const modalidade = modalidadeDaVaga(vaga);
+    const badgeClass = { presencial: 'onsite', hibrido: 'hybrid', remoto: 'remote' }[modalidade];
+    const badgeText = ROTULO_MODALIDADE[modalidade];
+    const cidade = String(vaga.city || '').trim();
+    const cidadeTag = cidade
+        ? `<span class="vacancy-city" title="Cidade da vaga">📍 ${escapeHtml(cidade)}</span>`
+        : '';
     const topic = vaga.topic || 'Geral';
     const dataPub = formatDateTime(vaga.publishedDate);
     const link = vaga.jobUrl || '#';
@@ -621,6 +756,7 @@ function createCard(vaga) {
                 <div class="vacancy-tags">
                     <span class="vacancy-topic">${escapeHtml(topic)}</span>
                     <span class="vacancy-source" title="Site onde a vaga foi publicada">${escapeHtml(fonteDaVaga(vaga))}</span>
+                    ${cidadeTag}
                 </div>
                 ${company}
                 <div class="vacancy-footer">
@@ -675,9 +811,9 @@ function abrirDescricao(vagaId, botao) {
     els.descricaoAbertaBotao = botao || null;
 
     const empresa = vaga.companyName || vaga.careerPageName || '';
-    const modalidade = isVagaRemota(vaga) ? 'Remoto' : 'Presencial';
+    const modalidade = ROTULO_MODALIDADE[modalidadeDaVaga(vaga)];
     els.descDrawerTitle.textContent = vaga.name || 'Sem título';
-    els.descDrawerSubtitle.textContent = [empresa, modalidade, fonteDaVaga(vaga), formatDateTime(vaga.publishedDate)]
+    els.descDrawerSubtitle.textContent = [empresa, modalidade, vaga.city, fonteDaVaga(vaga), formatDateTime(vaga.publishedDate)]
         .filter(Boolean)
         .join(' · ');
     els.descDrawerApply.href = vaga.jobUrl || '#';
@@ -798,7 +934,8 @@ function filtroSuporte(vaga, filtro) {
     }
 }
 
-// Botões da aba "T.I. em Geral": área pelo rótulo da busca, modalidade pela vaga.
+// Botões da aba "T.I. em Geral": área pelo rótulo da busca. A modalidade tem
+// filtro próprio (Presencial / Híbrido / Remoto), comum às duas abas.
 function filtroGeral(vaga, filtro) {
     const topic = (vaga.topic || '').toLowerCase();
     switch (filtro) {
@@ -807,8 +944,7 @@ function filtroGeral(vaga, filtro) {
         case 'tecnico': return topic.startsWith('técnico de informática');
         case 'analista': return topic.startsWith('analista de ti');
         case 'assistente': return topic.startsWith('assistente de ti');
-        case 'remoto': return isVagaRemota(vaga);
-        case 'presencial': return !isVagaRemota(vaga);
+        case 'dev': return topic.startsWith('desenvolvedor jr');
         default: return true;
     }
 }

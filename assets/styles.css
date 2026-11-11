@@ -136,6 +136,11 @@
     color: #93c5fd;
 }
 
+[data-mode="dark"] .vacancy-badge.hybrid {
+    background: rgb(245 158 11 / 0.18);
+    color: #fcd34d;
+}
+
 [data-mode="dark"] .desc-backdrop {
     background: rgb(0 0 0 / 0.6);
 }
@@ -516,6 +521,47 @@ body {
     padding: 0.25rem;
 }
 
+/* Modalidade e cidade: linha própria, abaixo das áreas e plataformas. */
+.place-filter {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 0.5rem 1.25rem;
+    width: 100%;
+    flex-basis: 100%;
+}
+
+.place-filter-group {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 0.5rem;
+}
+
+.city-select {
+    padding: 0.5rem 2rem 0.5rem 0.875rem;
+    font-size: 0.75rem;
+    font-weight: 500;
+    font-family: inherit;
+    border-radius: var(--radius-full);
+    border: 1px solid var(--color-border);
+    background: var(--color-surface);
+    color: var(--color-text);
+    cursor: pointer;
+    max-width: 100%;
+    transition: all var(--transition);
+}
+
+.city-select:hover,
+.city-select:focus {
+    outline: none;
+    border-color: var(--color-primary);
+}
+
+.city-select:focus {
+    box-shadow: 0 0 0 3px var(--color-primary-light);
+}
+
 @media (min-width: 480px) {
     .filters {
         flex-direction: row;
@@ -659,6 +705,11 @@ body {
     color: #1e40af;
 }
 
+.vacancy-badge.hybrid {
+    background: #fef3c7;
+    color: #92400e;
+}
+
 .vacancy-topic {
     display: inline-flex;
     padding: 0.375rem 0.75rem;
@@ -693,6 +744,17 @@ body {
     border-radius: var(--radius-full);
     border: 1px solid var(--color-border);
     color: var(--color-text-muted);
+    width: fit-content;
+}
+
+.vacancy-city {
+    display: inline-flex;
+    padding: 0.375rem 0.75rem;
+    font-size: 0.75rem;
+    font-weight: 500;
+    border-radius: var(--radius-full);
+    background: var(--color-bg);
+    color: var(--color-text-secondary);
     width: fit-content;
 }
 

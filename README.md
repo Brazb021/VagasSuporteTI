@@ -18,6 +18,8 @@ O monitor em Python consulta a API pública da Gupy (e as páginas públicas do 
 | Janela / retenção | 30 dias | **14 dias** no Suporte, 7 dias em T.I. em Geral |
 | Histórico | `data/vagas_legalizacao.json` | `data/vagas_suporte.json` e `data/vagas_ti_geral.json` |
 
+Nas duas abas de vagas há filtro de **Modalidade** (Presencial, Híbrido, Remoto) e de **Cidade** — grafias diferentes da mesma cidade ("Santo Andre"/"Santo André") contam como uma só.
+
 A aba **Horários de Postagem**, os temas, o modo escuro, o painel de descrição e a marcação "Vista" funcionam igual.
 
 ---
@@ -29,7 +31,7 @@ Ficam na lista `BUSCAS` de `monitor/consultas.py`. Cada linha gera uma consulta 
 | Aba | Termos (`jobName`) |
 |---|---|
 | Suporte T.I. | `suporte n1`, `suporte n2`, `help desk`, `service desk`, `suporte técnico`, `técnico de suporte`, `analista de suporte`, `suporte jr`, `suporte ti`, `suporte` |
-| T.I. em Geral | `infraestrutura`, `redes`, `noc`, `técnico de informática`, `técnico de ti`, `analista de ti`, `assistente de ti`, `auxiliar de ti`, `ti` |
+| T.I. em Geral | `infraestrutura`, `redes`, `noc`, `técnico de informática`, `técnico de ti`, `analista de ti`, `assistente de ti`, `auxiliar de ti`, `desenvolvedor júnior`, `desenvolvedor jr`, `ti` |
 
 A API da Gupy busca no **título**, ignora acentos e devolve no máximo 100 vagas por consulta — por isso os termos específicos vêm antes do amplo `suporte`.
 

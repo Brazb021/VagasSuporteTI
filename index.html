@@ -16,7 +16,7 @@
         } catch (e) {}
     </script>
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
-    <link rel="stylesheet" href="assets/styles.css?v=3">
+    <link rel="stylesheet" href="assets/styles.css?v=4">
 </head>
 <body>
     <div class="container">
@@ -25,7 +25,7 @@
         <header class="header">
             <div class="header-left">
                 <h1 class="title">Vagas de Suporte T.I.</h1>
-                <p class="subtitle">Suporte técnico N1, N2 e Júnior · Help Desk · Gupy, LinkedIn, InfoJobs e Catho</p>
+                <p class="subtitle">Suporte técnico N1, N2 e Júnior · Help Desk · Desenvolvedor Júnior · Gupy, LinkedIn, InfoJobs e Catho</p>
             </div>
             <div class="theme-selector" role="group" aria-label="Selecionar tema de cor">
                 <span class="theme-selector-label">Tema:</span>
@@ -87,8 +87,25 @@
                 <button class="filter-pill" data-filter="tecnico">Técnico de Informática</button>
                 <button class="filter-pill" data-filter="analista">Analista de TI</button>
                 <button class="filter-pill" data-filter="assistente">Assistente / Auxiliar</button>
-                <button class="filter-pill" data-filter="remoto">Remoto</button>
-                <button class="filter-pill" data-filter="presencial">Presencial</button>
+                <button class="filter-pill" data-filter="dev">Desenvolvedor Jr</button>
+            </div>
+            <!-- Modalidade e cidade: valem para as duas abas de vagas. -->
+            <div class="place-filter" id="place-filter">
+                <div class="place-filter-group" role="group" aria-label="Filtrar por modalidade">
+                    <span class="source-filter-label">Modalidade:</span>
+                    <div class="filter-pills" id="modalidade-pills">
+                        <button class="filter-pill active" data-modalidade="todas">Todas</button>
+                        <button class="filter-pill" data-modalidade="presencial">Presencial <span class="source-count"></span></button>
+                        <button class="filter-pill" data-modalidade="hibrido">Híbrido <span class="source-count"></span></button>
+                        <button class="filter-pill" data-modalidade="remoto">Remoto <span class="source-count"></span></button>
+                    </div>
+                </div>
+                <label class="place-filter-group" for="cidade-select">
+                    <span class="source-filter-label">Cidade:</span>
+                    <select id="cidade-select" class="city-select">
+                        <option value="">Todas as cidades</option>
+                    </select>
+                </label>
             </div>
         </div>
 
@@ -168,6 +185,6 @@
         </footer>
     </aside>
 
-    <script src="assets/app.js?v=3"></script>
+    <script src="assets/app.js?v=4"></script>
 </body>
 </html>

@@ -56,7 +56,7 @@ BUSCAS = [
     ("suporte jr", "suporte", "Suporte"),
     ("suporte ti", "suporte", "Suporte"),
     ("suporte", "suporte", "Suporte"),
-    # ---- T.I. em Geral: Infraestrutura > Redes > Técnico > Analista > Assistente ----
+    # ---- T.I. em Geral: Infraestrutura > Redes > Técnico > Analista > Assistente > Dev Jr ----
     ("infraestrutura", "geral", "Infraestrutura"),
     ("redes", "geral", "Redes"),
     ("noc", "geral", "Redes"),
@@ -65,6 +65,9 @@ BUSCAS = [
     ("analista de ti", "geral", "Analista de TI"),
     ("assistente de ti", "geral", "Assistente de TI"),
     ("auxiliar de ti", "geral", "Assistente de TI"),
+    # ---- Desenvolvedor Júnior: só nível de entrada (Pleno/Sênior saem no filtro de cargo) ----
+    ("desenvolvedor júnior", "geral", "Desenvolvedor Jr"),
+    ("desenvolvedor jr", "geral", "Desenvolvedor Jr"),
     ("ti", "geral", "TI Geral"),
 ]
 
