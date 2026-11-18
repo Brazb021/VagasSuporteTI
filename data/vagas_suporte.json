@@ -2276,22 +2276,5 @@
     "state": "São Paulo",
     "country": "",
     "fonte": "InfoJobs"
-  },
-  {
-    "id": "ca-39032855",
-    "name": "Auxiliar de Suporte Técnico Interno",
-    "workplaceType": "on-site",
-    "jobUrl": "https://www.catho.com.br/vagas/auxiliar-de-suporte-tecnico-interno/39032855",
-    "publishedDate": "2026-11-03T15:00:00.000Z",
-    "topic": "Suporte Técnico",
-    "data_formatada_br": "03/11/2026 às 12:00",
-    "careerPageName": "USB INTERNET",
-    "careerPageUrl": "",
-    "careerPageLogo": "",
-    "isRemoteWork": false,
-    "city": "São Paulo",
-    "state": "São Paulo",
-    "country": "",
-    "fonte": "Catho"
   }
 ]
