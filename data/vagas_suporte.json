@@ -1,5 +1,22 @@
 [
   {
+    "id": "ca-39367925",
+    "name": "Técnico de Suporte em Campo",
+    "workplaceType": "on-site",
+    "jobUrl": "https://www.catho.com.br/vagas/tecnico-de-suporte-em-campo/39367925",
+    "publishedDate": "2026-11-22T01:31:04.000Z",
+    "topic": "Suporte Técnico",
+    "data_formatada_br": "21/11/2026 às 22:31",
+    "careerPageName": "Empresa confidencial",
+    "careerPageUrl": "",
+    "careerPageLogo": "",
+    "isRemoteWork": false,
+    "city": "São Paulo",
+    "state": "São Paulo",
+    "country": "",
+    "fonte": "Catho"
+  },
+  {
     "id": "ca-39355300",
     "name": "Atendente de Help Desk",
     "workplaceType": "on-site",
@@ -2123,22 +2140,5 @@
     "state": "São Paulo",
     "country": "",
     "fonte": "LinkedIn"
-  },
-  {
-    "id": "ca-39158134",
-    "name": "Analista de AMS N1",
-    "workplaceType": "on-site",
-    "jobUrl": "https://www.catho.com.br/vagas/analista-de-ams-n1/39158134",
-    "publishedDate": "2026-11-06T15:00:00.000Z",
-    "topic": "Suporte N1",
-    "data_formatada_br": "06/11/2026 às 12:00",
-    "careerPageName": "IK SOLUTION",
-    "careerPageUrl": "",
-    "careerPageLogo": "",
-    "isRemoteWork": false,
-    "city": "São Paulo",
-    "state": "São Paulo",
-    "country": "",
-    "fonte": "Catho"
   }
 ]
