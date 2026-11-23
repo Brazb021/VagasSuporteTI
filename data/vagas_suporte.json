@@ -17,6 +17,23 @@
     "fonte": "Catho"
   },
   {
+    "id": "li-4493311333",
+    "name": "Analista de Suporte",
+    "workplaceType": "on-site",
+    "jobUrl": "https://br.linkedin.com/jobs/view/analista-de-suporte-at-jobbol-4493311333",
+    "publishedDate": "2026-11-21T15:00:00.000Z",
+    "topic": "Suporte Técnico",
+    "data_formatada_br": "21/11/2026 às 12:00",
+    "careerPageName": "Jobbol",
+    "careerPageUrl": "",
+    "careerPageLogo": "",
+    "isRemoteWork": false,
+    "city": "São Paulo",
+    "state": "São Paulo",
+    "country": "",
+    "fonte": "LinkedIn"
+  },
+  {
     "id": "ca-39355300",
     "name": "Atendente de Help Desk",
     "workplaceType": "on-site",
@@ -1122,6 +1139,23 @@
     "fonte": "LinkedIn"
   },
   {
+    "id": "li-4490944967",
+    "name": "Oportunidades de Carreira: Técnico Suporte | Suporte Técnico | Morumbi (1317405)",
+    "workplaceType": "on-site",
+    "jobUrl": "https://br.linkedin.com/jobs/view/oportunidades-de-carreira-t%C3%A9cnico-suporte-suporte-t%C3%A9cnico-morumbi-1317405-at-einstein-hospital-israelita-4490944967",
+    "publishedDate": "2026-11-16T15:00:00.000Z",
+    "topic": "Suporte Técnico",
+    "data_formatada_br": "16/11/2026 às 12:00",
+    "careerPageName": "Einstein Hospital Israelita",
+    "careerPageUrl": "",
+    "careerPageLogo": "",
+    "isRemoteWork": false,
+    "city": "São Paulo",
+    "state": "São Paulo",
+    "country": "",
+    "fonte": "LinkedIn"
+  },
+  {
     "id": "12896042",
     "name": "Analista de Suporte Jr",
     "workplaceType": "on-site",
@@ -2123,22 +2157,5 @@
     "state": "São Paulo",
     "country": "",
     "fonte": "InfoJobs"
-  },
-  {
-    "id": "li-4488753357",
-    "name": "TECNICO TELESSUPORTE N1",
-    "workplaceType": "on-site",
-    "jobUrl": "https://br.linkedin.com/jobs/view/tecnico-telessuporte-n1-at-candidata-ai-4488753357",
-    "publishedDate": "2026-11-08T15:00:00.000Z",
-    "topic": "Suporte N1",
-    "data_formatada_br": "08/11/2026 às 12:00",
-    "careerPageName": "Candidata ai",
-    "careerPageUrl": "",
-    "careerPageLogo": "",
-    "isRemoteWork": false,
-    "city": "São Paulo",
-    "state": "São Paulo",
-    "country": "",
-    "fonte": "LinkedIn"
   }
 ]
