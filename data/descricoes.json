@@ -1,271 +1,4 @@
 {
-  "12690459": {
-    "fonte": "texto",
-    "secoes": [
-      {
-        "titulo": "Responsabilidades",
-        "blocos": [
-          {
-            "tipo": "item",
-            "texto": "Garantir excelência no atendimento dos técnicos"
-          },
-          {
-            "tipo": "item",
-            "texto": "Resolver questionamento técnico relativo a catraca"
-          },
-          {
-            "tipo": "item",
-            "texto": "Colaborar para a otimização contínua dos nossos produtos para Construção Civil"
-          },
-          {
-            "tipo": "item",
-            "texto": "Auxiliar o atendimento N1 com relação a catraca"
-          },
-          {
-            "tipo": "item",
-            "texto": "Resolver problemas junto ao técnico, auxiliando-o remotamente."
-          }
-        ]
-      },
-      {
-        "titulo": "Requisitos",
-        "blocos": [
-          {
-            "tipo": "item",
-            "texto": "Experiência mandatória Ensino superior ou técnico, completo ou cursando, em ADS, Eletrônica, Engenharia, ou áreas correlatas"
-          },
-          {
-            "tipo": "item",
-            "texto": "Familiaridade com ferramentas de suporte remoto"
-          },
-          {
-            "tipo": "item",
-            "texto": "Competência em lidar com consultas e solicitações técnicas"
-          },
-          {
-            "tipo": "item",
-            "texto": "Experiência anterior em funções de atendimento ao cliente."
-          },
-          {
-            "tipo": "item",
-            "texto": "Experiência Diferencial/Desejada Conhecimento do mercado da construção civil será considerado um diferencial."
-          },
-          {
-            "tipo": "item",
-            "texto": "Características pessoais desejadas Autogerenciável e autosuficiente, com forte capacidade de organização e planejamento."
-          },
-          {
-            "tipo": "item",
-            "texto": "Proatividade e espírito de equipe, capaz de trabalhar de forma independente e em colaboração com outros departamentos."
-          },
-          {
-            "tipo": "item",
-            "texto": "Flexibilidade e adaptabilidade para lidar com diferentes perfis de clientes e situações."
-          },
-          {
-            "tipo": "item",
-            "texto": "Excelentes habilidades de comunicação verbal e escrita, com foco em construção de relacionamentos."
-          },
-          {
-            "tipo": "item",
-            "texto": "Informações adicionais🏢 Modalidade de Trabalho: Híbrido 3x2 - Ajuda de Custo Home Office R$ 70,00"
-          },
-          {
-            "tipo": "item",
-            "texto": "🚘 Benefício mobilidade opções (VT, Vale Combustível ou Estacionamento)"
-          },
-          {
-            "tipo": "item",
-            "texto": "💳 Ticket Refeição: Subsidiado pela Empresa, pago através do cartão flash benefícios"
-          },
-          {
-            "tipo": "item",
-            "texto": "🏥 Plano de saúde: Sul-América sem coparticipação"
-          },
-          {
-            "tipo": "item",
-            "texto": "🦷 Plano Odontológico: Sul-América sem coparticipação"
-          },
-          {
-            "tipo": "item",
-            "texto": "🧠 Programa de Saúde Mental"
-          },
-          {
-            "tipo": "item",
-            "texto": "🎗Seguro de Vida"
-          },
-          {
-            "tipo": "item",
-            "texto": "📚 Parcerias com faculdades e cursos de idiomas para incentivo aos estudos"
-          },
-          {
-            "tipo": "item",
-            "texto": "💊 Convênio Farmácia - Drogaria São Paulo e Drogaria Pacheco"
-          },
-          {
-            "tipo": "item",
-            "texto": "🏊 Convênio Sesc"
-          },
-          {
-            "tipo": "item",
-            "texto": "💪🏼 Total Pass (Descontos em Academias/ Esportes)"
-          },
-          {
-            "tipo": "item",
-            "texto": "😴 Day Off no mês do aniversário"
-          },
-          {
-            "tipo": "item",
-            "texto": "👨‍👦‍👦 Licença Paternidade estendida para 20 dias corridos"
-          },
-          {
-            "tipo": "item",
-            "texto": "👩‍👧‍👦 Licença Maternidade estendida para 180 dias corridos"
-          },
-          {
-            "tipo": "item",
-            "texto": "🧩 Auxilio Creche."
-          }
-        ]
-      }
-    ]
-  },
-  "12871664": {
-    "fonte": "html",
-    "secoes": [
-      {
-        "titulo": "Responsabilidades",
-        "blocos": [
-          {
-            "tipo": "texto",
-            "texto": "Atuar no time de NOC BRADESCO VGR assegurando a disponibilidade, estabilidade e desempenho das redes SD-WAN, atuando de forma proativa e reativa na resolução de incidentes e solicitações de serviço, otimização do ambiente e melhoria contínua, transformando dados em ação, falhas em aprendizado e operações em vantagem competitiva."
-          },
-          {
-            "tipo": "item",
-            "texto": "Administração e operação no fabricante Cisco Viptela;"
-          },
-          {
-            "tipo": "item",
-            "texto": "Monitoramento de performance e disponibilidade de links;"
-          },
-          {
-            "tipo": "item",
-            "texto": "Realização de troubleshooting de: Perda de pacote, latência e jitter, Instabilidade de túneis VPN, Problemas de failover SD-WAN, Conectividade WAN (Internet/MPLS), Túneis VPN (IPSec / overlay SD-WAN), Protocolos de roteamento (BGP, OSPF), Qualidade de serviço (QoS) e performance de aplicações;"
-          },
-          {
-            "tipo": "item",
-            "texto": "Executar mudanças controladas (change management), garantindo rastreabilidade e mitigação de riscos;"
-          },
-          {
-            "tipo": "item",
-            "texto": "Interagir com operadoras, fornecedores e equipes internas (N1 e N3) para resolução de incidentes;"
-          },
-          {
-            "tipo": "item",
-            "texto": "Documentar incidentes, análises de causa raiz (RCA) e procedimentos operacionais;"
-          },
-          {
-            "tipo": "item",
-            "texto": "Apoiar na automação de rotinas operacionais e na evolução de ferramentas de monitoramento."
-          }
-        ]
-      },
-      {
-        "titulo": "Requisitos",
-        "blocos": [
-          {
-            "tipo": "item",
-            "texto": "Ensino superior completo (OU CURSANDO) em áreas relacionadas à Tecnologia da Informação;"
-          },
-          {
-            "tipo": "item",
-            "texto": "Inglês intermediário (leitura, escrita e troubleshooting técnico);"
-          },
-          {
-            "tipo": "item",
-            "texto": "Conhecimento em redes de computadores (TCP/IP, routing e switching);"
-          },
-          {
-            "tipo": "texto",
-            "texto": "Vivência em soluções Fortinet (FortiGate, FortiManager, FortiAnalyzer);"
-          },
-          {
-            "tipo": "item",
-            "texto": "Vivência em Cyber Security aplicada a redes;"
-          },
-          {
-            "tipo": "texto",
-            "texto": "Vivência"
-          },
-          {
-            "tipo": "texto",
-            "texto": "com operações de NOC (monitoramento, incidentes e SLA);"
-          },
-          {
-            "tipo": "item",
-            "texto": "Familiaridade com ferramentas de monitoramento e análise de logs;"
-          },
-          {
-            "tipo": "item",
-            "texto": "Conhecimento de práticas ITIL (Incidente, Problema, Mudança)."
-          }
-        ]
-      },
-      {
-        "titulo": "Informações adicionais",
-        "blocos": [
-          {
-            "tipo": "subtitulo",
-            "texto": "Benefícios de um Vitalent:"
-          },
-          {
-            "tipo": "item",
-            "texto": "Vale refeição (Pluxee Benefícios);"
-          },
-          {
-            "tipo": "item",
-            "texto": "Assistência Médica e Assistência Odontológica (extensível aos dependentes);"
-          },
-          {
-            "tipo": "item",
-            "texto": "Auxílio creche;"
-          },
-          {
-            "tipo": "item",
-            "texto": "Seguro de vida;"
-          },
-          {
-            "tipo": "item",
-            "texto": "Previdência Privada;"
-          },
-          {
-            "tipo": "item",
-            "texto": "Dayoff ( 1 dia de folga dentro do mês de aniversário);"
-          },
-          {
-            "tipo": "item",
-            "texto": "Participação de Lucros;"
-          },
-          {
-            "tipo": "item",
-            "texto": "Oferta colaborador exclusiva da Vivo (50% desconto fatura em seu nome), com desconto especial em linha fixa, banda larga e TV;"
-          },
-          {
-            "tipo": "item",
-            "texto": "Descontos em universidades, cursos e extensão;"
-          },
-          {
-            "tipo": "item",
-            "texto": "Parcerias com Sesc e Senai;"
-          },
-          {
-            "tipo": "item",
-            "texto": "Programas de Bem-estar."
-          }
-        ]
-      }
-    ]
-  },
   "12871756": {
     "fonte": "html",
     "secoes": [
@@ -2678,494 +2411,6 @@
       }
     ]
   },
-  "12916320": {
-    "fonte": "html",
-    "secoes": [
-      {
-        "titulo": "Responsabilidades",
-        "blocos": [
-          {
-            "tipo": "item",
-            "texto": "Atender chamados de N1/N2: acessos, senhas, impressoras, VPN, e-mail."
-          },
-          {
-            "tipo": "texto",
-            "texto": "Registrar, priorizar e documentar os atendimentos no sistema de chamados"
-          },
-          {
-            "tipo": "texto",
-            "texto": "Escalar para o nível sênior o que estiver fora do seu escopo."
-          },
-          {
-            "tipo": "item",
-            "texto": "Administrar o básico de servidores Linux e Windows: usuários, permissões, serviços, atualizações e patches."
-          },
-          {
-            "tipo": "texto",
-            "texto": "Gerenciar o Active Directory: contas, grupos, GPOs simples, reset de senhas."
-          },
-          {
-            "tipo": "texto",
-            "texto": "Fazer a manutenção de scripts e rotinas agendadas (cron, Task Scheduler)"
-          },
-          {
-            "tipo": "item",
-            "texto": "Acompanhar alertas de disponibilidade, disco, CPU e memória (Zabbix, Grafana etc.)."
-          },
-          {
-            "tipo": "item",
-            "texto": "Agir sobre incidentes simples, como liberar espaço, reiniciar serviços ou remontar compartilhamentos."
-          },
-          {
-            "tipo": "item",
-            "texto": "Verificar logs na investigação de falhas."
-          },
-          {
-            "tipo": "item",
-            "texto": "Conferir se as rotinas de backup rodaram com sucesso."
-          },
-          {
-            "tipo": "texto",
-            "texto": "Participar dos testes periódicos de recuperação;"
-          },
-          {
-            "tipo": "item",
-            "texto": "Fazer setup e formatação de estações e notebooks."
-          },
-          {
-            "tipo": "texto",
-            "texto": "Controlar o inventário de hardware e software e as licenças."
-          },
-          {
-            "tipo": "texto",
-            "texto": "Apoiar o onboarding e o offboarding de colaboradores (criação e remoção de acessos)."
-          },
-          {
-            "tipo": "item",
-            "texto": "Executar operações básicas em VMware, Proxmox: criar VMs, tirar snapshots."
-          },
-          {
-            "tipo": "texto",
-            "texto": "Dar suporte inicial em Microsoft 365, Azure ou AWS: licenças, caixas de e-mail."
-          },
-          {
-            "tipo": "item",
-            "texto": "Aplicar atualizações de segurança e manter o antivírus/EDR em dia."
-          },
-          {
-            "tipo": "texto",
-            "texto": "Revisar permissões de acesso e seguir as políticas internas."
-          },
-          {
-            "tipo": "item",
-            "texto": "Documentar procedimentos, topologias e soluções na base de conhecimento.."
-          },
-          {
-            "tipo": "texto",
-            "texto": "Automatizar tarefas repetitivas com scripts em Bash ou PowerShell."
-          }
-        ]
-      },
-      {
-        "titulo": "Requisitos",
-        "blocos": [
-          {
-            "tipo": "texto",
-            "texto": "* Cursando ou formado em formação técnica ou superior em Tecnologia da Informação, Redes, Engenharia da Computação ou áreas correlatas;"
-          },
-          {
-            "tipo": "texto",
-            "texto": "* Conhecimento em sistemas operacionais Windows e Linux;"
-          },
-          {
-            "tipo": "texto",
-            "texto": "* Experiência comprovada em Docker e Kubernetes"
-          },
-          {
-            "tipo": "texto",
-            "texto": "* Noções de redes (TCP/IP, DNS, VPNs, firewall);"
-          },
-          {
-            "tipo": "texto",
-            "texto": "* Administração de Microsoft 365, Active Directory, Exchange Online e Teams."
-          },
-          {
-            "tipo": "subtitulo",
-            "texto": "Diferenciais:"
-          },
-          {
-            "tipo": "texto",
-            "texto": "* Experiência prévia em ambientes financeiros ou de missão crítica;"
-          },
-          {
-            "tipo": "texto",
-            "texto": "* Experiência com cloud computing (AWS, Azure, Google Cloud);"
-          },
-          {
-            "tipo": "texto",
-            "texto": "* Experiência em gestão de Active Directory e GPO;"
-          }
-        ]
-      },
-      {
-        "titulo": "Informações adicionais",
-        "blocos": [
-          {
-            "tipo": "texto",
-            "texto": "💰Remuneração: R$3.800,00"
-          },
-          {
-            "tipo": "texto",
-            "texto": "🎯 Bônus por Performance: até 8 salários ao ano – seu esforço é reconhecido de verdade!;"
-          },
-          {
-            "tipo": "texto",
-            "texto": "🏥 Plano de Saúde Bradesco – 100% coberto para o titular, porque seu bem-estar vem em primeiro lugar;"
-          },
-          {
-            "tipo": "texto",
-            "texto": "🦷 Plano Odontológico Bradesco – opcional, para cuidar do seu sorriso com qualidade;"
-          },
-          {
-            "tipo": "texto",
-            "texto": "🍽️ Vale Refeição/Alimentação de R$60,17/dia no Cartão Flexível Caju – liberdade total para usar como preferir!;"
-          },
-          {
-            "tipo": "texto",
-            "texto": "🚗 Vale Transporte ou Vale Combustível – você escolhe a melhor forma de chegar, sem desconto em folha;"
-          },
-          {
-            "tipo": "texto",
-            "texto": "🏋🏻 TotalPass – acesso a academias, estúdios e bem-estar com desconto exclusivo;"
-          },
-          {
-            "tipo": "texto",
-            "texto": "🎉 Day Off no mês do seu aniversário – um descanso merecido no seu dia!"
-          },
-          {
-            "tipo": "texto",
-            "texto": "📈 Plano de Carreira Estruturado – crescimento real e oportunidades de desenvolvimento;"
-          },
-          {
-            "tipo": "texto",
-            "texto": "⏰Carga Horária: 40 horas semanais (Segunda a Sexta-feira);"
-          },
-          {
-            "tipo": "texto",
-            "texto": "📍Local de Trabalho: Berrini- São Paulo."
-          }
-        ]
-      }
-    ]
-  },
-  "12907124": {
-    "fonte": "html",
-    "secoes": [
-      {
-        "titulo": "🔎 O que buscamos em você?",
-        "blocos": [
-          {
-            "tipo": "texto",
-            "texto": "Buscamos alguém que combine conhecimentos sólidos em infraestrutura de TI, capacidade investigativa, organização e vontade de continuar aprendendo."
-          },
-          {
-            "tipo": "texto",
-            "texto": "Para essa oportunidade, esperamos:"
-          },
-          {
-            "tipo": "item",
-            "texto": "Curso técnico, tecnólogo ou graduação em Tecnologia da Informação ou áreas relacionadas, cursando ou completo."
-          },
-          {
-            "tipo": "item",
-            "texto": "Experiência profissional em infraestrutura de TI, suporte avançado ou sustentação de ambientes corporativos."
-          },
-          {
-            "tipo": "item",
-            "texto": "Conhecimento prático em administração e troubleshooting de servidores Windows e Linux."
-          },
-          {
-            "tipo": "item",
-            "texto": "Familiaridade com serviços Microsoft, incluindo Active Directory, DNS, DHCP, GPO, IIS e gerenciamento de permissões."
-          },
-          {
-            "tipo": "item",
-            "texto": "Conhecimento em administração Linux, gerenciamento de serviços, processos, permissões e análise de logs."
-          },
-          {
-            "tipo": "item",
-            "texto": "Experiência com redes de computadores, TCP/IP, VLANs, roteamento, switching e diagnóstico de conectividade."
-          },
-          {
-            "tipo": "item",
-            "texto": "Conhecimento em plataformas de virtualização, como VMware e Hyper-V."
-          },
-          {
-            "tipo": "item",
-            "texto": "Familiaridade com soluções de backup, restauração de dados e recuperação de ambientes."
-          },
-          {
-            "tipo": "item",
-            "texto": "Conhecimento em administração de firewalls, regras de acesso, NAT e VPNs SSL e IPsec."
-          },
-          {
-            "tipo": "item",
-            "texto": "Experiência com soluções de mensageria e colaboração, como Microsoft 365, Exchange, Zimbra ou tecnologias similares."
-          },
-          {
-            "tipo": "item",
-            "texto": "Conhecimento em ferramentas de monitoramento de infraestrutura, especialmente Zabbix."
-          },
-          {
-            "tipo": "item",
-            "texto": "Compreensão de conceitos de Cloud Computing e integração entre ambientes locais e serviços em nuvem."
-          },
-          {
-            "tipo": "item",
-            "texto": "Capacidade de investigar incidentes, analisar logs e eventos, identificar causas e propor soluções técnicas."
-          },
-          {
-            "tipo": "item",
-            "texto": "Boa comunicação, organização, proatividade e facilidade para trabalhar em equipe."
-          }
-        ]
-      },
-      {
-        "titulo": "⭐ Vai ser um diferencial se você tiver...",
-        "blocos": [
-          {
-            "tipo": "item",
-            "texto": "Experiência com soluções do ecossistema Fortinet, como FortiGate, FortiAnalyzer, FortiManager, DLP e SASE."
-          },
-          {
-            "tipo": "item",
-            "texto": "Vivência com Veeam Backup & Replication e outras soluções corporativas de proteção de dados."
-          },
-          {
-            "tipo": "item",
-            "texto": "Conhecimentos em Disaster Recovery (DR), replicação, alta disponibilidade e continuidade de negócios."
-          },
-          {
-            "tipo": "item",
-            "texto": "Experiência com ambientes de nuvem pública ou privada, como AWS, Google Cloud Platform e Azure."
-          },
-          {
-            "tipo": "item",
-            "texto": "Vivência com ambientes híbridos, integrando infraestrutura local e serviços em nuvem."
-          },
-          {
-            "tipo": "item",
-            "texto": "Conhecimentos em automação de rotinas administrativas utilizando PowerShell, Bash ou ferramentas similares."
-          },
-          {
-            "tipo": "item",
-            "texto": "Certificações técnicas relacionadas a infraestrutura, redes, segurança, sistemas operacionais ou Cloud Computing."
-          }
-        ]
-      },
-      {
-        "titulo": "💙 Por que fazer parte da Penso?",
-        "blocos": [
-          {
-            "tipo": "texto",
-            "texto": "Aqui, você encontra um ambiente de colaboração, troca de conhecimentos e oportunidades para desenvolver suas habilidades técnicas e profissionais."
-          },
-          {
-            "tipo": "texto",
-            "texto": "Valorizamos profissionais curiosos, que gostam de investigar, aprender e compartilhar conhecimentos. Pessoas que não se limitam a executar procedimentos, mas buscam compreender os problemas e encontrar soluções que realmente façam a diferença."
-          },
-          {
-            "tipo": "texto",
-            "texto": "No time de Suporte Avançado, você terá contato com diferentes tecnologias, ambientes e desafios, ampliando sua experiência em infraestrutura, redes, segurança e Cloud, além de contribuir diretamente para a evolução dos serviços e das equipes."
-          },
-          {
-            "tipo": "texto",
-            "texto": "Mais do que dominar todas as tecnologias, valorizamos sua capacidade de aprender, investigar e evoluir diante de novos desafios."
-          },
-          {
-            "tipo": "subtitulo",
-            "texto": "Seu talento tem espaço para crescer por aqui. Venha ser um Thinker! 🚀"
-          }
-        ]
-      }
-    ]
-  },
-  "12898989": {
-    "fonte": "texto",
-    "secoes": [
-      {
-        "titulo": "Responsabilidades",
-        "blocos": [
-          {
-            "tipo": "item",
-            "texto": "Quais serão as atividades deste cargo?"
-          },
-          {
-            "tipo": "item",
-            "texto": "Direção e monitoramento de operações de tecnologia"
-          },
-          {
-            "tipo": "item",
-            "texto": "Suporte a hardware"
-          },
-          {
-            "tipo": "item",
-            "texto": "Suporte ao service desk"
-          },
-          {
-            "tipo": "item",
-            "texto": "Ferramentas e processos para equipes de desenvolvimento de aplicativos"
-          },
-          {
-            "tipo": "item",
-            "texto": "Controle de produção"
-          },
-          {
-            "tipo": "item",
-            "texto": "Criação e modificação de procedimentos e padrões de produção"
-          },
-          {
-            "tipo": "item",
-            "texto": "Gerenciamento de prioridades de novos sistemas de controle de produção"
-          },
-          {
-            "tipo": "item",
-            "texto": "Desenvolvimento de conhecimento das necessidades dos usuários"
-          },
-          {
-            "tipo": "item",
-            "texto": "Uso de habilidades analíticas para resolver problemas"
-          },
-          {
-            "tipo": "item",
-            "texto": "Disponibilidade para resolução de problemas"
-          },
-          {
-            "tipo": "item",
-            "texto": "Coordenação de projetos especiais"
-          },
-          {
-            "tipo": "item",
-            "texto": "Aconselhamento sobre planos organizacionais e análise de procedimentos"
-          },
-          {
-            "tipo": "item",
-            "texto": "Análise e recomendação de melhorias para sistemas de agendamento."
-          }
-        ]
-      },
-      {
-        "titulo": "Requisitos",
-        "blocos": [
-          {
-            "tipo": "item",
-            "texto": "Requisitos:Suporte técnico de TI básico onde o N1 não consegue atuar por limitações de acessos/ferramentas."
-          },
-          {
-            "tipo": "item",
-            "texto": "Configuração e formatação de equipamentos (computador, impressora)."
-          },
-          {
-            "tipo": "item",
-            "texto": "Gestão de estoque/compras equipamentos de TI."
-          },
-          {
-            "tipo": "item",
-            "texto": "Pagamentos dos fornecedores da área."
-          },
-          {
-            "tipo": "item",
-            "texto": "Atendimento a chamados de sistema."
-          },
-          {
-            "tipo": "item",
-            "texto": "Gerenciamento de assets via sistema."
-          },
-          {
-            "tipo": "item",
-            "texto": "Atendimento ao usuário final (demandas do escritório e plantas)."
-          },
-          {
-            "tipo": "item",
-            "texto": "Gestão de tickets via sistema."
-          },
-          {
-            "tipo": "item",
-            "texto": "Controle e acompanhamento de Refresh."
-          },
-          {
-            "tipo": "item",
-            "texto": "Abertura e acompanhamento de chamados para suporte de terceiros Dell/HP/Selbetti."
-          }
-        ]
-      },
-      {
-        "titulo": "Informações adicionais",
-        "blocos": [
-          {
-            "tipo": "item",
-            "texto": "O que te oferecemos nessa jornada?"
-          },
-          {
-            "tipo": "item",
-            "texto": "Salário competitivo, Auxílio Refeição, Auxílio Transporte, Convênio Médico e Odontológico, Gympass, Seguro de Vida, Previdência Privada, Programa de Treinamentos Internos, Programa de Desenvolvimento e Trilha de Carreira, entre outros"
-          }
-        ]
-      }
-    ]
-  },
-  "12902673": {
-    "fonte": "html",
-    "secoes": [
-      {
-        "titulo": "Responsabilidades",
-        "blocos": [
-          {
-            "tipo": "item",
-            "texto": "Será responsável por gerenciar o atendimento de chamados correlacionados ao sistema próprio da empresa;"
-          },
-          {
-            "tipo": "item",
-            "texto": "Prestar atendimento à todos os setores/usuários, solucionando possíveis dúvidas;"
-          },
-          {
-            "tipo": "item",
-            "texto": "Analisar e mapear bugs;"
-          },
-          {
-            "tipo": "item",
-            "texto": "Corrigir erros sistêmicos referente aos faturamentos da empresa."
-          }
-        ]
-      },
-      {
-        "titulo": "Requisitos",
-        "blocos": [
-          {
-            "tipo": "item",
-            "texto": "Superior completo ou cursando em áreas correlatas;"
-          },
-          {
-            "tipo": "item",
-            "texto": "Experiência prévia na área de tecnologia;"
-          },
-          {
-            "tipo": "item",
-            "texto": "Imprescindível que o candidato possua disponibilidade para atuar quatro dias da semana das 08h00 às 18h00 e um dia (negociável) das 10h30 às 20h30."
-          }
-        ]
-      },
-      {
-        "titulo": "Informações adicionais",
-        "blocos": [
-          {
-            "tipo": "texto",
-            "texto": "Benefícios: Vale transporte, Assistência médica, Assistência odontológica, Vale alimentação ou Vale refeição, Gympass e Parceria de estudos com o SENAC e Parceria com o SESC. Venha fazer parte dessa história, vem ser Pabu!!!"
-          }
-        ]
-      }
-    ]
-  },
   "12872425": {
     "fonte": "html",
     "secoes": [
@@ -5408,6 +4653,852 @@
           {
             "tipo": "item",
             "texto": "PLR"
+          }
+        ]
+      }
+    ]
+  },
+  "12944979": {
+    "fonte": "texto",
+    "secoes": [
+      {
+        "titulo": "Responsabilidades",
+        "blocos": [
+          {
+            "tipo": "item",
+            "texto": "Atendimento Multicanal e Triagem: Atender, registrar, categorizar e priorizar chamados recebidos via telefone, e-mail, chat e portal de tickets, assegurando uma comunicação clara e empática.🔹 Suporte Técnico N1: Prestar suporte remoto resolutivo para demandas de primeiro nível (reset de senhas, acesso a sistemas, falhas de impressão e configurações básicas de e-mail).🔹 Gestão de Fila e Escalonamento: Monitorar chamados em aberto para garantir retornos constantes e o cumprimento rigoroso dos SLAs, realizando o escalonamento estruturado de demandas complexas para o suporte N2 ou áreas especialistas.🔹 Ciclo de Vida de Usuários: Apoiar ativamente os processos de onboarding e offboarding corporativo (criação de contas de e-mail, liberação e revogação de acessos sistêmicos).🔹 Base de Conhecimento: Documentar soluções aplicadas e procedimentos operacionais diretamente no sistema de chamados e na base de conhecimento da equipe."
+          },
+          {
+            "tipo": "item",
+            "texto": "Requisitos e qualificações✅ Vivência prática com rotinas de Service Desk (N1), atendimento remoto e uso de ferramentas corporativas de acesso remoto.✅ Domínio no suporte a Sistemas Operacionais (com foco principal em ambiente Windows) e ao ecossistema Pacote Office / Microsoft 365.✅ Experiência no uso de sistemas de gestão de chamados (ITSM) e acompanhamento rigoroso de SLAs.✅ Conhecimento prático em Active Directory (AD) e administração básica de gestão de acessos.✅ Noções estruturadas de redes de computadores, conectividade básica e diagnóstico/manutenção de hardware e periféricos.✅ Familiaridade com boas práticas e diretrizes de Segurança da Informação aplicadas ao suporte ao usuário."
+          }
+        ]
+      },
+      {
+        "titulo": "Informações adicionais",
+        "blocos": [
+          {
+            "tipo": "item",
+            "texto": "ESCALA: Segunda à sexta, em regime 100% presencial.🕑 HORÁRIO: TER A SEX - 07:30-17H30 | SÁB 07:30-16:30."
+          },
+          {
+            "tipo": "item",
+            "texto": "BENEFÍCIOS:🍽️ VALE-REFEIÇÃO: R$ 32,00 por dia trabalhado, através do Cartão Flash Benefícios.🚌 VALE-TRANSPORTE:Opcional, com desconto em folha de pagamento de 6% sobre o salário-base do colaborador.🏨 CONVÊNIO MÉDICO: Plano Amil, 100% custeado para o colaborador."
+          },
+          {
+            "tipo": "item",
+            "texto": "Extensivo a cônjuge e filhos até 24 anos, com desconto mensal e de coparticipação em folha, conforme política interna.🦷 CONVÊNIO ODONTOLÓGICO: Opcional, Plano Amil, com desconto em folha conforme o plano selecionado."
+          },
+          {
+            "tipo": "item",
+            "texto": "Extensivo a cônjuge e filhos até 24 anos, com desconto em folha.🛡️ SEGURO DE VIDA Cobertura corporativa para garantir a sua tranquilidade e a segurança da sua família.💪 TOTALPASS: Acesso a uma ampla rede de academias e estúdios de bem-estar, com plano extensível aos seus dependentes.🎓 UNIVERSIDADE ENGEMON Plataforma de cursos com certificados digitais, focada no seu desenvolvimento técnico e profissional.🍼 KIT NATALIDADE Um mimo preparado com carinho para celebrar a chegada do mais novo membro da sua família.🧸 AUXÍLIO CRECHE:Reembolso para filhos até 60 meses de acordo com a convenção coletiva vigente."
+          },
+          {
+            "tipo": "item",
+            "texto": "Para solicitar o auxílio é necessário enviar documento comprovatório.🧩 AUXÍLIO CRIANÇA EXCEPCIONAL Auxílio financeiro para filhos ou dependentes portadores de necessidades especiais, de acordo com a convenção coletiva vigente."
+          },
+          {
+            "tipo": "item",
+            "texto": "Para solicitar o auxílio é necessário enviar o laudo comprobatório."
+          }
+        ]
+      }
+    ]
+  },
+  "12927330": {
+    "fonte": "texto",
+    "secoes": [
+      {
+        "titulo": "Responsabilidades",
+        "blocos": [
+          {
+            "tipo": "item",
+            "texto": "Realizar atendimento técnico presencial (On-site), identificando e solucionando problemas relacionados a hardware, softwares, sistemas e aplicativos corporativos."
+          },
+          {
+            "tipo": "item",
+            "texto": "Prestar suporte a microcomputadores, notebooks, smartphones, tablets, totens, impressoras e demais periféricos."
+          },
+          {
+            "tipo": "item",
+            "texto": "Diagnosticar falhas de conectividade, incluindo conexões físicas entre equipamentos e pontos de rede."
+          },
+          {
+            "tipo": "item",
+            "texto": "Aplicar soluções emergenciais e alternativas para restabelecer os serviços, acompanhando a implementação da solução definitiva."
+          },
+          {
+            "tipo": "item",
+            "texto": "Executar atividades de instalação, movimentação, adição e alteração de equipamentos (IMAC)."
+          },
+          {
+            "tipo": "item",
+            "texto": "Realizar instalação e configuração de computadores, periféricos, sistemas operacionais, aplicativos e softwares corporativos."
+          },
+          {
+            "tipo": "item",
+            "texto": "Executar atualizações de sistemas operacionais, aplicativos e aplicação de patches de correção, conforme orientações da equipe responsável pela Gestão de Ativos."
+          },
+          {
+            "tipo": "item",
+            "texto": "Registrar movimentações de equipamentos e atendimentos nas ferramentas de gerenciamento de serviços de TI (ITSM)."
+          },
+          {
+            "tipo": "item",
+            "texto": "Realizar atualização de inventário, identificação de necessidades de substituição ou atualização de equipamentos e execução de ações preventivas."
+          },
+          {
+            "tipo": "item",
+            "texto": "Apoiar a distribuição e instalação de novos softwares, releases, aplicativos e atualizações, realizando instalações manuais quando não for possível executar remotamente."
+          },
+          {
+            "tipo": "item",
+            "texto": "Prestar atendimento dedicado às áreas críticas, conforme programação e necessidade da operação."
+          },
+          {
+            "tipo": "item",
+            "texto": "Atuar em conjunto com as equipes de suporte remoto, garantindo a continuidade dos serviços e o cumprimento dos níveis de serviço (SLAs)."
+          }
+        ]
+      },
+      {
+        "titulo": "Requisitos",
+        "blocos": [
+          {
+            "tipo": "item",
+            "texto": "Ensino superior cursando na área de TI"
+          },
+          {
+            "tipo": "item",
+            "texto": "Experiência com suporte técnico em TI."
+          },
+          {
+            "tipo": "item",
+            "texto": "Conhecimentos em manutenção e configuração de equipamentos de informática, instalação de softwares e sistemas operacionais."
+          },
+          {
+            "tipo": "item",
+            "texto": "Vivência com atendimento presencial a usuários e resolução de incidentes técnicos."
+          },
+          {
+            "tipo": "item",
+            "texto": "Informações adicionais🍛 Vale-alimentação ou vale-refeição"
+          },
+          {
+            "tipo": "item",
+            "texto": "👨🏼‍🎓 Desconto em cursos, universidades e instituições de idiomas"
+          },
+          {
+            "tipo": "item",
+            "texto": "📚 Academia Stefanini — plataforma com cursos on-line, gratuitos, atualizados e com certificado"
+          },
+          {
+            "tipo": "item",
+            "texto": "🗣 Mentoring"
+          },
+          {
+            "tipo": "item",
+            "texto": "💉 Clube de vantagens para consultas e exames"
+          },
+          {
+            "tipo": "item",
+            "texto": "🏥 Assistência médica"
+          },
+          {
+            "tipo": "item",
+            "texto": "🦷 Assistência odontológica"
+          },
+          {
+            "tipo": "item",
+            "texto": "💰 Clube de vantagens e descontos nos melhores estabelecimentos"
+          },
+          {
+            "tipo": "item",
+            "texto": "🛫 Clube de viagens"
+          },
+          {
+            "tipo": "item",
+            "texto": "🐶 Convênio para pets."
+          }
+        ]
+      }
+    ]
+  },
+  "12940122": {
+    "fonte": "html",
+    "secoes": [
+      {
+        "titulo": "Responsabilidades",
+        "blocos": [
+          {
+            "tipo": "texto",
+            "texto": "Prestar suporte técnico aos usuários internos e externos da organização, garantindo o funcionamento adequado dos sistemas, softwares e equipamentos de informática. Atuar no diagnóstico e na resolução de problemas técnicos, contribuindo para a continuidade das operações e a qualidade dos serviços de TI."
+          }
+        ]
+      },
+      {
+        "titulo": "Requisitos",
+        "blocos": [
+          {
+            "tipo": "subtitulo",
+            "texto": "Principais responsabilidades"
+          },
+          {
+            "tipo": "item",
+            "texto": "Realizar diagnóstico e resolução de incidentes técnicos relacionados a hardware, software, sistemas e equipamentos de informática;"
+          },
+          {
+            "tipo": "item",
+            "texto": "Prestar suporte técnico remoto e presencial aos usuários, auxiliando na configuração e utilização dos recursos tecnológicos;"
+          },
+          {
+            "tipo": "item",
+            "texto": "Instalar, configurar, atualizar e realizar manutenção de softwares e hardwares;"
+          },
+          {
+            "tipo": "item",
+            "texto": "Acompanhar e administrar chamados técnicos, garantindo o tratamento e a resolução das solicitações dentro dos prazos estabelecidos;"
+          },
+          {
+            "tipo": "item",
+            "texto": "Identificar necessidades de atualização, melhoria e adequação dos sistemas e equipamentos;"
+          },
+          {
+            "tipo": "item",
+            "texto": "Orientar e fornecer treinamentos básicos aos usuários sobre a utilização adequada dos sistemas e ferramentas de informática;"
+          },
+          {
+            "tipo": "item",
+            "texto": "Elaborar e atualizar documentações, procedimentos e guias de utilização dos sistemas;"
+          },
+          {
+            "tipo": "item",
+            "texto": "Apoiar projetos de implementação de novas tecnologias e atualização da infraestrutura de TI;"
+          },
+          {
+            "tipo": "item",
+            "texto": "Realizar manutenções preventivas nos equipamentos, visando garantir seu funcionamento e disponibilidade;"
+          },
+          {
+            "tipo": "item",
+            "texto": "Apoiar a equipe de TI na identificação de possíveis vulnerabilidades e na implementação de medidas de segurança da informação."
+          },
+          {
+            "tipo": "subtitulo",
+            "texto": "Requisitos e qualificações"
+          },
+          {
+            "tipo": "item",
+            "texto": "Ensino superior incompleto (desejável);"
+          },
+          {
+            "tipo": "item",
+            "texto": "Conhecimentos básicos em hardware, software e sistemas operacionais;"
+          },
+          {
+            "tipo": "item",
+            "texto": "Noções de instalação, configuração e manutenção de equipamentos de informática;"
+          },
+          {
+            "tipo": "item",
+            "texto": "Boa comunicação e habilidade para atendimento aos usuários;"
+          },
+          {
+            "tipo": "item",
+            "texto": "Organização, proatividade e capacidade de análise e resolução de problemas."
+          }
+        ]
+      },
+      {
+        "titulo": "Informações adicionais",
+        "blocos": [
+          {
+            "tipo": "texto",
+            "texto": "🍛 Vale-alimentação ou vale-refeição;"
+          },
+          {
+            "tipo": "texto",
+            "texto": "👨🏼‍🎓 Desconto em cursos, universidades e instituições de idiomas;"
+          },
+          {
+            "tipo": "texto",
+            "texto": "📚 Academia Stefanini — plataforma com cursos on-line, gratuitos, atualizados e com certificado;"
+          },
+          {
+            "tipo": "texto",
+            "texto": "🗣 Mentoring;"
+          },
+          {
+            "tipo": "texto",
+            "texto": "💉 Clube de vantagens para consultas e exames;"
+          },
+          {
+            "tipo": "texto",
+            "texto": "🏥 Assistência médica;"
+          },
+          {
+            "tipo": "texto",
+            "texto": "🦷 Assistência odontológica;"
+          },
+          {
+            "tipo": "texto",
+            "texto": "💰 Clube de vantagens e descontos nos melhores estabelecimentos;"
+          },
+          {
+            "tipo": "texto",
+            "texto": "🛫 Clube de viagens;"
+          },
+          {
+            "tipo": "texto",
+            "texto": "🐶 Convênio para pets."
+          }
+        ]
+      }
+    ]
+  },
+  "12946406": {
+    "fonte": "texto",
+    "secoes": [
+      {
+        "titulo": "Responsabilidades",
+        "blocos": [
+          {
+            "tipo": "item",
+            "texto": "Atender chamados via Service Desk e e-mail (suporte nível 1), registrando e acompanhando as ocorrências até a solução"
+          },
+          {
+            "tipo": "item",
+            "texto": "Instalar, configurar, formatar e manter computadores, notebooks, impressoras e periféricos"
+          },
+          {
+            "tipo": "item",
+            "texto": "Executar e apoiar os planos de manutenção preventiva e corretiva de equipamentos"
+          },
+          {
+            "tipo": "item",
+            "texto": "Apoiar a administração da rede local (pontos de rede, conectividade, Wi-Fi) e regras básicas de firewall, sob orientação do time"
+          },
+          {
+            "tipo": "item",
+            "texto": "Apoiar a sustentação das ferramentas de atendimento ao usuário, incluindo chatbot"
+          },
+          {
+            "tipo": "item",
+            "texto": "Acompanhar entregas de fornecedores e de sistemas diversos"
+          },
+          {
+            "tipo": "item",
+            "texto": "Apoiar projetos: levantar requisitos, realizar testes e homologações (inclusive de pacotes front-end) e produzir relatórios e documentações."
+          }
+        ]
+      },
+      {
+        "titulo": "Requisitos",
+        "blocos": [
+          {
+            "tipo": "item",
+            "texto": "Ensino técnico ou superior em andamento ou concluído em TI (Redes, Sistemas de Informação, Ciência da Computação, Análise e Desenvolvimento de Sistemas ou áreas afins)"
+          },
+          {
+            "tipo": "item",
+            "texto": "Conhecimentos práticos em suporte a usuários, formatação e manutenção de microcomputadores (adquiridos em curso, estágio, projetos pessoais ou experiência profissional)."
+          },
+          {
+            "tipo": "item",
+            "texto": "Conhecimento em instalação e configuração de Windows e pacote Office/Microsoft 365"
+          },
+          {
+            "tipo": "item",
+            "texto": "Noções de redes: TCP/IP, DHCP, DNS, cabeamento e Wi-Fi"
+          },
+          {
+            "tipo": "item",
+            "texto": "Boa comunicação, organização e capacidade de documentar atividades realizadas"
+          },
+          {
+            "tipo": "item",
+            "texto": "Postura proativa, curiosidade e disposição para aprender."
+          },
+          {
+            "tipo": "item",
+            "texto": "Diferenciais:Experiência anterior com suporte técnico, inclusive estágio"
+          },
+          {
+            "tipo": "item",
+            "texto": "Noções de firewall (pfSense, Fortinet, Sophos ou similares)"
+          },
+          {
+            "tipo": "item",
+            "texto": "Noções de Active Directory e gerenciamento de usuários"
+          },
+          {
+            "tipo": "item",
+            "texto": "Experiência com ferramentas de chamados (GLPI, Jira Service Management, ServiceNow ou similares)"
+          },
+          {
+            "tipo": "item",
+            "texto": "Noções de Linux"
+          },
+          {
+            "tipo": "item",
+            "texto": "Contato com testes de sistemas ou homologação"
+          },
+          {
+            "tipo": "item",
+            "texto": "Certificações de entrada (CompTIA A+, Network+, CCNA, ITIL Foundation) ou cursos em andamento."
+          }
+        ]
+      },
+      {
+        "titulo": "Informações adicionais",
+        "blocos": [
+          {
+            "tipo": "item",
+            "texto": "Regime de contratação: CLTLocal de atuação: Rua da Consolação – Cerqueira César (região da Av."
+          },
+          {
+            "tipo": "item",
+            "texto": "Paulista), São Paulo/SPModelo de trabalho: 100% presencialPlano de Saúde"
+          },
+          {
+            "tipo": "item",
+            "texto": "Plano Odontológico"
+          },
+          {
+            "tipo": "item",
+            "texto": "Seguro de Vida"
+          },
+          {
+            "tipo": "item",
+            "texto": "Vale-transporte"
+          },
+          {
+            "tipo": "item",
+            "texto": "Vale-refeição ou alimentação"
+          },
+          {
+            "tipo": "item",
+            "texto": "Wellhub (Gympass)"
+          },
+          {
+            "tipo": "item",
+            "texto": "Clube de Vantagens."
+          }
+        ]
+      }
+    ]
+  },
+  "12855878": {
+    "fonte": "html",
+    "secoes": [
+      {
+        "titulo": "Responsabilidades",
+        "blocos": [
+          {
+            "tipo": "item",
+            "texto": "Atuar no"
+          },
+          {
+            "tipo": "subtitulo",
+            "texto": "suporte técnico de 1"
+          },
+          {
+            "tipo": "subtitulo",
+            "texto": "º"
+          },
+          {
+            "tipo": "texto",
+            "texto": "e 2º nível"
+          },
+          {
+            "tipo": "texto",
+            "texto": "aos sistemas e aplicações da empresa, realizando análises e investigações de incidentes."
+          },
+          {
+            "tipo": "item",
+            "texto": "Investigar problemas em aplicações, integrações e bancos de dados, identificando possíveis causas e propondo soluções."
+          },
+          {
+            "tipo": "item",
+            "texto": "Realizar análise de logs, consultas SQL e leitura de código-fonte para apoiar o diagnóstico de falhas."
+          },
+          {
+            "tipo": "item",
+            "texto": "Analisar e validar o funcionamento de APIs e integrações entre sistemas, utilizando ferramentas como Postman."
+          },
+          {
+            "tipo": "item",
+            "texto": "Executar testes funcionais e de validação após correções, atualizações ou implantações de sistemas."
+          },
+          {
+            "tipo": "item",
+            "texto": "Atuar em conjunto com os times de desenvolvimento, QA, infraestrutura e banco de dados na resolução de incidentes."
+          },
+          {
+            "tipo": "item",
+            "texto": "Registrar, documentar e acompanhar incidentes, garantindo informações claras para análise, escalonamento e resolução."
+          },
+          {
+            "tipo": "item",
+            "texto": "Monitorar os chamados sob sua responsabilidade, respeitando prioridades, criticidade e acordos de nível de serviço (SLAs)."
+          },
+          {
+            "tipo": "item",
+            "texto": "Criar e manter documentação técnica, procedimentos operacionais e base de conhecimento."
+          },
+          {
+            "tipo": "item",
+            "texto": "Identificar problemas recorrentes e propor ações preventivas e melhorias nos processos de sustentação."
+          },
+          {
+            "tipo": "item",
+            "texto": "Utilizar ferramentas de Inteligência Artificial para apoiar investigações técnicas, análise de código, logs, documentação e ganho de produtividade, respeitando as políticas de segurança da informação."
+          }
+        ]
+      },
+      {
+        "titulo": "Requisitos",
+        "blocos": [
+          {
+            "tipo": "texto",
+            "texto": "E para ver se de fato rolou"
+          },
+          {
+            "tipo": "subtitulo",
+            "texto": "aquele"
+          },
+          {
+            "tipo": "texto",
+            "texto": "match, confira os requisitos necessários:"
+          },
+          {
+            "tipo": "subtitulo",
+            "texto": "Formação:"
+          },
+          {
+            "tipo": "texto",
+            "texto": "Graduação completa nas seguintes áreas: Análise de Sistemas, Sistemas da Informação, Ciências da Computação, Engenharia de Software ou afins."
+          },
+          {
+            "tipo": "subtitulo",
+            "texto": "Técnicas (Hard Skills):"
+          },
+          {
+            "tipo": "item",
+            "texto": "Domínio em análise de código-fonte, com forte preferência pela linguagem C#."
+          },
+          {
+            "tipo": "item",
+            "texto": "Domínio em bancos de dados relacionais (SQL), com autonomia para análise, criação e manutenção de Procedures, Functions e rotinas complexas."
+          },
+          {
+            "tipo": "item",
+            "texto": "Conhecimento prático em testes, análise e consumo de APIs utilizando o Postman."
+          },
+          {
+            "tipo": "item",
+            "texto": "Vivência com ferramentas de versionamento de código, especificamente GitLab."
+          },
+          {
+            "tipo": "item",
+            "texto": "Familiaridade com bancos de dados não relacionais (MongoDB)."
+          },
+          {
+            "tipo": "item",
+            "texto": "Experiência na utilização de ferramentas de Inteligência Artificial generativa, como Gemini ou Claude, para apoiar atividades do dia a dia, incluindo análise de código, investigação de incidentes, interpretação de logs, consultas SQL, documentação técnica e resolução de problemas."
+          },
+          {
+            "tipo": "item",
+            "texto": "Familiaridade com boas práticas de utilização de IA, respeitando as diretrizes de segurança e confidencialidade das informações corporativas."
+          },
+          {
+            "tipo": "subtitulo",
+            "texto": "Comportamentais (Soft Skills):"
+          },
+          {
+            "tipo": "item",
+            "texto": "Perfil analítico, investigativo para o troubleshooting"
+          },
+          {
+            "tipo": "texto",
+            "texto": "e orientado à resolução de problemas."
+          },
+          {
+            "tipo": "item",
+            "texto": "Autonomia para conduzir investigações técnicas e buscar soluções."
+          },
+          {
+            "tipo": "item",
+            "texto": "Organização e capacidade de priorizar atividades conforme impacto e criticidade."
+          },
+          {
+            "tipo": "item",
+            "texto": "Boa comunicação para interação com usuários, equipes técnicas e áreas de negócio."
+          },
+          {
+            "tipo": "item",
+            "texto": "Proatividade para identificar melhorias e prevenir a recorrência de incidentes."
+          },
+          {
+            "tipo": "item",
+            "texto": "Colaboração, senso de responsabilidade, compromisso com a qualidade dos serviços"
+          },
+          {
+            "tipo": "texto",
+            "texto": "e atenção aos detalhes."
+          },
+          {
+            "tipo": "subtitulo",
+            "texto": "Diferenciais :"
+          },
+          {
+            "tipo": "item",
+            "texto": "Familiaridade com ferramentas de observabilidade, monitoramento e logs."
+          },
+          {
+            "tipo": "item",
+            "texto": "Experiência com Jira ou ferramentas similares de gestão de chamados."
+          },
+          {
+            "tipo": "item",
+            "texto": "Noções de Cloud Computing, preferencialmente com vivência em Google Cloud Platform (GCP)."
+          },
+          {
+            "tipo": "item",
+            "texto": "Experiência na análise de incidentes de sistemas transacionais e integrações com parceiros."
+          }
+        ]
+      },
+      {
+        "titulo": "Informações adicionais",
+        "blocos": [
+          {
+            "tipo": "texto",
+            "texto": "O que você vai encontrar:"
+          },
+          {
+            "tipo": "subtitulo",
+            "texto": "Plano de medicamentos"
+          },
+          {
+            "tipo": "texto",
+            "texto": "Cobertura de 50% para a compra de medicamentos gerais com receita médica e de 100% para medicamentos prescritos voltados à saúde da mulher."
+          },
+          {
+            "tipo": "subtitulo",
+            "texto": "Bem-estar 360º:"
+          },
+          {
+            "tipo": "item",
+            "texto": "Totalpass"
+          },
+          {
+            "tipo": "item",
+            "texto": "Conexa Saúde: terapia online"
+          },
+          {
+            "tipo": "item",
+            "texto": "Planos alimentares personalizados"
+          },
+          {
+            "tipo": "item",
+            "texto": "Check-up de bem-estar: Descubra como está a sua saúde física e mental"
+          },
+          {
+            "tipo": "item",
+            "texto": "Conteúdos de bem-estar físico e mental"
+          },
+          {
+            "tipo": "item",
+            "texto": "Plataforma com mais de 3.500 videoaulas de diversas modalidades para atividade física"
+          },
+          {
+            "tipo": "texto",
+            "texto": "E mais:"
+          },
+          {
+            "tipo": "item",
+            "texto": "Plano de Saúde Amil (coparticipativo);"
+          },
+          {
+            "tipo": "item",
+            "texto": "Plano Odontológico Amil;"
+          },
+          {
+            "tipo": "item",
+            "texto": "Seguro de Vida Metflife;"
+          },
+          {
+            "tipo": "item",
+            "texto": "Vale refeição ou vale alimentação;"
+          },
+          {
+            "tipo": "item",
+            "texto": "Onhappy - Plataforma de desconto em viagens;"
+          },
+          {
+            "tipo": "item",
+            "texto": "Valorização a diversidade;"
+          },
+          {
+            "tipo": "item",
+            "texto": "No dress - code (coloque sua bermuda sempre que quiser!!!);"
+          },
+          {
+            "tipo": "item",
+            "texto": "Emendas de todos os feriados;"
+          },
+          {
+            "tipo": "item",
+            "texto": "Trabalho Híbrido (2 dias no escritório em São Caetano);"
+          },
+          {
+            "tipo": "item",
+            "texto": "Day-off de aniversário;"
+          },
+          {
+            "tipo": "item",
+            "texto": "Muita animação (adoramos uma festa!!)"
+          },
+          {
+            "tipo": "subtitulo",
+            "texto": "E aí, deu match? Então venha fazer a diferença com a gente!"
+          }
+        ]
+      }
+    ]
+  },
+  "12933863": {
+    "fonte": "html",
+    "secoes": [
+      {
+        "titulo": "Responsabilidades",
+        "blocos": [
+          {
+            "tipo": "texto",
+            "texto": "Buscamos um(a) profissional para atuar no projeto de segmentação de rede do cliente Braskem, apoiando as atividades de infraestrutura e conectividade. É importante ter conhecimentos básicos em redes de computadores e capacidade de comunicação em inglês e português para interação com equipes e stakeholders."
+          }
+        ]
+      },
+      {
+        "titulo": "Requisitos",
+        "blocos": [
+          {
+            "tipo": "subtitulo",
+            "texto": "Principais responsabilidades"
+          },
+          {
+            "tipo": "item",
+            "texto": "Apoiar as atividades do projeto de segmentação de rede;"
+          },
+          {
+            "tipo": "item",
+            "texto": "Auxiliar nas demandas relacionadas à infraestrutura e conectividade;"
+          },
+          {
+            "tipo": "item",
+            "texto": "Apoiar a identificação e análise de questões básicas de redes;"
+          },
+          {
+            "tipo": "item",
+            "texto": "Interagir com equipes nacionais e internacionais, utilizando inglês e português;"
+          },
+          {
+            "tipo": "item",
+            "texto": "Acompanhar as atividades e demandas do projeto, contribuindo para seu andamento."
+          },
+          {
+            "tipo": "subtitulo",
+            "texto": "Requisitos e qualificações"
+          },
+          {
+            "tipo": "item",
+            "texto": "Ensino médio completo;"
+          },
+          {
+            "tipo": "item",
+            "texto": "Conhecimento básico em redes de computadores;"
+          },
+          {
+            "tipo": "item",
+            "texto": "Inglês avançado;"
+          },
+          {
+            "tipo": "item",
+            "texto": "Português fluente;"
+          },
+          {
+            "tipo": "item",
+            "texto": "Boa comunicação e facilidade para trabalhar em equipe;"
+          },
+          {
+            "tipo": "item",
+            "texto": "Organização e disposição para aprender."
+          },
+          {
+            "tipo": "subtitulo",
+            "texto": "Idiomas"
+          },
+          {
+            "tipo": "subtitulo",
+            "texto": "Português:"
+          },
+          {
+            "tipo": "texto",
+            "texto": "fluente;"
+          },
+          {
+            "tipo": "subtitulo",
+            "texto": "Inglês:"
+          },
+          {
+            "tipo": "texto",
+            "texto": "avançado."
+          }
+        ]
+      },
+      {
+        "titulo": "Informações adicionais",
+        "blocos": [
+          {
+            "tipo": "texto",
+            "texto": "🍛 Vale-alimentação ou vale-refeição;"
+          },
+          {
+            "tipo": "texto",
+            "texto": "👨🏼‍🎓 Desconto em cursos, universidades e instituições de idiomas;"
+          },
+          {
+            "tipo": "texto",
+            "texto": "📚 Academia Stefanini — plataforma com cursos on-line, gratuitos, atualizados e com certificado;"
+          },
+          {
+            "tipo": "texto",
+            "texto": "🗣 Mentoring;"
+          },
+          {
+            "tipo": "texto",
+            "texto": "💉 Clube de vantagens para consultas e exames;"
+          },
+          {
+            "tipo": "texto",
+            "texto": "🏥 Assistência médica;"
+          },
+          {
+            "tipo": "texto",
+            "texto": "🦷 Assistência odontológica;"
+          },
+          {
+            "tipo": "texto",
+            "texto": "💰 Clube de vantagens e descontos nos melhores estabelecimentos;"
+          },
+          {
+            "tipo": "texto",
+            "texto": "🛫 Clube de viagens;"
+          },
+          {
+            "tipo": "texto",
+            "texto": "🐶 Convênio para pets."
           }
         ]
       }
