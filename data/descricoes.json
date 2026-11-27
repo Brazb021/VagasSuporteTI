@@ -1,632 +1,4 @@
 {
-  "12871756": {
-    "fonte": "html",
-    "secoes": [
-      {
-        "titulo": "Responsabilidades",
-        "blocos": [
-          {
-            "tipo": "item",
-            "texto": "Atender e registrar as solicitações dos usuários cadastrados no sistema de gerenciamento de chamados."
-          },
-          {
-            "tipo": "item",
-            "texto": "Categorizar e priorizar os chamados conforme as regras e procedimentos definidos pelo cliente."
-          },
-          {
-            "tipo": "item",
-            "texto": "Orientar os usuários quando a solicitação estiver fora do escopo contratado, indicando o canal adequado para atendimento."
-          },
-          {
-            "tipo": "item",
-            "texto": "Realizar atendimentos e solucionar chamados por telefone e/ou ferramentas de acesso remoto."
-          },
-          {
-            "tipo": "item",
-            "texto": "Esclarecer dúvidas relacionadas à infraestrutura de TI e à utilização dos recursos disponibilizados."
-          },
-          {
-            "tipo": "item",
-            "texto": "Atuar na resolução de incidentes relacionados a acessos indevidos, vírus e reinstalação de softwares."
-          },
-          {
-            "tipo": "item",
-            "texto": "Registrar e encaminhar chamados relacionados a hardware, software, infraestrutura, solicitações de serviços, atendimentos presenciais e recuperação de dados."
-          },
-          {
-            "tipo": "item",
-            "texto": "Solucionar chamados elegíveis para FCR (First Call Resolution), buscando a resolução no primeiro contato."
-          },
-          {
-            "tipo": "item",
-            "texto": "Identificar e registrar incidentes críticos, realizando a abertura de chamados e o devido escalonamento às equipes responsáveis."
-          },
-          {
-            "tipo": "item",
-            "texto": "Manter os registros dos atendimentos atualizados, documentando as ações realizadas e os encaminhamentos necessários."
-          }
-        ]
-      },
-      {
-        "titulo": "Requisitos",
-        "blocos": [
-          {
-            "tipo": "item",
-            "texto": "Ensino Superior cursando e ou completo, preferencialmente em Tecnologia da Informação, Sistemas de Informação, Ciência da Computação ou áreas correlatas."
-          },
-          {
-            "tipo": "item",
-            "texto": "Conhecimentos básicos em suporte técnico de TI."
-          },
-          {
-            "tipo": "item",
-            "texto": "Noções de hardware, software, sistemas operacionais e infraestrutura de TI."
-          },
-          {
-            "tipo": "item",
-            "texto": "Conhecimento em atendimento ao usuário e ferramentas de gerenciamento de chamados."
-          },
-          {
-            "tipo": "item",
-            "texto": "Familiaridade com ferramentas de acesso remoto."
-          }
-        ]
-      },
-      {
-        "titulo": "Informações adicionais",
-        "blocos": [
-          {
-            "tipo": "texto",
-            "texto": "🍛 Vale-alimentação ou vale-refeição;"
-          },
-          {
-            "tipo": "texto",
-            "texto": "👨🏼‍🎓 Desconto em cursos, universidades e instituições de idiomas;"
-          },
-          {
-            "tipo": "texto",
-            "texto": "📚 Academia Stefanini — plataforma com cursos on-line, gratuitos, atualizados e com certificado;"
-          },
-          {
-            "tipo": "texto",
-            "texto": "🗣 Mentoring;"
-          },
-          {
-            "tipo": "texto",
-            "texto": "💉 Clube de vantagens para consultas e exames;"
-          },
-          {
-            "tipo": "texto",
-            "texto": "🏥 Assistência médica;"
-          },
-          {
-            "tipo": "texto",
-            "texto": "🦷 Assistência odontológica;"
-          },
-          {
-            "tipo": "texto",
-            "texto": "💰 Clube de vantagens e descontos nos melhores estabelecimentos;"
-          },
-          {
-            "tipo": "texto",
-            "texto": "🛫 Clube de viagens;"
-          },
-          {
-            "tipo": "texto",
-            "texto": "🐶 Convênio para pets."
-          }
-        ]
-      }
-    ]
-  },
-  "12819464": {
-    "fonte": "texto",
-    "secoes": [
-      {
-        "titulo": "Responsabilidades",
-        "blocos": [
-          {
-            "tipo": "item",
-            "texto": "Atendimento e Suporte ao Usuário"
-          },
-          {
-            "tipo": "item",
-            "texto": "Atendimento presencial, telefônico e através de ferramentas corporativas"
-          },
-          {
-            "tipo": "item",
-            "texto": "Suporte técnico básico em microinformática e telefonia móvel"
-          },
-          {
-            "tipo": "item",
-            "texto": "Comunicação clara e adequada ao perfil do usuário"
-          },
-          {
-            "tipo": "item",
-            "texto": "Atendimento a usuários"
-          },
-          {
-            "tipo": "item",
-            "texto": "Acompanhamento das demandas até sua conclusão"
-          },
-          {
-            "tipo": "item",
-            "texto": "Priorização e tratamento de incidentes críticos."
-          },
-          {
-            "tipo": "item",
-            "texto": "🔹 Telefonia Móvel Corporativa"
-          },
-          {
-            "tipo": "item",
-            "texto": "Atendimento e suporte a demandas relacionadas à telefonia móvel corporativa"
-          },
-          {
-            "tipo": "item",
-            "texto": "Controle e administração de linhas móveis"
-          },
-          {
-            "tipo": "item",
-            "texto": "Ativação, cancelamento, bloqueio e substituição de linhas e chips"
-          },
-          {
-            "tipo": "item",
-            "texto": "Configuração básica de dispositivos Android e iPhone"
-          },
-          {
-            "tipo": "item",
-            "texto": "Controle e movimentação de aparelhos, chips e acessórios"
-          },
-          {
-            "tipo": "item",
-            "texto": "Apoio na gestão de inventário de telefonia"
-          },
-          {
-            "tipo": "item",
-            "texto": "Acompanhamento de solicitações junto às operadoras"
-          },
-          {
-            "tipo": "item",
-            "texto": "Configurações de tablets."
-          },
-          {
-            "tipo": "item",
-            "texto": "🔹 Microinformática e Gestão de Ativos"
-          },
-          {
-            "tipo": "item",
-            "texto": "Atendimento de microinformática aos usuários"
-          },
-          {
-            "tipo": "item",
-            "texto": "Instalação, configuração e suporte básico de equipamentos corporativos"
-          },
-          {
-            "tipo": "item",
-            "texto": "Controle de equipamentos e ativos de TI"
-          },
-          {
-            "tipo": "item",
-            "texto": "Acompanhamento de estoque de equipamentos de telefonia e microinformática"
-          },
-          {
-            "tipo": "item",
-            "texto": "Apoio em inventários e auditorias"
-          },
-          {
-            "tipo": "item",
-            "texto": "Atualização de controles internos e sistemas de gestão de ativos."
-          },
-          {
-            "tipo": "item",
-            "texto": "🔹 Operação e Controle"
-          },
-          {
-            "tipo": "item",
-            "texto": "Tratativa de filas de chamados, requisições e backlog"
-          },
-          {
-            "tipo": "item",
-            "texto": "Acompanhamento de indicadores, controles e relatórios operacionais"
-          },
-          {
-            "tipo": "item",
-            "texto": "Atualização de registros em ferramentas corporativas"
-          },
-          {
-            "tipo": "item",
-            "texto": "Cumprimento dos SLAs e procedimentos definidos"
-          },
-          {
-            "tipo": "item",
-            "texto": "Atendimento aos critérios de qualidade estabelecidos para a operação"
-          },
-          {
-            "tipo": "item",
-            "texto": "Apoio na sustentação das atividades do contrato."
-          },
-          {
-            "tipo": "item",
-            "texto": "🔹 Gestão de Processos e Fornecedores"
-          },
-          {
-            "tipo": "item",
-            "texto": "Acompanhamento e cobrança de fornecedores quando necessário"
-          },
-          {
-            "tipo": "item",
-            "texto": "Apoio na elaboração, revisão e melhoria contínua de processos"
-          },
-          {
-            "tipo": "item",
-            "texto": "Colaboração na documentação de procedimentos operacionais"
-          },
-          {
-            "tipo": "item",
-            "texto": "Identificação de oportunidades de melhoria na operação"
-          },
-          {
-            "tipo": "item",
-            "texto": "Apoio na implementação de novos fluxos e controles."
-          },
-          {
-            "tipo": "item",
-            "texto": "🔹 Postura Profissional"
-          },
-          {
-            "tipo": "item",
-            "texto": "Boa comunicação verbal e escrita"
-          },
-          {
-            "tipo": "item",
-            "texto": "Organização e atenção aos detalhes"
-          },
-          {
-            "tipo": "item",
-            "texto": "Senso de urgência e priorização"
-          },
-          {
-            "tipo": "item",
-            "texto": "Proatividade na resolução de problemas"
-          },
-          {
-            "tipo": "item",
-            "texto": "Trabalho em equipe e relacionamento interpessoal"
-          },
-          {
-            "tipo": "item",
-            "texto": "Foco na experiência e satisfação do usuário."
-          }
-        ]
-      },
-      {
-        "titulo": "Requisitos",
-        "blocos": [
-          {
-            "tipo": "item",
-            "texto": "✅ Obrigatórios"
-          },
-          {
-            "tipo": "item",
-            "texto": "Experiência em atendimento ao usuário, Service Desk, Field Service ou suporte técnico"
-          },
-          {
-            "tipo": "item",
-            "texto": "Conhecimento básico de telefonia móvel corporativa"
-          },
-          {
-            "tipo": "item",
-            "texto": "Conhecimento em microinformática"
-          },
-          {
-            "tipo": "item",
-            "texto": "Conhecimento em pacote Microsoft Office e Microsoft 365"
-          },
-          {
-            "tipo": "item",
-            "texto": "Boa comunicação verbal e escrita"
-          },
-          {
-            "tipo": "item",
-            "texto": "Ensino superior completo em áreas de TI ou correlatas."
-          },
-          {
-            "tipo": "item",
-            "texto": "⭐ Desejáveis"
-          },
-          {
-            "tipo": "item",
-            "texto": "Experiência com gestão de linhas móveis corporativas"
-          },
-          {
-            "tipo": "item",
-            "texto": "Conhecimento em Android e iOS"
-          },
-          {
-            "tipo": "item",
-            "texto": "Experiência com ferramentas ITSM"
-          },
-          {
-            "tipo": "item",
-            "texto": "Conhecimento em gestão de ativos"
-          },
-          {
-            "tipo": "item",
-            "texto": "Certificação ITIL"
-          },
-          {
-            "tipo": "item",
-            "texto": "Experiência em ambiente corporativo."
-          }
-        ]
-      },
-      {
-        "titulo": "Informações adicionais",
-        "blocos": [
-          {
-            "tipo": "item",
-            "texto": "Nossos benefícios:Plano de Saúde"
-          },
-          {
-            "tipo": "item",
-            "texto": "Plano Odontológico"
-          },
-          {
-            "tipo": "item",
-            "texto": "Seguro Prudential: é concedido ao colaborador, de forma gratuita o seguro de vida, auxílio funeral e cesta natalidade, conforme regras específicas da seguradora"
-          },
-          {
-            "tipo": "item",
-            "texto": "Vale Refeição ou Vale Alimentação"
-          },
-          {
-            "tipo": "item",
-            "texto": "Vale Transporte: é concedido ao colaborador, para uso no trajeto residência – trabalho – residência, e será descontado mensalmente o percentual de 6% sob o valor do salário, limitado ao valor do benefício (opcional)"
-          },
-          {
-            "tipo": "item",
-            "texto": "Day off: será concedido ao colaborador folga em virtude do dia do aniversário, devendo este ser usufruído na mesma data e/ou no mês do aniversário"
-          },
-          {
-            "tipo": "item",
-            "texto": "Convênios e Parcerias (Instituições de Ensino, Academias, Cursos de Idiomas entre outros)"
-          },
-          {
-            "tipo": "item",
-            "texto": "Ginástica Laboral."
-          }
-        ]
-      }
-    ]
-  },
-  "12878666": {
-    "fonte": "html",
-    "secoes": [
-      {
-        "titulo": "Responsabilidades",
-        "blocos": [
-          {
-            "tipo": "texto",
-            "texto": "Buscamos uma pessoa Analista de Suporte de TI Júnior para atender os usuários e contribuir para o funcionamento do ambiente tecnológico, com foco na conectividade e no suporte às redes da empresa."
-          },
-          {
-            "tipo": "texto",
-            "texto": "A atuação envolverá atendimento de chamados, diagnóstico de problemas em equipamentos e conexões e execução de rotinas de suporte, seguindo as prioridades da Coordenação de TI e os procedimentos estabelecidos."
-          },
-          {
-            "tipo": "texto",
-            "texto": "Valorizamos uma base técnica consistente, organização, boa comunicação e disposição para aprender. Os conhecimentos específicos nos equipamentos e nas ferramentas utilizados pela empresa poderão ser desenvolvidos durante a integração e a atuação na função."
-          },
-          {
-            "tipo": "subtitulo",
-            "texto": "Principais responsabilidades"
-          },
-          {
-            "tipo": "texto",
-            "texto": "- Atender, registrar e acompanhar chamados de suporte, mantendo os usuários informados sobre o andamento das solicitações."
-          },
-          {
-            "tipo": "texto",
-            "texto": "- Diagnosticar e solucionar problemas de conectividade em redes cabeadas, redes sem fio e acesso à internet."
-          },
-          {
-            "tipo": "texto",
-            "texto": "- Prestar suporte a computadores, periféricos, sistemas operacionais e aplicativos utilizados pelos colaboradores."
-          },
-          {
-            "tipo": "texto",
-            "texto": "- Instalar e configurar equipamentos e softwares, seguindo os padrões e as autorizações da empresa."
-          },
-          {
-            "tipo": "texto",
-            "texto": "- Realizar testes de conexão e verificar configurações de endereçamento IP, DNS, DHCP e acesso à rede."
-          },
-          {
-            "tipo": "texto",
-            "texto": "- Executar configurações básicas e verificações em switches, roteadores e pontos de acesso, conforme capacitação e procedimentos definidos."
-          },
-          {
-            "tipo": "texto",
-            "texto": "- Acompanhar falhas de conexão e chamados com operadoras e fornecedores."
-          },
-          {
-            "tipo": "texto",
-            "texto": "- Manter atualizados os registros de atendimento, o inventário de equipamentos e a documentação de rede."
-          },
-          {
-            "tipo": "texto",
-            "texto": "- Aplicar os procedimentos de segurança nas atividades de suporte e comunicar ocorrências suspeitas ao responsável por segurança da informação."
-          },
-          {
-            "tipo": "texto",
-            "texto": "- Encaminhar problemas que excedam sua capacidade de resolução, documentando os testes e as ações realizadas."
-          }
-        ]
-      },
-      {
-        "titulo": "Requisitos",
-        "blocos": [
-          {
-            "tipo": "subtitulo",
-            "texto": "Requisitos"
-          },
-          {
-            "tipo": "texto",
-            "texto": "- Formação técnica ou superior, em andamento ou concluída, em Tecnologia da Informação, Redes de Computadores ou áreas correlatas."
-          },
-          {
-            "tipo": "texto",
-            "texto": "- Experiência inicial em suporte de TI ou prática demonstrável por meio de cursos, projetos e laboratórios."
-          },
-          {
-            "tipo": "texto",
-            "texto": "- Conhecimentos básicos de manutenção e configuração de computadores, sistemas operacionais e aplicativos."
-          },
-          {
-            "tipo": "texto",
-            "texto": "- Conhecimentos básicos de TCP/IP, endereçamento IPv4, máscara de rede, gateway, DNS e DHCP."
-          },
-          {
-            "tipo": "texto",
-            "texto": "- Noções de switches, roteadores, redes sem fio e cabeamento estruturado."
-          },
-          {
-            "tipo": "texto",
-            "texto": "- Capacidade de investigar problemas, seguir procedimentos e registrar as soluções aplicadas."
-          },
-          {
-            "tipo": "texto",
-            "texto": "- Boa comunicação e atenção no atendimento aos usuários."
-          },
-          {
-            "tipo": "texto",
-            "texto": "- Organização para acompanhar chamados e disposição para aprender."
-          }
-        ]
-      },
-      {
-        "titulo": "Informações adicionais",
-        "blocos": [
-          {
-            "tipo": "subtitulo",
-            "texto": "Salário:"
-          },
-          {
-            "tipo": "texto",
-            "texto": "Compatível com o mercado."
-          },
-          {
-            "tipo": "item",
-            "texto": "🏥"
-          },
-          {
-            "tipo": "subtitulo",
-            "texto": "Assistência médica"
-          },
-          {
-            "tipo": "texto",
-            "texto": ";"
-          },
-          {
-            "tipo": "item",
-            "texto": "🦷"
-          },
-          {
-            "tipo": "subtitulo",
-            "texto": "Assistência odontológica"
-          },
-          {
-            "tipo": "texto",
-            "texto": "opcional;"
-          },
-          {
-            "tipo": "item",
-            "texto": "🛡️"
-          },
-          {
-            "tipo": "subtitulo",
-            "texto": "Seguro de vida"
-          },
-          {
-            "tipo": "texto",
-            "texto": ";"
-          },
-          {
-            "tipo": "item",
-            "texto": "🚌"
-          },
-          {
-            "tipo": "subtitulo",
-            "texto": "Vale-transporte"
-          },
-          {
-            "tipo": "texto",
-            "texto": ";"
-          },
-          {
-            "tipo": "item",
-            "texto": "🍽️"
-          },
-          {
-            "tipo": "subtitulo",
-            "texto": "Vale-refeição"
-          },
-          {
-            "tipo": "texto",
-            "texto": ";"
-          },
-          {
-            "tipo": "item",
-            "texto": "💪"
-          },
-          {
-            "tipo": "subtitulo",
-            "texto": "TotalPass"
-          },
-          {
-            "tipo": "texto",
-            "texto": ";"
-          },
-          {
-            "tipo": "item",
-            "texto": "🎓 Duas"
-          },
-          {
-            "tipo": "subtitulo",
-            "texto": "bolsas de estudo"
-          },
-          {
-            "tipo": "texto",
-            "texto": "integrais nos cursos de graduação e pós-graduação."
-          },
-          {
-            "tipo": "subtitulo",
-            "texto": "Local de trabalho:"
-          },
-          {
-            "tipo": "texto",
-            "texto": "Campus Liberdade"
-          },
-          {
-            "tipo": "subtitulo",
-            "texto": "Modalidade:"
-          },
-          {
-            "tipo": "texto",
-            "texto": "100% presencial"
-          },
-          {
-            "tipo": "subtitulo",
-            "texto": "Horário de trabalho:"
-          },
-          {
-            "tipo": "texto",
-            "texto": "2ª a 6ª das 08:00 ás 18:00 ou das 09:00 ás 19:00."
-          }
-        ]
-      }
-    ]
-  },
   "12891973": {
     "fonte": "html",
     "secoes": [
@@ -5499,6 +4871,320 @@
           {
             "tipo": "texto",
             "texto": "🐶 Convênio para pets."
+          }
+        ]
+      }
+    ]
+  },
+  "12950341": {
+    "fonte": "texto",
+    "secoes": [
+      {
+        "titulo": "Responsabilidades",
+        "blocos": [
+          {
+            "tipo": "item",
+            "texto": "Atendimento e Triagem: Realizar o registro, classificação de prioridade e triagem de incidentes e solicitações, executando o diagnóstico inicial e aplicando procedimentos padrão conforme o SLA.🔹 Suporte Técnico (Remoto e Presencial): Solucionar falhas comuns de hardware, software, impressoras, periféricos, conectividade Wi-Fi e VPN, validando cada solução junto ao usuário final.🔹 Gestão de Acessos e Serviços: Atender requisições de instalação de softwares, configurações de e-mail e políticas, além de atuar na criação, desbloqueio, recuperação de senhas e gestão simples de permissões.🔹 Governança e Escalonamento: Manter o usuário atualizado sobre o status dos chamados, identificar demandas complexas que exigem níveis superiores e realizar o escalonamento com notas técnicas claras.🔹 Gestão de Ativos e Segurança: Registrar e atualizar o inventário de hardware e software (acompanhando entregas e devoluções), além de aplicar políticas de segurança (senhas, MFA e orientação preventiva contra phishing).🔹 Monitoramento e Base de Conhecimento: Acompanhar alertas básicos para detecção rápida de incidentes, registrar métricas de atendimento e criar artigos técnicos simples para alimentar a base de conhecimento."
+          },
+          {
+            "tipo": "item",
+            "texto": "Requisitos e qualificações✅ Vivência prática em rotinas de suporte técnico N1/N2 básico (presencial e remoto) e troubleshooting de incidentes.✅ Familiaridade consolidada com ferramentas corporativas de ITSM (como ServiceNow, Jira Service Management ou Zendesk) para gestão completa de tickets.✅ Conhecimento prático na configuração e suporte de Sistemas Operacionais Windows e macOS básicos (além de cenários simples em Linux), incluindo atualizações e drivers.✅ Domínio no suporte a suítes de produtividade e colaboração (Microsoft 365/Exchange, MS Office, Google Workspace e clientes de mensagens).✅ Experiência na administração básica de contas e diretórios (Active Directory e Azure AD) e uso de ferramentas de acesso remoto (TeamViewer, AnyDesk, Remote Desktop).✅ Noções estruturadas de redes e conectividade básica (Wi-Fi corporativo, VPN e configuração de impressoras em rede).✅ Vivência com controle de inventário/ativos de TI, leitura básica de alertas de monitoramento e boas práticas de segurança aplicadas ao usuário final."
+          }
+        ]
+      },
+      {
+        "titulo": "Informações adicionais",
+        "blocos": [
+          {
+            "tipo": "item",
+            "texto": "ESCALA: 12x36, em regime 100% presencial.🕑 HORÁRIO 07H00 ÀS 19H00 OU DAS 19H00 ÀS 07H00."
+          },
+          {
+            "tipo": "item",
+            "texto": "BENEFÍCIOS:🍽️ VALE-REFEIÇÃO: R$ 32,00 por dia trabalhado, através do Cartão Flash Benefícios.🚌 VALE-TRANSPORTE:Opcional, com desconto em folha de pagamento de 6% sobre o salário-base do colaborador.🏨 CONVÊNIO MÉDICO: Plano Amil, 100% custeado para o colaborador."
+          },
+          {
+            "tipo": "item",
+            "texto": "Extensivo a cônjuge e filhos até 24 anos, com desconto mensal e de coparticipação em folha, conforme política interna.🦷 CONVÊNIO ODONTOLÓGICO: Opcional, Plano Amil, com desconto em folha conforme o plano selecionado."
+          },
+          {
+            "tipo": "item",
+            "texto": "Extensivo a cônjuge e filhos até 24 anos, com desconto em folha.🛡️ SEGURO DE VIDA Cobertura corporativa para garantir a sua tranquilidade e a segurança da sua família.💪 TOTALPASS: Acesso a uma ampla rede de academias e estúdios de bem-estar, com plano extensível aos seus dependentes.🎓 UNIVERSIDADE ENGEMON Plataforma de cursos com certificados digitais, focada no seu desenvolvimento técnico e profissional.🍼 KIT NATALIDADE Um mimo preparado com carinho para celebrar a chegada do mais novo membro da sua família.🧸 AUXÍLIO CRECHE:Reembolso para filhos até 60 meses de acordo com a convenção coletiva vigente."
+          },
+          {
+            "tipo": "item",
+            "texto": "Para solicitar o auxílio é necessário enviar documento comprovatório.🧩 AUXÍLIO CRIANÇA EXCEPCIONAL Auxílio financeiro para filhos ou dependentes portadores de necessidades especiais, de acordo com a convenção coletiva vigente."
+          },
+          {
+            "tipo": "item",
+            "texto": "Para solicitar o auxílio é necessário enviar o laudo comprobatório."
+          }
+        ]
+      }
+    ]
+  },
+  "12947348": {
+    "fonte": "texto",
+    "secoes": [
+      {
+        "titulo": "Responsabilidades",
+        "blocos": [
+          {
+            "tipo": "item",
+            "texto": "Diagnosticar e solucionar problemas relacionados a software, sistemas operacionais, hardware, periféricos e configurações lógicas de computadores e estações de trabalho."
+          },
+          {
+            "tipo": "item",
+            "texto": "Prestar orientação aos usuários quanto à utilização de sistemas, aplicativos e equipamentos de tecnologia."
+          },
+          {
+            "tipo": "item",
+            "texto": "Realizar a instalação, configuração, manutenção, substituição, remanejamento e atualização de microcomputadores, monitores, tablets, scanners, impressoras locais e de rede, terminais de autoatendimento, equipamentos de controle de senhas e demais dispositivos de microinformática."
+          },
+          {
+            "tipo": "item",
+            "texto": "Atuar no suporte a equipamentos com sistemas operacionais Windows e macOS."
+          },
+          {
+            "tipo": "item",
+            "texto": "Instalar, configurar, atualizar e desinstalar softwares, incluindo aplicativos do pacote Microsoft Office."
+          },
+          {
+            "tipo": "item",
+            "texto": "Configurar certificados digitais e demais recursos necessários ao funcionamento dos equipamentos."
+          },
+          {
+            "tipo": "item",
+            "texto": "Prestar suporte básico a equipamentos de telefonia, redes e conectividade."
+          },
+          {
+            "tipo": "item",
+            "texto": "Atender e acompanhar demandas relacionadas a salas de reunião e sistemas de videoconferência, incluindo a execução de checklists e a verificação preventiva dos equipamentos."
+          },
+          {
+            "tipo": "item",
+            "texto": "Realizar movimentações internas de equipamentos e apoiar o controle de estoque de ativos de tecnologia."
+          },
+          {
+            "tipo": "item",
+            "texto": "Interagir com fornecedores para o acompanhamento e a resolução de chamados."
+          },
+          {
+            "tipo": "item",
+            "texto": "Trabalhar em conjunto com as equipes remotas de Infraestrutura, Redes e Segurança da Informação."
+          },
+          {
+            "tipo": "item",
+            "texto": "Atuar preventivamente na identificação de falhas de configuração, verificando clientes, versões, builds, políticas e demais parâmetros necessários para a estabilidade do ambiente."
+          }
+        ]
+      },
+      {
+        "titulo": "Requisitos",
+        "blocos": [
+          {
+            "tipo": "item",
+            "texto": "Conhecimento em ferramentas de ITSM e atendimento de chamados."
+          },
+          {
+            "tipo": "item",
+            "texto": "Conhecimento em suporte e configuração dos sistemas operacionais Windows e macOS."
+          },
+          {
+            "tipo": "item",
+            "texto": "Conhecimento geral em instalação, configuração e suporte a aplicações do pacote Microsoft Office."
+          },
+          {
+            "tipo": "item",
+            "texto": "Conhecimento em instalação e desinstalação de softwares."
+          },
+          {
+            "tipo": "item",
+            "texto": "Familiaridade com equipamentos e periféricos de microinformática, telefonia, redes e videoconferência."
+          },
+          {
+            "tipo": "item",
+            "texto": "Boa comunicação, organização, capacidade de atendimento ao usuário e trabalho em equipe."
+          },
+          {
+            "tipo": "item",
+            "texto": "Informações adicionais🍛 Vale-alimentação ou vale-refeição"
+          },
+          {
+            "tipo": "item",
+            "texto": "👨🏼‍🎓 Desconto em cursos, universidades e instituições de idiomas"
+          },
+          {
+            "tipo": "item",
+            "texto": "📚 Academia Stefanini — plataforma com cursos on-line, gratuitos, atualizados e com certificado"
+          },
+          {
+            "tipo": "item",
+            "texto": "🗣 Mentoring"
+          },
+          {
+            "tipo": "item",
+            "texto": "💉 Clube de vantagens para consultas e exames"
+          },
+          {
+            "tipo": "item",
+            "texto": "🏥 Assistência médica"
+          },
+          {
+            "tipo": "item",
+            "texto": "🦷 Assistência odontológica"
+          },
+          {
+            "tipo": "item",
+            "texto": "💰 Clube de vantagens e descontos nos melhores estabelecimentos"
+          },
+          {
+            "tipo": "item",
+            "texto": "🛫 Clube de viagens"
+          },
+          {
+            "tipo": "item",
+            "texto": "🐶 Convênio para pets."
+          }
+        ]
+      }
+    ]
+  },
+  "12900793": {
+    "fonte": "texto",
+    "secoes": [
+      {
+        "titulo": "Responsabilidades",
+        "blocos": [
+          {
+            "tipo": "item",
+            "texto": "Administrar e sustentar ambientes de infraestrutura on-premises e cloud, garantindo disponibilidade, desempenho, escalabilidade e segurança dos serviços de TI."
+          },
+          {
+            "tipo": "item",
+            "texto": "Atuar como especialista em redes e telecomunicações, administrando ambientes LAN, WAN, WLAN, SD-WAN, VPN, links de dados e equipamentos de rede, assegurando conectividade, alta disponibilidade e continuidade das operações."
+          },
+          {
+            "tipo": "item",
+            "texto": "Gerenciar servidores Windows e Linux, virtualização, armazenamento e serviços críticos, atuando na prevenção e resolução de incidentes complexos."
+          },
+          {
+            "tipo": "item",
+            "texto": "Implementar e administrar soluções em nuvem (AWS, Azure e OCI), apoiando arquiteturas híbridas, otimização de recursos e governança de custos."
+          },
+          {
+            "tipo": "item",
+            "texto": "Atuar na administração de plataformas Kubernetes e containers, assegurando a confiabilidade, automação e continuidade das aplicações e ambientes produtivos."
+          },
+          {
+            "tipo": "item",
+            "texto": "Desenvolver e manter automações, pipelines CI/CD e soluções de Infrastructure as Code (Terraform, Ansible e Git), promovendo eficiência operacional e padronização dos ambientes."
+          },
+          {
+            "tipo": "item",
+            "texto": "Implementar controles de segurança, monitoramento, backup e disaster recovery, garantindo conformidade, proteção dos dados e continuidade dos negócios."
+          },
+          {
+            "tipo": "item",
+            "texto": "Participar de projetos de evolução tecnológica, apoiando a definição de arquiteturas, gestão de fornecedores e atuando como referência técnica para a equipe de infraestrutura."
+          }
+        ]
+      },
+      {
+        "titulo": "Requisitos",
+        "blocos": [
+          {
+            "tipo": "item",
+            "texto": "Ensino superior completo em Tecnologia da Informação, Ciência da Computação, Engenharia da Computação ou áreas correlatas."
+          },
+          {
+            "tipo": "item",
+            "texto": "Experiência sólida em infraestrutura de TI, administração de servidores Windows e Linux, virtualização e ambientes híbridos."
+          },
+          {
+            "tipo": "item",
+            "texto": "Vivência com cloud computing (AWS, Azure e/ou OCI), redes corporativas e telecomunicações, incluindo firewalls, switches, roteadores e soluções de conectividade."
+          },
+          {
+            "tipo": "item",
+            "texto": "Conhecimento em Kubernetes, Docker, DevOps, CI/CD, Git e automação de infraestrutura utilizando Terraform, Ansible e scripts (PowerShell, Bash ou Python)."
+          },
+          {
+            "tipo": "item",
+            "texto": "Experiência com monitoramento, observabilidade, backup, Disaster Recovery, continuidade de negócios e gestão de incidentes críticos."
+          },
+          {
+            "tipo": "item",
+            "texto": "Conhecimento em segurança de infraestrutura, hardening, gestão de vulnerabilidades e boas práticas ITIL."
+          },
+          {
+            "tipo": "item",
+            "texto": "Vivência em projetos de infraestrutura, gestão técnica de fornecedores, acompanhamento de SLAs e elaboração de documentação técnica e arquitetural."
+          }
+        ]
+      },
+      {
+        "titulo": "Informações adicionais",
+        "blocos": [
+          {
+            "tipo": "item",
+            "texto": "⬇️ O que oferecemos 🏡 Sistema de trabalho MultiFlex – aqui você pode trabalhar de sua casa ou de onde quiser 2 vezes na semana."
+          },
+          {
+            "tipo": "item",
+            "texto": "🕗 Horário Flexível - temos flexibilidade para o horário de entrada e saída, desta forma, você organiza melhor no seu cotidiano."
+          },
+          {
+            "tipo": "item",
+            "texto": "👕 Sem Dress Code - você é livre para trabalhar como se sentir confortável no dia-a-dia, respeitando as demais pessoas que irão conviver junto a você."
+          },
+          {
+            "tipo": "item",
+            "texto": "🚗 Vale Transporte ou Estacionamento no local - você poderá vir para o escritório de transporte comum ou com seu veículo próprio tendo cobertura de 50% do estacionamento."
+          },
+          {
+            "tipo": "item",
+            "texto": "💳 Vale Refeição - disponibilizado no cartão Ticket. (R$ 885,28) 💳 Vale Alimentação - disponibilizado no cartão Ticket. ( R$ 434,60) 🏥 Assistência Médica e Odontológica - temos parceria com a SulAmérica, abrangência nacional, sem desconto de mensalidade para você e seus dependentes, apenas com coparticipação."
+          },
+          {
+            "tipo": "item",
+            "texto": "🧡 Seguro de Vida - também SulAmérica para você e sua família, com toda assistência em caso de acidente ou falecimento."
+          },
+          {
+            "tipo": "item",
+            "texto": "🦾Convênio Academia - por aqui colocamos a saúde em primeiro lugar, por isso temos parceria com o Gympass, que oferece diversas soluções de bem-estar para o nosso time!"
+          },
+          {
+            "tipo": "item",
+            "texto": "👶🏻 Auxílio Creche ou Acompanhante - as mamães que fazem parte do nosso time contam com auxilio creche ou reembolso de babá para seus filhos."
+          },
+          {
+            "tipo": "item",
+            "texto": "💲 Cooperativa de Crédito - temos a parceria com a Barracred para oferecer a você empréstimos consignados com juros abaixo dos praticados pelo mercado."
+          },
+          {
+            "tipo": "item",
+            "texto": "🛒 Clube de descontos - você terá acesso a Allya, que conecta mais de 30.000 estabelecimentos, oferecendo benefícios e vantagens financeiras, tudo de forma personalizada em uma única plataforma."
+          },
+          {
+            "tipo": "item",
+            "texto": "💰Bônus Anual - valorizamos o potencial das NOSsas pessoas, por isso reconhecemos anualmente o atingimento de metas."
+          },
+          {
+            "tipo": "item",
+            "texto": "🤝Parceria com SESC - visando o seu bem estar e de seus familiares, com atuação em todo o Brasil!"
+          },
+          {
+            "tipo": "item",
+            "texto": "👩👨 Licença Maternidade e Paternidade - aqui a nossa licença maternidade é estendida para 6 meses e a paternidade para 20 dias."
+          },
+          {
+            "tipo": "item",
+            "texto": "📚 Educa - NOSsa plataforma de universidade corporativa, voltada para o desenvolvimento e capacitação das NOSsas pessoas e clientes."
+          },
+          {
+            "tipo": "item",
+            "texto": "💬 Carreira além da hierarquia - nosso plano de desenvolvimento de carreira é claro para as NOSsas pessoas, por isso contamos com uma cultura de feedbacks"
           }
         ]
       }
